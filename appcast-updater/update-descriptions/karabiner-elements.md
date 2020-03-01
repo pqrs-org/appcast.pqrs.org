@@ -1,0 +1,5 @@
+-   ✨ New Features
+    -   `event_changed_if` and `event_changed_unless` has been added to `conditions`.
+-   ⚡️ Improvements
+    -   Improved sending f1-f12 keys in complex modification (e.g., "change command+e to f2") by ignoring media key mappings for these keys.
+    -   Improved uninstaller adding the kernel extension staging area clean up.
