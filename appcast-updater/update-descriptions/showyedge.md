@@ -1,0 +1,2 @@
+-   ⚡️ Improvements
+    -   Hardened Runtime (which is provided by macOS in order to improve security) has been enabled.
