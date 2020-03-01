@@ -1,7 +1,5 @@
 {
     "files.exclude": {
-        "sites/*/public/": true,
-        "sites/*/resources/": true,
-        "themes/docsy": true
+        "appcast-updater/binaries/": true
     }
 }
