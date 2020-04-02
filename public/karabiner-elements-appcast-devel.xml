@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 12.9.2</title>
+      <title>Version 12.9.3</title>
       <sparkle:minimumSystemVersion>10.12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v12.9.2 Update</h2>
+<h2>About v12.9.3 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -29,10 +29,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Tue, 18 Feb 2020 05:14:54 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.9.2.dmg"
-                 sparkle:version="12.9.2" length="8823850" type="application/octet-stream"
-                 sparkle:dsaSignature="MC0CFQDSkod/siJxP9kTP7+N0+KpOP8ZXwIUSXdx9FQTuU5QqpZtBdi5yRwUS5k="
+      <pubDate>Thu, 02 Apr 2020 13:14:44 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.9.3.dmg"
+                 sparkle:version="12.9.3" length="8867713" type="application/octet-stream"
+                 sparkle:dsaSignature="MC0CFQCBpAVxoVCu9tPb6O0wKUUY+XiGqgIUPLUiM2TFnphYg+0RkpKhNYUorfQ="
       />
     </item>
 
