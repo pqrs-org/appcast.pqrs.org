@@ -12,6 +12,7 @@ binariesdir="binaries/showyedge"
 latest_dmg=$(ruby scripts/get-latest.rb $binariesdir/ShowyEdge-*.dmg)
 version=$(echo $(basename $latest_dmg .dmg) | sed 's|ShowyEdge-||')
 length=$(ruby scripts/get-length.rb $latest_dmg)
+signature=$(sparkle/sign_update $latest_dmg)
 dsaSignature=$(sh scripts/sign_update.sh $latest_dmg $priv_pem)
 pubDate=$(ruby scripts/get-time.rb)
 
@@ -58,7 +59,8 @@ cat >>"$targetdir/showyedge-appcast-devel.xml.tmp" <<EOF
       </description>
       <pubDate>$pubDate</pubDate>
       <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-$version.dmg"
-                 sparkle:version="$version" length="$length" type="application/octet-stream"
+                 sparkle:version="$version" type="application/octet-stream"
+                 $signature
                  sparkle:dsaSignature="$dsaSignature"
       />
     </item>
