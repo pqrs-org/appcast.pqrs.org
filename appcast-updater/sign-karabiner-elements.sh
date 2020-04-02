@@ -6,7 +6,7 @@ cd "$basedir"
 priv_pem="secret/karabiner_elements_priv.pem"
 . scripts/check-priv_pem.sh
 
-targetdir="../sites/karabiner-elements/static/files"
+targetdir="../public"
 binariesdir="binaries/karabiner-elements"
 
 latest_dmg=$(ruby scripts/get-latest.rb $binariesdir/Karabiner-Elements-*.dmg)
@@ -69,15 +69,6 @@ EOF
 
 mv "$targetdir/karabiner-elements-appcast-devel.xml.tmp" "$targetdir/karabiner-elements-appcast-devel.xml"
 chmod 644 "$targetdir/karabiner-elements-appcast-devel.xml"
-
-#
-# Copy files to public directory
-#
-
-publicdir="../sites/karabiner-elements/public/files/"
-
-cp "$targetdir/karabiner-elements-appcast-devel.xml" "$publicdir/karabiner-elements-appcast-devel.xml"
-chmod 644 "$publicdir/karabiner-elements-appcast-devel.xml"
 
 echo \
   '\033[33;40m' \
