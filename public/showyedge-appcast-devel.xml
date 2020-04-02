@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 3.7.1</title>
+      <title>Version 3.7.2</title>
       <sparkle:minimumSystemVersion>10.9.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v3.7.1 Update</h2>
+<h2>About v3.7.2 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
@@ -23,10 +23,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Thu, 26 Dec 2019 03:14:57 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-3.7.1.dmg"
-                 sparkle:version="3.7.1" length="2823141" type="application/octet-stream"
-                 sparkle:dsaSignature="MC4CFQCGhRUpOQBuy/dKdiagIIgcCYmwTwIVAJVgXhktXfZK2WDkVaT8uR/Y/VqM"
+      <pubDate>Thu, 02 Apr 2020 13:43:28 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-3.7.2.dmg"
+                 sparkle:version="3.7.2" length="2824890" type="application/octet-stream"
+                 sparkle:dsaSignature="MCwCFAgIXYNRndcq70o2v/nnaHop7KApAhRLKS6LcrvF3pGoZZJR39ervv/PbA=="
       />
     </item>
 

@@ -34,7 +34,7 @@ cat >>"$targetdir/showyedge-appcast-devel.xml.tmp" <<EOF
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>ShowyEdge Changelog</title>
-    <link>https://appcast.pqrs.org/showyedge-appcast.xml</link>
+    <link>https://appcast.pqrs.org/showyedge-appcast-devel.xml</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
 
