@@ -1,2 +1,4 @@
 -   ⚡️ Improvements
-    -   URL of appcast.xml has been updated.
+    -   "Check for updates" has been improved.
+        -   Updated Sparkle signing to EdDSA (ed25519) from DSA.
+        -   URL of appcast.xml has been updated.
