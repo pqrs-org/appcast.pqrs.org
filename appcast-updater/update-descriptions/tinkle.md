@@ -1,2 +1,2 @@
 -   ✨ New Features
-    -   First release.
+    -   Added an icon to menu bar.
