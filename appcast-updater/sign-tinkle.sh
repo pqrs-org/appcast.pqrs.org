@@ -30,7 +30,7 @@ cat >>"$targetdir/tinkle-appcast-devel.xml.tmp" <<EOF
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Tinkle Changelog</title>
-    <link>https://appcast.pqrs.org/tinkle-appcast.xml</link>
+    <link>https://appcast.pqrs.org/tinkle-appcast-devel.xml</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
 
