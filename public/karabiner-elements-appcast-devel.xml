@@ -35,11 +35,11 @@
 </p>
 ]]>
       </description>
-      <pubDate>Sat, 25 Apr 2020 12:59:17 -0000</pubDate>
+      <pubDate>Sat, 25 Apr 2020 13:02:38 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.9.5.dmg"
-                 sparkle:version="12.9.5" length="8758083" type="application/octet-stream"
+                 sparkle:version="12.9.5" type="application/octet-stream"
                  sparkle:edSignature="zS5wT/HFkOegCMDLy0enyGVwgR8EUDLKxgiKKy0PBj6TFcxY3N7PDEn9ss2BB+Fbt257Ow/hCRD7TUJAJmeJDA==" length="8758083"
-                 sparkle:dsaSignature="MCwCFFptNi1U6yWMujfsdAxRHaW6tBdGAhRX1RTxlR3x1uSXdvGTkD7jBm/Rqw=="
+                 sparkle:dsaSignature="MCwCFH3PRIQRMoNHb2eeLWoDbd1Nu/WHAhQAj76BHfgvc+Rrr+yeIHA2uEj79A=="
       />
     </item>
 
