@@ -3,3 +3,6 @@
 -   ⚡️ Improvements
     -   Improved sending f1-f12 keys in complex modification (e.g., "change command+e to f2") by ignoring media key mappings for these keys.
     -   Improved uninstaller adding the kernel extension staging area clean up.
+    -   "Check for updates" has been improved.
+        -   Updated Sparkle signing to EdDSA (ed25519) from DSA.
+        -   URL of appcast.xml has been updated.
