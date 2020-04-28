@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 12.9.5</title>
+      <title>Version 12.9.6</title>
       <sparkle:minimumSystemVersion>10.12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v12.9.5 Update</h2>
+<h2>About v12.9.6 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -22,6 +22,7 @@
 <ul>
 <li>Improved sending f1-f12 keys in complex modification (e.g., &ldquo;change command+e to f2&rdquo;) by ignoring media key mappings for these keys.</li>
 <li>Improved uninstaller adding the kernel extension staging area clean up.</li>
+<li>Improved complex modifications json checker.</li>
 <li>&ldquo;Check for updates&rdquo; has been improved.
 
 <ul>
@@ -35,11 +36,11 @@
 </p>
 ]]>
       </description>
-      <pubDate>Sat, 25 Apr 2020 13:02:38 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.9.5.dmg"
-                 sparkle:version="12.9.5" type="application/octet-stream"
-                 sparkle:edSignature="zS5wT/HFkOegCMDLy0enyGVwgR8EUDLKxgiKKy0PBj6TFcxY3N7PDEn9ss2BB+Fbt257Ow/hCRD7TUJAJmeJDA==" length="8758083"
-                 sparkle:dsaSignature="MCwCFH3PRIQRMoNHb2eeLWoDbd1Nu/WHAhQAj76BHfgvc+Rrr+yeIHA2uEj79A=="
+      <pubDate>Tue, 28 Apr 2020 14:06:05 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.9.6.dmg"
+                 sparkle:version="12.9.6" type="application/octet-stream"
+                 sparkle:edSignature="O/lKpYi4a+PbSiK6vZ27JIpltNFvNnmVLfRfwUoLUG+JSqS2xhisDidDPB1aVBJw9LI67fP0eNDLnJorh8ctBA==" length="8750371"
+                 sparkle:dsaSignature="MC4CFQD0TFb+2d0A/CrGpR1e1PKzJRHtywIVAJNyVZaWZVy6p0WOJBujWqG0llrT"
       />
     </item>
 
