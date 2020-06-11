@@ -53,7 +53,7 @@ blackfriday-tool update-descriptions/karabiner-elements.md >>"$targetdir/karabin
 
 cat >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp" <<EOF
 <p>
-  <a href="https://pqrs.org/osx/karabiner/history.html">More</a>
+  <a href="https://karabiner-elements.pqrs.org/docs/releasenotes/">More</a>
 </p>
 ]]>
       </description>
