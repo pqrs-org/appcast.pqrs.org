@@ -7,10 +7,20 @@
     <language>en</language>
 
     <item>
-      <title>Version 12.9.90</title>
+      <title>Version 12.10.0</title>
       <sparkle:minimumSystemVersion>10.12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v12.9.90 Update</h2>
+<h2>About v12.10.0 Update</h2>
+<h2>About Legacy System Extension alert</h2>
+
+<p>This release still uses the kernel extension (aka legacy system extension), so the following alert will be shown.
+<img src="https://karabiner-elements.pqrs.org/docs/manual/misc/legacy-system-extension/images/legacy-system-extension@2x.png" style="max-width: 420px"></p>
+
+<p>We are working to migrate to a newer mechanism, DriverKit, from kernel extension and we plan to support it at Karabiner-Elements 13.0.0.
+It will take a little more time. Please wait.</p>
+
+<h2>Changes</h2>
+
 <ul>
 <li>✨ New Features
 
@@ -37,11 +47,11 @@
 </p>
 ]]>
       </description>
-      <pubDate>Wed, 24 Jun 2020 15:29:45 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.9.90.dmg"
-                 sparkle:version="12.9.90" type="application/octet-stream"
-                 sparkle:edSignature="FA8+e4d594OkyF9A53bFK22tmkbcFloY2YTRR4aWxuLcwkd204CUQXC5N1CKVOsEZYVjg1EQVNYP1WdJnsIZBQ==" length="9211173"
-                 sparkle:dsaSignature="MC0CFQDeqhVdRi7dddPsXWQevC2jCYAaDwIUb0seoN9Ka4d25sJUfAFIMUYSg3k="
+      <pubDate>Sat, 27 Jun 2020 08:43:30 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v12.10.0/Karabiner-Elements-12.10.0.dmg"
+                 sparkle:version="12.10.0" type="application/octet-stream"
+                 sparkle:edSignature="byhWkontzvqNRqqgQjfyYYYa7ttAzsC/Kwbp/7muTfN2Z1GXGdy8siuWridysUjua8cvM5AfZ57y8KNZTTUMCg==" length="9217656"
+                 sparkle:dsaSignature="MC0CFCWPIRVNFQh4+NOnd74e4Js0Y2YjAhUAnOU9pIrJ3GgAIubpQzbcDqMOfHk="
       />
     </item>
 
