@@ -7,49 +7,52 @@
     <language>en</language>
 
     <item>
-      <title>Version 12.9.0</title>
+      <title>Version 12.10.0</title>
       <sparkle:minimumSystemVersion>10.12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<style>
-.update-description-item{margin:10px 0;padding:0;border-radius:0.25em;border-width:1.5em 1px 1px 1px;border-style:solid}.update-description-label{margin:-1.5em 0 0 0.5em;padding:0;font-size:75%;font-weight:700;line-height:1;color:#fff}.update-description .update-description-body{margin:0.2em 1em;padding:1em 1em 0.5em 1em}.update-description .update-description-body img.img{width:100%}.update-description .update-description-body ul{padding-left:2em}.update-description .update-description-body>ul{margin:0;padding:0}.update-description-item-new{border-color:#dff2fc}.update-description-item-new .update-description-label:before{content:'new';color:#337ab7}.update-description-item-important{border-color:#feeeed}.update-description-item-important .update-description-label:before{content:'important';color:#d9534f}.update-description-item-fixed{border-color:#cae5cd}.update-description-item-fixed .update-description-label:before{content:'fixed';color:#184212}.update-description-item-improved{border-color:#f4dda5}.update-description-item-improved .update-description-label:before{content:'improved';color:#cd6118}
-/*# sourceMappingURL=sparkle.css.map */
-</style>
+<h2>About v12.10.0 Update</h2>
+<h2>About Legacy System Extension alert</h2>
 
-<h2>About v12.9.0 Update</h2>
+<p>This release still uses the kernel extension (aka legacy system extension), so the following alert will be shown.
+<img src="https://karabiner-elements.pqrs.org/docs/manual/misc/legacy-system-extension/images/legacy-system-extension@2x.png" style="max-width: 420px; margin: 10px 0;"></p>
 
-<!-- update-description-begin -->
+<p>We are working to migrate to a newer mechanism, DriverKit, from kernel extension and we plan to support it at Karabiner-Elements 13.0.0.
+It will take a little more time. Please wait.</p>
+
+<h2>Changes</h2>
+
 <ul>
 <li>✨ New Features
 
 <ul>
-<li><code>Open config folder</code> button has been added into Preferences.<br>
-The feature provides <a href="https://pqrs.org/osx/karabiner/document.html#export">an easy way exporting configuration</a>.</li>
+<li><code>event_changed_if</code> and <code>event_changed_unless</code> has been added to <code>conditions</code>.</li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Added a workaround for non-dismissible <code>Device is ignored temporarily</code> alert
-which is caused by some devices that sends abnormal input events.</li>
-</ul></li>
-<li>🐛 Bug Fixes
+<li>Improved sending f1-f12 keys in complex modification (e.g., &ldquo;change command+e to f2&rdquo;) by ignoring media key mappings for these keys.</li>
+<li>Improved caps lock LED handling.</li>
+<li>Improved uninstaller adding the kernel extension staging area clean up.</li>
+<li>Improved complex modifications json checker.</li>
+<li>&ldquo;Check for updates&rdquo; has been improved.
 
 <ul>
-<li>Fixed <code>Add {key_code} to Karabiner-Elements</code> button on EventViewer for unnamed keys (raw number key codes).</li>
-<li>Fixed an issue that modifier flag events are not dispatched when changing pointing button while other character keys are pressed.<br>
-(e.g., when changing pointing_button::button3 -&gt; command+pointing_button::button1, command modifier is not sent when button1 is pressed while <code>t</code> key is also pressed.)</li>
+<li>Updated Sparkle signing to EdDSA (ed25519) from DSA.</li>
+<li>URL of appcast.xml has been updated.</li>
+</ul></li>
 </ul></li>
 </ul>
-<!-- update-description-end -->
 <p>
   <a href="https://karabiner-elements.pqrs.org/docs/releasenotes/">More</a>
 </p>
 ]]>
       </description>
-      <pubDate>Sat, 18 Jan 2020 13:01:54 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v12.9.0/Karabiner-Elements-12.9.0.dmg"
-                 sparkle:version="12.9.0" length="8817100" type="application/octet-stream"
-                 sparkle:dsaSignature="MC0CFQCTTO8Ow8Gx9B/vActicPOXBLV2kgIUVc/ciHTyLu+2QLP+pmiArVvXxV0="
-                 />
+      <pubDate>Sat, 27 Jun 2020 08:43:30 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v12.10.0/Karabiner-Elements-12.10.0.dmg"
+                 sparkle:version="12.10.0" type="application/octet-stream"
+                 sparkle:edSignature="byhWkontzvqNRqqgQjfyYYYa7ttAzsC/Kwbp/7muTfN2Z1GXGdy8siuWridysUjua8cvM5AfZ57y8KNZTTUMCg==" length="9217656"
+                 sparkle:dsaSignature="MC0CFCWPIRVNFQh4+NOnd74e4Js0Y2YjAhUAnOU9pIrJ3GgAIubpQzbcDqMOfHk="
+      />
     </item>
 
   </channel>
