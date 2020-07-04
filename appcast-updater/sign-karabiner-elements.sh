@@ -3,17 +3,12 @@
 basedir=$(dirname $0)
 cd "$basedir"
 
-priv_pem="secret/karabiner_elements_priv.pem"
-. scripts/check-priv_pem.sh
-
 targetdir="../public"
 binariesdir="binaries/karabiner-elements"
 
 latest_dmg=$(ruby scripts/get-latest.rb $binariesdir/Karabiner-Elements-*.dmg)
 version=$(echo $(basename $latest_dmg .dmg) | sed 's|Karabiner-Elements-||')
-length=$(ruby scripts/get-length.rb $latest_dmg)
 signature=$(sparkle/sign_update $latest_dmg)
-dsaSignature=$(sh scripts/sign_update.sh $latest_dmg $priv_pem)
 pubDate=$(ruby scripts/get-time.rb)
 
 if [ "$version" == $(ruby scripts/get-version.rb <"$targetdir/karabiner-elements-appcast-devel.xml") ]; then
@@ -61,7 +56,6 @@ cat >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp" <<EOF
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-$version.dmg"
                  sparkle:version="$version" type="application/octet-stream"
                  $signature
-                 sparkle:dsaSignature="$dsaSignature"
       />
     </item>
 
