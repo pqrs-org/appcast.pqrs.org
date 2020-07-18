@@ -7,24 +7,15 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.1.0</title>
+      <title>Version 1.1.1</title>
       <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v1.1.0 Update</h2>
+<h2>About v1.1.1 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
-<li>Added an icon to menu bar.</li>
-</ul></li>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>For open source user:
-
-<ul>
-<li>Fixed an issue that the built binary from source code requires code signing even if you want to run the binary only on your machine.</li>
-</ul></li>
+<li>Support both Intel-based Macs and Apple Silicon Macs.</li>
 </ul></li>
 </ul>
 <p>
@@ -32,10 +23,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Thu, 09 Apr 2020 12:33:54 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/v1.1.0/Tinkle-1.1.0.dmg"
-                 sparkle:version="1.1.0" type="application/octet-stream"
-                 sparkle:edSignature="B6INrhuRgH6MP+MgbgpDSiAgBU8EN9DlrUpGrhRapSXNC44xEmhm8N2/1D42Tgu1gYC4vWwYKL5Jae1V98qOAw==" length="3023212"
+      <pubDate>Sat, 18 Jul 2020 07:21:10 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-1.1.1.dmg"
+                 sparkle:version="1.1.1" type="application/octet-stream"
+                 sparkle:edSignature="mQ4nIIgM+kPSI/xHrFPk7u04y8HI5TzuZZBcTFtNUtbtVQXBoLaEkEJJ7h772xBZEAclCh6ZH7KK7FfFvxDjDQ==" length="3375732"
       />
     </item>
 
