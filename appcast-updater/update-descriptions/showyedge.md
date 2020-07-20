@@ -1,4 +1,4 @@
--   ⚡️ Improvements
-    -   "Check for updates" has been improved.
-        -   Updated Sparkle signing to EdDSA (ed25519) from DSA.
-        -   URL of appcast.xml has been updated.
+-   ✨ New Features
+    -   Supported both Intel-based Macs and Apple Silicon Macs.
+-   💥 Breaking changes
+    -   macOS 10.9 - 10.11 support has been dropped.

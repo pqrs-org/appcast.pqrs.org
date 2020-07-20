@@ -7,20 +7,20 @@
     <language>en</language>
 
     <item>
-      <title>Version 3.8.0</title>
-      <sparkle:minimumSystemVersion>10.9.0</sparkle:minimumSystemVersion>
+      <title>Version 3.8.1</title>
+      <sparkle:minimumSystemVersion>10.12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v3.8.0 Update</h2>
+<h2>About v3.8.1 Update</h2>
 <ul>
-<li>⚡️ Improvements
+<li>✨ New Features
 
 <ul>
-<li>&ldquo;Check for updates&rdquo; has been improved.
-
-<ul>
-<li>Updated Sparkle signing to EdDSA (ed25519) from DSA.</li>
-<li>URL of appcast.xml has been updated.</li>
+<li>Supported both Intel-based Macs and Apple Silicon Macs.</li>
 </ul></li>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 10.9 - 10.11 support has been dropped.</li>
 </ul></li>
 </ul>
 <p>
@@ -28,11 +28,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Sat, 04 Apr 2020 14:28:42 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v3.8.0/ShowyEdge-3.8.0.dmg"
-                 sparkle:version="3.8.0" type="application/octet-stream"
-                 sparkle:edSignature="hCW7uOLI8sTE9pwO2AOd/MzKrk0ACeGwrtQV24+Fqx2wkhzduQLgE2jEwTmOUCwA5AQX7c7e/pkfzP+FW3iVBQ==" length="2291805"
-                 sparkle:dsaSignature="MC0CFQCXR0lQ/0dyAMdqNFvXrUNJbSoT7AIUBW0/1A9TdLpxjR0ro/DMh6ja8N8="
+      <pubDate>Mon, 20 Jul 2020 14:50:17 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-3.8.1.dmg"
+                 sparkle:version="3.8.1" type="application/octet-stream"
+                 sparkle:edSignature="y+8PUc2SINYmN3t2bVaZWghP3y6gluzmidzIKjZavjwc3UskW66UUwKjzEJzPdQtce4pvZpgRLw1ASUVTAsfDw==" length="2738034"
       />
     </item>
 

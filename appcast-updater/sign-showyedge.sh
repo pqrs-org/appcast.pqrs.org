@@ -3,17 +3,12 @@
 basedir=$(dirname $0)
 cd "$basedir"
 
-priv_pem="secret/ShowyEdge_priv.pem"
-. scripts/check-priv_pem.sh
-
 targetdir="../public"
 binariesdir="binaries/showyedge"
 
 latest_dmg=$(ruby scripts/get-latest.rb $binariesdir/ShowyEdge-*.dmg)
 version=$(echo $(basename $latest_dmg .dmg) | sed 's|ShowyEdge-||')
-length=$(ruby scripts/get-length.rb $latest_dmg)
 signature=$(sparkle/sign_update $latest_dmg)
-dsaSignature=$(sh scripts/sign_update.sh $latest_dmg $priv_pem)
 pubDate=$(ruby scripts/get-time.rb)
 
 if [ "$version" == $(ruby scripts/get-version.rb <"$targetdir/showyedge-appcast-devel.xml") ]; then
@@ -41,7 +36,7 @@ cat >>"$targetdir/showyedge-appcast-devel.xml.tmp" <<EOF
 
     <item>
       <title>Version $version</title>
-      <sparkle:minimumSystemVersion>10.9.0</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 EOF
 
@@ -61,7 +56,6 @@ cat >>"$targetdir/showyedge-appcast-devel.xml.tmp" <<EOF
       <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-$version.dmg"
                  sparkle:version="$version" type="application/octet-stream"
                  $signature
-                 sparkle:dsaSignature="$dsaSignature"
       />
     </item>
 
