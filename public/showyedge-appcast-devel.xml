@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 3.8.2</title>
+      <title>Version 3.8.4</title>
       <sparkle:minimumSystemVersion>10.12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v3.8.2 Update</h2>
+<h2>About v3.8.4 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -28,10 +28,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Wed, 22 Jul 2020 13:26:13 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-3.8.2.dmg"
-                 sparkle:version="3.8.2" type="application/octet-stream"
-                 sparkle:edSignature="Ec04m5XWz3CJgaxzEEJDDxa422F6m30w5Zg3qyYUZOPFH7DU1ChNWgTQMHZ76VCWNkXJhpIMR0MayRQp2MzJBQ==" length="2737564"
+      <pubDate>Wed, 22 Jul 2020 14:49:03 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-3.8.4.dmg"
+                 sparkle:version="3.8.4" type="application/octet-stream"
+                 sparkle:edSignature="xmfCnW1isPiA7HjHICuIKfN+myg23En5lG6sxRXKvPL7gTkRDGJzAc6abTWEL3v+SN6k0WlbgyzpJbagSHvNAA==" length="2739415"
       />
     </item>
 
