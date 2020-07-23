@@ -1,4 +1,5 @@
 -   ✨ New Features
     -   Supported both Intel-based Macs and Apple Silicon Macs.
+    -   Added an icon to menu bar.
 -   💥 Breaking changes
     -   macOS 10.9 - 10.11 support has been dropped.
