@@ -7,6 +7,41 @@
     <language>en</language>
 
     <item>
+      <title>Version 4.0.0</title>
+      <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h2>About v4.0.0 Update</h2>
+<ul>
+<li>✨ New Features
+
+<ul>
+<li>Supported both Intel-based Macs and Apple Silicon Macs.</li>
+<li>Added an icon to menu bar.</li>
+</ul></li>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed <code>Hide indicator when full screen</code> when multiple displays are connected.</li>
+</ul></li>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 10.9 - 10.14 support has been dropped.</li>
+</ul></li>
+</ul>
+<p>
+  <a href="https://showyedge.pqrs.org/docs/releasenotes/">More</a>
+</p>
+]]>
+      </description>
+      <pubDate>Fri, 24 Jul 2020 06:12:29 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v4.0.0/ShowyEdge-4.0.0.dmg"
+                 sparkle:version="4.0.0" type="application/octet-stream"
+                 sparkle:edSignature="YYSJ4QWxIQJkAOJFHxA+N6G59kPV7lTcpJEmSFEB4uj8bXOuCY72Y+nhy9799I5GoTbpBEW9LEwoaHBX3/N9DQ==" length="2398637"
+      />
+    </item>
+
+    <item>
       <title>Version 3.8.0</title>
       <sparkle:minimumSystemVersion>10.9.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
