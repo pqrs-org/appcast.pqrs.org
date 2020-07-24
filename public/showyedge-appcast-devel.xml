@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 3.8.6</title>
+      <title>Version 3.8.7</title>
       <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v3.8.6 Update</h2>
+<h2>About v3.8.7 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -18,10 +18,15 @@
 <li>Supported both Intel-based Macs and Apple Silicon Macs.</li>
 <li>Added an icon to menu bar.</li>
 </ul></li>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed <code>Hide indicator when full screen</code> when multiple displays are connected.</li>
+</ul></li>
 <li>💥 Breaking changes
 
 <ul>
-<li>macOS 10.9 - 10.11 support has been dropped.</li>
+<li>macOS 10.9 - 10.14 support has been dropped.</li>
 </ul></li>
 </ul>
 <p>
@@ -29,10 +34,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Thu, 23 Jul 2020 16:00:07 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-3.8.6.dmg"
-                 sparkle:version="3.8.6" type="application/octet-stream"
-                 sparkle:edSignature="JN7M0vEHJL7QyywNpoKMy8U0xrSuREiNHkYjhQ+cWqm1COG+4LZPHKOS1anKIKZxK4tKy5Qcei8E/spxzG06Cg==" length="2398937"
+      <pubDate>Fri, 24 Jul 2020 05:44:52 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-3.8.7.dmg"
+                 sparkle:version="3.8.7" type="application/octet-stream"
+                 sparkle:edSignature="zq2PG36OFFuZT02rY9sIh78XvKPfB4KwVZpDjzXYK3ms0U60YSvLJs/sJmzVfqchfnmJkreb+ckU/WA8JrZYAw==" length="2397958"
       />
     </item>
 
