@@ -7,15 +7,21 @@
     <language>en</language>
 
     <item>
-      <title>Version 12.10.1</title>
+      <title>Version 12.10.2</title>
       <sparkle:minimumSystemVersion>10.12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v12.10.1 Update</h2>
+<h2>About v12.10.2 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
 <li>Improved preferences window messages.</li>
+<li>Partial support for comments in karabiner.json configuration file.
+
+<ul>
+<li>Supported reading json file with comments.</li>
+<li>Limitation: The json comments will be removed if you change the json from Preferences GUI or command line interface.</li>
+</ul></li>
 </ul></li>
 </ul>
 <p>
@@ -23,10 +29,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Sat, 04 Jul 2020 04:37:32 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.10.1.dmg"
-                 sparkle:version="12.10.1" type="application/octet-stream"
-                 sparkle:edSignature="uK6KzE9aNFw7qZNQHdayYDyftOi/QlB124jc6CrwEgQdQDg3u+aN+326xeRRzoRRom0w15LQegZtuSokTgfpAA==" length="9217680"
+      <pubDate>Sat, 22 Aug 2020 12:33:31 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.10.2.dmg"
+                 sparkle:version="12.10.2" type="application/octet-stream"
+                 sparkle:edSignature="xywZD3z6w/UsBPmQpnuvalCo1jHdL0lkkxbLjpMoHrPlNv7FzDXA/7decHu+/j7znva84e+TXq5o98ZkJDOODA==" length="8617462"
       />
     </item>
 
