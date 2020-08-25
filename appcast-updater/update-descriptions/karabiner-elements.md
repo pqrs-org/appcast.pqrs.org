@@ -1,3 +1,5 @@
+-   💥 Breaking changes
+    -   macOS 10.12 - 10.14 support has been dropped.
 -   ⚡️ Improvements
     -   Improved preferences window messages.
     -   Partial support for comments in karabiner.json configuration file.
