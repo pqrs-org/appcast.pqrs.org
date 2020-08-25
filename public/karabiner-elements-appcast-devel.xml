@@ -7,11 +7,16 @@
     <language>en</language>
 
     <item>
-      <title>Version 12.10.2</title>
-      <sparkle:minimumSystemVersion>10.12.0</sparkle:minimumSystemVersion>
+      <title>Version 12.10.3</title>
+      <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v12.10.2 Update</h2>
+<h2>About v12.10.3 Update</h2>
 <ul>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 10.12 - 10.14 support has been dropped.</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
@@ -29,10 +34,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Sat, 22 Aug 2020 12:33:31 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.10.2.dmg"
-                 sparkle:version="12.10.2" type="application/octet-stream"
-                 sparkle:edSignature="xywZD3z6w/UsBPmQpnuvalCo1jHdL0lkkxbLjpMoHrPlNv7FzDXA/7decHu+/j7znva84e+TXq5o98ZkJDOODA==" length="8617462"
+      <pubDate>Tue, 25 Aug 2020 10:25:29 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.10.3.dmg"
+                 sparkle:version="12.10.3" type="application/octet-stream"
+                 sparkle:edSignature="bwd21m7DRaAHtORk1eq46EcNbBMwECuPz8o4awPN9T7ibFWFIK8p3EYWRMfBCy/I0WRb9cjfZbbguhgZ3qzTCw==" length="8621557"
       />
     </item>
 
