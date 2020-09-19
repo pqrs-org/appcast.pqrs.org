@@ -7,15 +7,32 @@
     <language>en</language>
 
     <item>
-      <title>Version 12.10.4</title>
+      <title>Version 12.95.0</title>
       <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v12.10.4 Update</h2>
+<h2>About v12.95.0 Update</h2>
+<h2>Note</h2>
+
+<p>This release supports macOS Catalina (10.14) and macOS Big Sur (11.0).</p>
+
+<p>🍎🍎🍎 If you are using macOS Big Sur Beta, use the latest Big Sur Beta (Beta 7 or later). 🍎🍎🍎</p>
+
+<p>macOS Big Sur Beta 6 has an issue, and Karabiner-Elements will stop working after restarting your Mac due to the issue.</p>
+
+<h2>Release notes</h2>
+
 <ul>
 <li>💥 Breaking changes
 
 <ul>
 <li>macOS 10.12 - 10.14 support has been dropped.</li>
+</ul></li>
+<li>✨ New Features
+
+<ul>
+<li>Supported macOS Big Sur (11.0)</li>
+<li>Supported both Intel-based Macs and Apple Silicon Macs.</li>
+<li>Changed the virtual keyboard and mouse implementation to DriverKit from deprecated kernel extension.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -34,10 +51,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Wed, 26 Aug 2020 00:37:04 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.10.4.dmg"
-                 sparkle:version="12.10.4" type="application/octet-stream"
-                 sparkle:edSignature="4w2x9Yj7RdnhiD9jQi+sl4Ocox4iX0yEvv5Ub7+IfgwOQ7NJUbjFwFNSFzrAfFPDHGZhkaQX/i5oSHF2cIINCA==" length="8625146"
+      <pubDate>Sat, 19 Sep 2020 12:37:59 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.95.0.dmg"
+                 sparkle:version="12.95.0" type="application/octet-stream"
+                 sparkle:edSignature="VLbASSD8Wu33ivl0ABzkrj8//sYxPdpVd1fI4yvBSh2wn4tIhkJEY1dh+zFoKLtYy/6HS8BU27p3kyBJHVW8AA==" length="16543512"
       />
     </item>
 
