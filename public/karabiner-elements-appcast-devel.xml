@@ -17,7 +17,8 @@
 
 <p>🍎🍎🍎 If you are using macOS Big Sur Beta, use the latest Big Sur Beta (Beta 7 or later). 🍎🍎🍎</p>
 
-<p>macOS Big Sur Beta 6 has an issue, and Karabiner-Elements will stop working after restarting your Mac due to the issue.</p>
+<p>Old macOS Big Sur Beta (Beta 6) has an issue around DriverKit.<br/>
+Karabiner-Elements will stop working after restarting your Mac on macOS Big Sur Beta 6 due to the issue.</p>
 
 <h2>Release notes</h2>
 
@@ -51,7 +52,7 @@
 </p>
 ]]>
       </description>
-      <pubDate>Sun, 20 Sep 2020 14:15:33 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2020 08:16:04 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.95.2.dmg"
                  sparkle:version="12.95.2" type="application/octet-stream"
                  sparkle:edSignature="iHnsMw8OtHD/4qj9VQwkigQgfGrsaXIFsc8IyGjXgEmcDoSwuPSIjfscQjCxTUWYXZuDTs7aCD7bF+nGqVl4Bw==" length="16600856"
