@@ -4,7 +4,8 @@ This release supports macOS Catalina (10.14) and macOS Big Sur (11.0).
 
 🍎🍎🍎 If you are using macOS Big Sur Beta, use the latest Big Sur Beta (Beta 7 or later). 🍎🍎🍎
 
-macOS Big Sur Beta 6 has an issue, and Karabiner-Elements will stop working after restarting your Mac due to the issue.
+Old macOS Big Sur Beta (Beta 6) has an issue around DriverKit.<br/>
+Karabiner-Elements will stop working after restarting your Mac on macOS Big Sur Beta 6 due to the issue.
 
 ## Release notes
 
