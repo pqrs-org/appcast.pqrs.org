@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 12.95.2</title>
+      <title>Version 12.95.3</title>
       <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v12.95.2 Update</h2>
+<h2>About v12.95.3 Update</h2>
 <h2>Note</h2>
 
 <p>This release supports macOS Catalina (10.14) and macOS Big Sur (11.0).</p>
@@ -52,10 +52,10 @@ Karabiner-Elements will stop working after restarting your Mac on macOS Big Sur 
 </p>
 ]]>
       </description>
-      <pubDate>Mon, 21 Sep 2020 08:16:04 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.95.2.dmg"
-                 sparkle:version="12.95.2" type="application/octet-stream"
-                 sparkle:edSignature="iHnsMw8OtHD/4qj9VQwkigQgfGrsaXIFsc8IyGjXgEmcDoSwuPSIjfscQjCxTUWYXZuDTs7aCD7bF+nGqVl4Bw==" length="16600856"
+      <pubDate>Sun, 27 Sep 2020 15:04:29 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.95.3.dmg"
+                 sparkle:version="12.95.3" type="application/octet-stream"
+                 sparkle:edSignature="BYKtNnDM8/9YVi8tE4XLdeX1nWIi+N93r9DrXHexfZtW3YMtPtk02SP9kDLai5WuHfByQZjGz9KMJJFlzwmXAw==" length="16756502"
       />
     </item>
 
