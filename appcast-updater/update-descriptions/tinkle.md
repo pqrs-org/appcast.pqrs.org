@@ -1,4 +1,2 @@
--   ✨ New Features
-    -   Supported both Intel-based Macs and Apple Silicon Macs.
 -   ⚡️ Improvements
     -   Updated the app icon.
