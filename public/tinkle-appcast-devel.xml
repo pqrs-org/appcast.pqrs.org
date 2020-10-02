@@ -7,15 +7,16 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.2.2</title>
+      <title>Version 1.2.3</title>
       <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v1.2.2 Update</h2>
+<h2>About v1.2.3 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
 <li>Updated the app icon.</li>
+<li>Improved preferences window layout on macOS Big Sur.</li>
 </ul></li>
 </ul>
 <p>
@@ -23,10 +24,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Fri, 02 Oct 2020 13:03:52 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-1.2.2.dmg"
-                 sparkle:version="1.2.2" type="application/octet-stream"
-                 sparkle:edSignature="z21Ordb2TkCfLfvXJkpV2lpqQyu7Zgz6I4qnC8owz0je7tbsJuKbMc6KNRlpQMpCMB/HMz33QuOpElxtG5p3Aw==" length="3711543"
+      <pubDate>Fri, 02 Oct 2020 20:10:10 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-1.2.3.dmg"
+                 sparkle:version="1.2.3" type="application/octet-stream"
+                 sparkle:edSignature="4tm20FELZFJJDT6/GrNoOTDP1W5Dz28NBlQzhopd5IocT2I2vTRSridqpmFIfonu1tBItJ7vuJOnRphmI/yfBw==" length="3711554"
       />
     </item>
 
