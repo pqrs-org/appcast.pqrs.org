@@ -1,2 +1,3 @@
 -   ⚡️ Improvements
     -   Updated the app icon.
+    -   Improved preferences window layout on macOS Big Sur.
