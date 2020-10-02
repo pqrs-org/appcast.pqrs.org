@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.2.1</title>
+      <title>Version 1.2.2</title>
       <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v1.2.1 Update</h2>
+<h2>About v1.2.2 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
@@ -23,10 +23,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Thu, 01 Oct 2020 15:23:09 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-1.2.1.dmg"
-                 sparkle:version="1.2.1" type="application/octet-stream"
-                 sparkle:edSignature="0SbLp6gNK+BelWJMbN6inIm2ifuadLj/yfTBpVYzg5azD809YCglum4OL5Hayl3UTGN4WMdPgdT4WvfDWRpoDQ==" length="3706860"
+      <pubDate>Fri, 02 Oct 2020 13:03:52 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-1.2.2.dmg"
+                 sparkle:version="1.2.2" type="application/octet-stream"
+                 sparkle:edSignature="z21Ordb2TkCfLfvXJkpV2lpqQyu7Zgz6I4qnC8owz0je7tbsJuKbMc6KNRlpQMpCMB/HMz33QuOpElxtG5p3Aw==" length="3711543"
       />
     </item>
 
