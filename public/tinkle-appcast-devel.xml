@@ -7,14 +7,24 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.5.2</title>
+      <title>Version 1.6.0</title>
       <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v1.5.2 Update</h2>
+<h2>About v1.6.0 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
+<li>New effect colors:
+
+<ul>
+<li>Shock wave (light)</li>
+<li>Shock wave (gray)</li>
+<li>Shock wave (dark)</li>
+<li>Neon (light)</li>
+<li>Neon (gray)</li>
+<li>Neon (dark)</li>
+</ul></li>
 <li>Updated the app icon.</li>
 <li>Improved preferences window layout on macOS Big Sur.</li>
 </ul></li>
@@ -24,10 +34,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Sat, 03 Oct 2020 18:00:10 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-1.5.2.dmg"
-                 sparkle:version="1.5.2" type="application/octet-stream"
-                 sparkle:edSignature="KSI8f5Vsf945m0vkemG6TIMnTzXbyawLCHDwliwcDS7u+vV/4wcsqJZnenYwDpho2Bq3ue6KSgB4au1SJHZ8BQ==" length="3627858"
+      <pubDate>Sat, 03 Oct 2020 18:14:52 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/v1.6.0/Tinkle-1.6.0.dmg"
+                 sparkle:version="1.6.0" type="application/octet-stream"
+                 sparkle:edSignature="lo24VHRckg7EZuH1czK1pL8bpKO1EoJMztvz1uQng8lf138SXv9Ju9/qkSARdja3rPAXttWgTq+rm5FOLl62AA==" length="3628130"
       />
     </item>
 
