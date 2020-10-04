@@ -7,21 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 12.95.9</title>
+      <title>Version 13.0.0</title>
       <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v12.95.9 Update</h2>
-<h2>Note</h2>
-
-<p>This release supports macOS Catalina (10.14) and macOS Big Sur (11.0).</p>
-
-<p>🍎🍎🍎 If you are using macOS Big Sur Beta, use the latest Big Sur Beta (Beta 7 or later). 🍎🍎🍎</p>
-
-<p>Old macOS Big Sur Beta (Beta 6) has an issue around DriverKit.<br/>
-Karabiner-Elements will stop working after restarting your Mac on macOS Big Sur Beta 6 due to the issue.</p>
-
-<h2>Release notes</h2>
-
+<h2>About v13.0.0 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -52,10 +41,10 @@ Karabiner-Elements will stop working after restarting your Mac on macOS Big Sur 
 </p>
 ]]>
       </description>
-      <pubDate>Sun, 04 Oct 2020 11:06:20 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-12.95.9.dmg"
-                 sparkle:version="12.95.9" type="application/octet-stream"
-                 sparkle:edSignature="y0EdxZyWm8RWpKi2Zv/6Dk7tTNyc1NF8WRBw4yPhSs2X1wGpyk3J2yo0zV1oMCCjjV9jB/SJ3pUrc81ET3f+Ag==" length="16412449"
+      <pubDate>Sun, 04 Oct 2020 13:04:52 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v13.0.0/Karabiner-Elements-13.0.0.dmg"
+                 sparkle:version="13.0.0" type="application/octet-stream"
+                 sparkle:edSignature="h+BWQCif2zprVWcMrVW0D9LTPa0ee3hq+Xf17t1XOdD8TJWxmWK7bzZtyLrT7RvcPWBZWTw8RZpRS6NNZl2wCA==" length="16412567"
       />
     </item>
 
