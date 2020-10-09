@@ -8,7 +8,7 @@
 
     <item>
       <title>Version 13.0.0</title>
-      <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <h2>About v13.0.0 Update</h2>
 <ul>
