@@ -36,7 +36,7 @@ cat >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp" <<EOF
 
     <item>
       <title>Version $version</title>
-      <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
 EOF
 
