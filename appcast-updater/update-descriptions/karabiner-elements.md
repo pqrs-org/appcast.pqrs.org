@@ -1,11 +1,6 @@
--   💥 Breaking changes
-    -   macOS 10.12 - 10.14 support has been dropped.
--   ✨ New Features
-    -   Supported macOS Big Sur (11.0)
-    -   Supported both Intel-based Macs and Apple Silicon Macs.
-    -   Changed the virtual keyboard and mouse implementation to DriverKit from deprecated kernel extension.
--   ⚡️ Improvements
-    -   Improved preferences window messages.
-    -   Partial support for comments in karabiner.json configuration file.
-        -   Supported reading json file with comments.
-        -   Limitation: The json comments will be removed if you change the json from Preferences GUI or command line interface.
+-   🔔 Important Notes
+    -   Restarting macOS is required after upgrading from v13.0.0.<br />
+        The following alert will be shown after upgrade. Please follow the instructions.<br />
+        ![driver version not matched alert](https://karabiner-elements.pqrs.org/docs/releasenotes/images/v13.1.0/driver-version-not-matched-alert.png)
+-   🐛 Bug Fixes
+    -   Fixed an issue that Karabiner-DriverKit-VirtualHIDDevice might crash when caps lock key is pressed in some environments.
