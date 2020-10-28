@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.0.12</title>
+      <title>Version 13.0.13</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v13.0.12 Update</h2>
+<h2>About v13.0.13 Update</h2>
 <ul>
 <li>🔔 Important Notes
 
@@ -30,10 +30,10 @@ The following alert will be shown after upgrade. Please follow the instructions.
 </p>
 ]]>
       </description>
-      <pubDate>Sun, 25 Oct 2020 14:03:45 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.0.12.dmg"
-                 sparkle:version="13.0.12" type="application/octet-stream"
-                 sparkle:edSignature="uvisi+b8n3kbsDMWxZsLaUPArXxFlgshJ1ZmmnMOeDxiNO9Jmhwi43zpIY8mvSgdQfkNggvNMwbUOmVNg8/qAA==" length="16609050"
+      <pubDate>Wed, 28 Oct 2020 01:03:04 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.0.13.dmg"
+                 sparkle:version="13.0.13" type="application/octet-stream"
+                 sparkle:edSignature="73rNyTW80HKOJNiI/uXSOe7x6ewO/tyMJxdToeOhffnIzD+Xrvj/vTnVsWd6ldI5fZv5/zhoU2R6FDqP0LYjDw==" length="16609057"
       />
     </item>
 
