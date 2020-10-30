@@ -7,26 +7,20 @@
     <language>en</language>
 
     <item>
-      <title>Version 4.0.0</title>
+      <title>Version 4.0.1</title>
       <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v4.0.0 Update</h2>
+<h2>About v4.0.1 Update</h2>
 <ul>
-<li>✨ New Features
+<li>💥 Breaking changes
 
 <ul>
-<li>Supported both Intel-based Macs and Apple Silicon Macs.</li>
-<li>Added an icon to menu bar.</li>
+<li>The indicator height configuration has been changed to absolute px from the ratio of the menu bar.</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
 <ul>
-<li>Fixed <code>Hide indicator when full screen</code> when multiple displays are connected.</li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>macOS 10.9 - 10.14 support has been dropped.</li>
+<li>Fixed an issue that indicator is not shown when the menu bar is hidden.</li>
 </ul></li>
 </ul>
 <p>
@@ -34,10 +28,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Fri, 24 Jul 2020 06:12:29 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v4.0.0/ShowyEdge-4.0.0.dmg"
-                 sparkle:version="4.0.0" type="application/octet-stream"
-                 sparkle:edSignature="YYSJ4QWxIQJkAOJFHxA+N6G59kPV7lTcpJEmSFEB4uj8bXOuCY72Y+nhy9799I5GoTbpBEW9LEwoaHBX3/N9DQ==" length="2398637"
+      <pubDate>Fri, 30 Oct 2020 00:42:16 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-4.0.1.dmg"
+                 sparkle:version="4.0.1" type="application/octet-stream"
+                 sparkle:edSignature="CGQnQ07f1NbZ6W7ISS13eiZ9L8ujDiZT1Lqv6GAqtzDGlz1WmwZZYuLyORNj4LoFsz2eqE/6tK5/afnUy0plBA==" length="2395371"
       />
     </item>
 

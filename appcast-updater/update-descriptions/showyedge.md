@@ -1,7 +1,4 @@
--   ✨ New Features
-    -   Supported both Intel-based Macs and Apple Silicon Macs.
-    -   Added an icon to menu bar.
--   🐛 Bug Fixes
-    -   Fixed `Hide indicator when full screen` when multiple displays are connected.
 -   💥 Breaking changes
-    -   macOS 10.9 - 10.14 support has been dropped.
+    -   The indicator height configuration has been changed to absolute px from the ratio of the menu bar.
+-   🐛 Bug Fixes
+    -   Fixed an issue that indicator is not shown when the menu bar is hidden.
