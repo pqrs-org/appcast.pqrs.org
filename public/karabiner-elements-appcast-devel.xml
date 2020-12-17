@@ -20,7 +20,11 @@
 <li>💥 Breaking changes
 
 <ul>
-<li>Changed the default function of f4 key to <code>spotlight</code>.</li>
+<li>Changed the default function of f4 key to <code>spotlight</code>.
+
+<ul>
+<li>Note: This change will be applied when you create a new profile.</li>
+</ul></li>
 </ul></li>
 <li>✨ New Features
 
@@ -43,7 +47,7 @@
 </p>
 ]]>
       </description>
-      <pubDate>Thu, 17 Dec 2020 01:28:59 -0000</pubDate>
+      <pubDate>Thu, 17 Dec 2020 01:31:32 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.1.2.dmg"
                  sparkle:version="13.1.2" type="application/octet-stream"
                  sparkle:edSignature="VJeamU2FOhEGpHHyiuF58u/shUM3ha+8E3pldAjADpOoF5B7mD5ycJZbXxMWRn+2axGeJNqCK1e1+aLm/i5sDA==" length="16686866"
