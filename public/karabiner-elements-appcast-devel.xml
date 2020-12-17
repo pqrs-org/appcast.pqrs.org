@@ -7,11 +7,31 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.1.1</title>
+      <title>Version 13.1.2</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v13.1.1 Update</h2>
+<h2>About v13.1.2 Update</h2>
 <ul>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue that installer requires Rosetta 2 on Apple Silicon Macs.</li>
+</ul></li>
+<li>💥 Breaking changes
+
+<ul>
+<li>Changed the default function of f4 key to <code>spotlight</code>.</li>
+</ul></li>
+<li>✨ New Features
+
+<ul>
+<li>Added <code>apple_vendor_keyboard_key_code</code> and <code>apple_vendor_top_case_key_code</code> to event definitions.
+
+<ul>
+<li><a href="https://github.com/pqrs-org/Karabiner-Elements/blob/master/src/share/types/momentary_switch_event_details/apple_vendor_keyboard_key_code.hpp">apple_vendor_keyboard_key_code</a></li>
+<li><a href="https://github.com/pqrs-org/Karabiner-Elements/blob/master/src/share/types/momentary_switch_event_details/apple_vendor_top_case_key_code.hpp">apple_vendor_top_case_key_code</a></li>
+</ul></li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
@@ -23,10 +43,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Sun, 15 Nov 2020 16:09:26 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.1.1.dmg"
-                 sparkle:version="13.1.1" type="application/octet-stream"
-                 sparkle:edSignature="g1XlCPIzyrlOFPNKd19VjTbB3I5gTPtKjCoTetHzAklAuJYMMOCrGlCOfqIT4hGWflHHZAE0nRdnpnR1Nw8LBg==" length="16744198"
+      <pubDate>Thu, 17 Dec 2020 01:28:59 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.1.2.dmg"
+                 sparkle:version="13.1.2" type="application/octet-stream"
+                 sparkle:edSignature="VJeamU2FOhEGpHHyiuF58u/shUM3ha+8E3pldAjADpOoF5B7mD5ycJZbXxMWRn+2axGeJNqCK1e1+aLm/i5sDA==" length="16686866"
       />
     </item>
 
