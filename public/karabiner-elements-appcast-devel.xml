@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.1.5</title>
+      <title>Version 13.1.6</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v13.1.5 Update</h2>
+<h2>About v13.1.6 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -25,10 +25,17 @@
 <ul>
 <li>Note: This change will be applied when you create a new profile.</li>
 </ul></li>
+<li>The caps lock delay of Karabiner Virtual HID Keyboard has been removed.
+The state of caps lock will be changed immediately after you press the caps lock key.
+
+<ul>
+<li>Note: Restarting macOS may be required for this change to take effect.</li>
+</ul></li>
 </ul></li>
 <li>✨ New Features
 
 <ul>
+<li>Added <code>sticky_modifier</code> to event definitions.</li>
 <li>Added <code>apple_vendor_keyboard_key_code</code> and <code>apple_vendor_top_case_key_code</code> to event definitions.
 
 <ul>
@@ -47,10 +54,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Sun, 27 Dec 2020 13:32:39 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.1.5.dmg"
-                 sparkle:version="13.1.5" type="application/octet-stream"
-                 sparkle:edSignature="OrpWOhV5SWztyEEyneNU6Umb9IDC8tbHVbCKHGjYniEFc3dIERoYTwn6OwhGiT0l240L8GuXEDYXH6zCQ02pAw==" length="16711450"
+      <pubDate>Sun, 17 Jan 2021 14:39:36 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.1.6.dmg"
+                 sparkle:version="13.1.6" type="application/octet-stream"
+                 sparkle:edSignature="Lfe/y9SsIfiKEa7aszQC8BEQ8h4KHCdaDYsNY7hZ6XClHem5QAbjTjLj5aI2Pb3kB6VgfVd47V/fUvVcJNt3Cw==" length="16756489"
       />
     </item>
 
