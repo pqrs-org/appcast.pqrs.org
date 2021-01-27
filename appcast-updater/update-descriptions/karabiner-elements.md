@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Jan 27, 2021
 -   🐛 Bug Fixes
     -   Fixed an issue that installer requires Rosetta 2 on Apple Silicon Macs.
 -   💥 Breaking changes
@@ -8,7 +10,7 @@
         The state of caps lock will be changed immediately after you press the caps lock key.
         -   Note: Restarting macOS may be required for this change to take effect.
 -   ✨ New Features
-    -   Added `sticky_modifier` to event definitions.
+    -   Supported [`sticky modifier keys`](https://karabiner-elements.pqrs.org/docs/help/how-to/sticky-modifier-key/)
     -   Added `apple_vendor_keyboard_key_code` and `apple_vendor_top_case_key_code` to event definitions.
         -   [apple_vendor_keyboard_key_code](https://github.com/pqrs-org/Karabiner-Elements/blob/master/src/share/types/momentary_switch_event_details/apple_vendor_keyboard_key_code.hpp)
         -   [apple_vendor_top_case_key_code](https://github.com/pqrs-org/Karabiner-Elements/blob/master/src/share/types/momentary_switch_event_details/apple_vendor_top_case_key_code.hpp)
