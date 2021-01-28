@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.2.0</title>
+      <title>Version 13.2.1</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v13.2.0 Update</h2>
+<h2>About v13.2.1 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -27,16 +27,12 @@
 </ul></li>
 <li>Changed to Karabiner-Elements does not modify f1-f12 keys on touch bar.</li>
 <li>The caps lock delay of Karabiner Virtual HID Keyboard has been removed.
-The state of caps lock will be changed immediately after you press the caps lock key.
-
-<ul>
-<li>Note: Restarting macOS may be required for this change to take effect.</li>
-</ul></li>
+The state of caps lock will be changed immediately after you press the caps lock key.</li>
 </ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added <code>sticky_modifier</code> to event definitions.</li>
+<li>Supported <a href="https://karabiner-elements.pqrs.org/docs/help/how-to/sticky-modifier-key/"><code>sticky modifier keys</code></a></li>
 <li>Added <code>apple_vendor_keyboard_key_code</code> and <code>apple_vendor_top_case_key_code</code> to event definitions.
 
 <ul>
@@ -56,10 +52,10 @@ The state of caps lock will be changed immediately after you press the caps lock
 </p>
 ]]>
       </description>
-      <pubDate>Wed, 27 Jan 2021 15:05:28 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.2.0.dmg"
-                 sparkle:version="13.2.0" type="application/octet-stream"
-                 sparkle:edSignature="nZT8Qdh4+f698ou1Is4a+FYOK3BLkXf5Q22FqaXgYgPAUWGOeHnqJ5JbGFZWJwmM2ao/EJFf5j6/Dm8WYwiUDQ==" length="16822543"
+      <pubDate>Thu, 28 Jan 2021 16:10:23 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.2.1.dmg"
+                 sparkle:version="13.2.1" type="application/octet-stream"
+                 sparkle:edSignature="KprnuQc4WLT7DPf92SjG1rqCOrmjWXi39zEV4FgzoyPzkmQLsFxUZkyM6Lek2mkqXdRV7ourdHIZ1RYQtDL9Bg==" length="16823678"
       />
     </item>
 
