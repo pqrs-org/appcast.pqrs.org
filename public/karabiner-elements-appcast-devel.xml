@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.2.1</title>
+      <title>Version 13.3.0</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v13.2.1 Update</h2>
+<h2>About v13.3.0 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -52,10 +52,10 @@ The state of caps lock will be changed immediately after you press the caps lock
 </p>
 ]]>
       </description>
-      <pubDate>Thu, 28 Jan 2021 16:10:23 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.2.1.dmg"
-                 sparkle:version="13.2.1" type="application/octet-stream"
-                 sparkle:edSignature="KprnuQc4WLT7DPf92SjG1rqCOrmjWXi39zEV4FgzoyPzkmQLsFxUZkyM6Lek2mkqXdRV7ourdHIZ1RYQtDL9Bg==" length="16823678"
+      <pubDate>Fri, 29 Jan 2021 13:22:29 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v13.3.0/Karabiner-Elements-13.3.0.dmg"
+                 sparkle:version="13.3.0" type="application/octet-stream"
+                 sparkle:edSignature="n82EtZwOjRQP9j2C2OrNk4nywIt1d2EvCBDOTUdRFWSQb/8qFeEYPeyGhLRoCTHWC9TACcTX6xrM2MVxZD1LCw==" length="16823671"
       />
     </item>
 
