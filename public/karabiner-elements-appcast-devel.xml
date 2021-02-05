@@ -7,44 +7,15 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.3.0</title>
+      <title>Version 13.3.1</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v13.3.0 Update</h2>
+<h2>About v13.3.1 Update</h2>
 <ul>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed an issue that installer requires Rosetta 2 on Apple Silicon Macs.</li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>Changed the default function of f4 key to <code>spotlight</code>, f5 key to <code>dictation</code>, f6 key to <code>f6</code>.
-
-<ul>
-<li>Note: This change will be applied when you create a new profile.</li>
-</ul></li>
-<li>Changed to Karabiner-Elements does not modify f1-f12 keys on touch bar.</li>
-<li>The caps lock delay of Karabiner Virtual HID Keyboard has been removed.
-The state of caps lock will be changed immediately after you press the caps lock key.</li>
-</ul></li>
-<li>✨ New Features
-
-<ul>
-<li>Supported <a href="https://karabiner-elements.pqrs.org/docs/help/how-to/sticky-modifier-key/"><code>sticky modifier keys</code></a></li>
-<li>Added <code>apple_vendor_keyboard_key_code</code> and <code>apple_vendor_top_case_key_code</code> to event definitions.
-
-<ul>
-<li><a href="https://github.com/pqrs-org/Karabiner-Elements/blob/master/src/share/types/momentary_switch_event_details/apple_vendor_keyboard_key_code.hpp">apple_vendor_keyboard_key_code</a></li>
-<li><a href="https://github.com/pqrs-org/Karabiner-Elements/blob/master/src/share/types/momentary_switch_event_details/apple_vendor_top_case_key_code.hpp">apple_vendor_top_case_key_code</a></li>
-</ul></li>
-</ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Updated in-app screenshots to Big Sur.</li>
-<li>Added the close button to notification window.</li>
+<li>Changed to terminate virtual HID devices immediately after quit Karabiner-Elements.</li>
 </ul></li>
 </ul>
 <p>
@@ -52,10 +23,10 @@ The state of caps lock will be changed immediately after you press the caps lock
 </p>
 ]]>
       </description>
-      <pubDate>Fri, 29 Jan 2021 13:22:29 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v13.3.0/Karabiner-Elements-13.3.0.dmg"
-                 sparkle:version="13.3.0" type="application/octet-stream"
-                 sparkle:edSignature="n82EtZwOjRQP9j2C2OrNk4nywIt1d2EvCBDOTUdRFWSQb/8qFeEYPeyGhLRoCTHWC9TACcTX6xrM2MVxZD1LCw==" length="16823671"
+      <pubDate>Fri, 05 Feb 2021 00:28:36 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.3.1.dmg"
+                 sparkle:version="13.3.1" type="application/octet-stream"
+                 sparkle:edSignature="s9R+yXM6l7GrJOvbZklrC1QisfGWNEr/YVQr3reKgcUIKG/NK8tPdGZUUDNpyKbiqv03LdlwXEUC7Ulpr341AQ==" length="16880381"
       />
     </item>
 
