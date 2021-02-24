@@ -7,11 +7,16 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.3.1</title>
+      <title>Version 13.3.2</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v13.3.1 Update</h2>
+<h2>About v13.3.2 Update</h2>
 <ul>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue that Karabiner-Elements stops working with <code>virtual_hid_keyboard is not ready. Please wait for a while.</code> error message when you kill <code>karabiner_console_user_server</code> process manually.</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
@@ -23,10 +28,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Fri, 05 Feb 2021 00:28:36 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.3.1.dmg"
-                 sparkle:version="13.3.1" type="application/octet-stream"
-                 sparkle:edSignature="s9R+yXM6l7GrJOvbZklrC1QisfGWNEr/YVQr3reKgcUIKG/NK8tPdGZUUDNpyKbiqv03LdlwXEUC7Ulpr341AQ==" length="16880381"
+      <pubDate>Wed, 24 Feb 2021 15:27:34 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.3.2.dmg"
+                 sparkle:version="13.3.2" type="application/octet-stream"
+                 sparkle:edSignature="ZgUjiWl+5b/o7m3ZdIiPpgfq9R9i/gsdnibFp31O+vlG4mMdulRFE4zkl40ET7MDRCx813GLOif2GTIu3KonCA==" length="17504276"
       />
     </item>
 
