@@ -12,7 +12,6 @@
       <description><![CDATA[
 <h2>About v13.4.0 Update</h2>
 <ul>
-<li><a href="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v13.4.0/Karabiner-Elements-13.4.0.dmg">📦 Download</a></li>
 <li>📅 Release date
 
 <ul>
@@ -42,7 +41,7 @@ Please use macOS Big Sur 11.3 Beta or later versions if you are facing the kerne
 </p>
 ]]>
       </description>
-      <pubDate>Sun, 04 Apr 2021 13:24:02 -0000</pubDate>
+      <pubDate>Sun, 04 Apr 2021 13:26:09 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v13.4.0/Karabiner-Elements-13.4.0.dmg"
                  sparkle:version="13.4.0" type="application/octet-stream"
                  sparkle:edSignature="wZ5oOP2O5rNH7B0PHyeQ+NsoHEmqus+3nIJV/WmG+K7W63NkzhjHNEU1EdDMMgBw15/Cx/YwtgwbzGIXjAYrCA==" length="17923232"

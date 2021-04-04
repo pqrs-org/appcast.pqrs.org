@@ -1,4 +1,3 @@
--   [📦 Download](https://github.com/pqrs-org/Karabiner-Elements/releases/download/v13.4.0/Karabiner-Elements-13.4.0.dmg)
 -   📅 Release date
     -   Apr 4, 2021
 -   🐛 Bug Fixes
