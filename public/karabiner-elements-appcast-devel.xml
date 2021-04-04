@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.3.90</title>
+      <title>Version 13.4.0</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v13.3.90 Update</h2>
+<h2>About v13.4.0 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -22,16 +22,26 @@
 <ul>
 <li>Changed to terminate virtual HID devices immediately after quit Karabiner-Elements.</li>
 </ul></li>
+
+<li><p>🔔 Notes for Mac computers with Apple Silicon (Apple M1) users</p>
+
+<ul>
+<li><p>macOS Big Sur 11.2 or earlier have an issue within memory management and HID device handling that causes kernel panics on Mac computers with Apple Silicon.
+The virtual device that is used internally by Karabiner-Elements triggers this issue, and a kernel panic might be caused at macOS shutdown.</p>
+
+<p>We confirmed that this issue has been fixed in <a href="https://beta.apple.com/sp/betaprogram/">macOS Big Sur 11.3 Beta</a>.
+Please use macOS Big Sur 11.3 Beta or later versions if you are facing the kernel panic issue.</p></li>
+</ul></li>
 </ul>
 <p>
   <a href="https://karabiner-elements.pqrs.org/docs/releasenotes/">More</a>
 </p>
 ]]>
       </description>
-      <pubDate>Sun, 04 Apr 2021 11:30:06 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.3.90.dmg"
-                 sparkle:version="13.3.90" type="application/octet-stream"
-                 sparkle:edSignature="C3KLiQmEFZ+Xk2j1pocHA2FjzZY4yfipXyh8T50foy+BGlU5tTuMBGwXoiBQqagfvOsVIJnpk3MkrLSqjCakBA==" length="17976815"
+      <pubDate>Sun, 04 Apr 2021 13:15:28 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.4.0.dmg"
+                 sparkle:version="13.4.0" type="application/octet-stream"
+                 sparkle:edSignature="wZ5oOP2O5rNH7B0PHyeQ+NsoHEmqus+3nIJV/WmG+K7W63NkzhjHNEU1EdDMMgBw15/Cx/YwtgwbzGIXjAYrCA==" length="17923232"
       />
     </item>
 
