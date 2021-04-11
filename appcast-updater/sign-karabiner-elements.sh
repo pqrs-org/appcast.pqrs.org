@@ -38,6 +38,7 @@ cat >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp" <<EOF
       <title>Version $version</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
+<div style="font-size: 14px">
 EOF
 
 cat >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp" <<EOF
@@ -50,6 +51,7 @@ cat >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp" <<EOF
 <p>
   <a href="https://karabiner-elements.pqrs.org/docs/releasenotes/">More</a>
 </p>
+</div>
 ]]>
       </description>
       <pubDate>$pubDate</pubDate>
