@@ -10,6 +10,7 @@
       <title>Version 13.4.3</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
+<div style="font-size: 14px">
 <h2>About v13.4.3 Update</h2>
 <ul>
 <li>⚡️ Improvements
@@ -21,9 +22,10 @@
 <p>
   <a href="https://karabiner-elements.pqrs.org/docs/releasenotes/">More</a>
 </p>
+</div>
 ]]>
       </description>
-      <pubDate>Sun, 11 Apr 2021 15:54:55 -0000</pubDate>
+      <pubDate>Sun, 11 Apr 2021 16:02:56 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.4.3.dmg"
                  sparkle:version="13.4.3" type="application/octet-stream"
                  sparkle:edSignature="eCe5j0/Kdj/Yn4XcnU/ZO/N7p8b31WHFc79EKj4LVyyLXGlj8oOAP/6NFbJ5A/OalCcwLmEAVFrUwWWbAYlsCw==" length="17593126"
