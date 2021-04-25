@@ -7,16 +7,17 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.4.3</title>
+      <title>Version 13.4.4</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <div style="font-size: 14px">
-<h2>About v13.4.3 Update</h2>
+<h2>About v13.4.4 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
 <li>Improved Karabiner-Elements tmp directory handling to reduce the frequency of mds process accessing it.</li>
+<li>Several Objective-C code around GUI has been rewritten in Swift + SwiftUI.</li>
 </ul></li>
 </ul>
 <p>
@@ -25,10 +26,10 @@
 </div>
 ]]>
       </description>
-      <pubDate>Sun, 11 Apr 2021 16:02:56 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.4.3.dmg"
-                 sparkle:version="13.4.3" type="application/octet-stream"
-                 sparkle:edSignature="eCe5j0/Kdj/Yn4XcnU/ZO/N7p8b31WHFc79EKj4LVyyLXGlj8oOAP/6NFbJ5A/OalCcwLmEAVFrUwWWbAYlsCw==" length="17593126"
+      <pubDate>Sun, 25 Apr 2021 15:06:51 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.4.4.dmg"
+                 sparkle:version="13.4.4" type="application/octet-stream"
+                 sparkle:edSignature="ijgunjuoe0zkPj4/AKlgvcpjqFJMw3gYQ+ZQjaet1SjjaJxXA8hCOFTEj2F5m2Pc1UuYLIs9muX9JVH/qd5zCQ==" length="17767616"
       />
     </item>
 
