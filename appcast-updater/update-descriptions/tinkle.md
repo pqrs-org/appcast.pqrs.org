@@ -1,10 +1,2 @@
 -   ⚡️ Improvements
-    -   New effect colors:
-        -   Shock wave (light)
-        -   Shock wave (gray)
-        -   Shock wave (dark)
-        -   Neon (light)
-        -   Neon (gray)
-        -   Neon (dark)
-    -   Updated the app icon.
-    -   Improved preferences window layout on macOS Big Sur.
+    -   Sparkle Framework has been updated.
