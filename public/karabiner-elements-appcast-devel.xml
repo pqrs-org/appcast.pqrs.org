@@ -7,16 +7,17 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.4.92</title>
+      <title>Version 13.4.93</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <div style="font-size: 14px">
-<h2>About v13.4.92 Update</h2>
+<h2>About v13.4.93 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
 <li>Improved temporary directory handling to reduce the frequency of mds process accessing it.</li>
+<li>Improved <code>mouse_key.speed_multiplier</code> handling when it is used with <code>to.modifiers</code>, the modifier is retained while speed_multiplier is active.</li>
 <li>Several Objective-C code around GUI has been rewritten in Swift + SwiftUI.</li>
 </ul></li>
 </ul>
@@ -26,10 +27,10 @@
 </div>
 ]]>
       </description>
-      <pubDate>Sun, 13 Jun 2021 15:23:30 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.4.92.dmg"
-                 sparkle:version="13.4.92" type="application/octet-stream"
-                 sparkle:edSignature="BMVHyAwQSvdQYvaXLcmgVUf+pOWEvXNRFqqRzQ3zC4NOfB4Wzygkn7jPp2JAP4SREAnOzQ2ZqdW9RKM2ONc9BQ==" length="17236507"
+      <pubDate>Fri, 18 Jun 2021 16:59:35 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.4.93.dmg"
+                 sparkle:version="13.4.93" type="application/octet-stream"
+                 sparkle:edSignature="1wv85nmOalxPi120eNNXRSn1AYOhd+fYkStFmw1RLIrpAvsaPHmhL3zmjGTfpYmZmKcBq4cdi27ImKHIImltBQ==" length="17236504"
       />
     </item>
 
