@@ -1,4 +1,6 @@
 -   ⚡️ Improvements
     -   Improved temporary directory handling to reduce the frequency of mds process accessing it.
     -   Improved `mouse_key.speed_multiplier` handling when it is used with `to.modifiers`, the modifier is retained while speed_multiplier is active.
+    -   The caps lock LED manipulation has been enabled by default.
+        -   Note: This change applies to newly connected keyboards.
     -   Several Objective-C code around GUI has been rewritten in Swift + SwiftUI.

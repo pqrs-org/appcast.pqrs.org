@@ -7,17 +7,22 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.4.94</title>
+      <title>Version 13.4.95</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
 <div style="font-size: 14px">
-<h2>About v13.4.94 Update</h2>
+<h2>About v13.4.95 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
 <li>Improved temporary directory handling to reduce the frequency of mds process accessing it.</li>
 <li>Improved <code>mouse_key.speed_multiplier</code> handling when it is used with <code>to.modifiers</code>, the modifier is retained while speed_multiplier is active.</li>
+<li>The caps lock LED manipulation has been enabled by default.
+
+<ul>
+<li>Note: This change applies to newly connected keyboards.</li>
+</ul></li>
 <li>Several Objective-C code around GUI has been rewritten in Swift + SwiftUI.</li>
 </ul></li>
 </ul>
@@ -27,10 +32,10 @@
 </div>
 ]]>
       </description>
-      <pubDate>Fri, 18 Jun 2021 18:49:52 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.4.94.dmg"
-                 sparkle:version="13.4.94" type="application/octet-stream"
-                 sparkle:edSignature="bK9ZMxFIvZCCdYYTAiueEV9ymfcutdj0NrBnqKmjO2eGSbtZTK7HZACoIYAdg3tnIcr62WuXJzPe9pm3T79zAQ==" length="17355336"
+      <pubDate>Sat, 19 Jun 2021 08:36:11 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.4.95.dmg"
+                 sparkle:version="13.4.95" type="application/octet-stream"
+                 sparkle:edSignature="GO3f1FMbcJAAsRGaA2YOm9T1s0/KruOSGfk+eJQsk8FGCZTQI9s0MUOV0Nw6+zFRDcBzocDgwFqSKqiBXi1xDA==" length="17355702"
       />
     </item>
 
