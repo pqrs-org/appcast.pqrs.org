@@ -13,7 +13,7 @@
 <body>
 <style>
 * {
-  font-size: 12px !important;
+  font-size: 14px !important;
 }
 </style>
 <h2>About v13.4.95 Update</h2>
@@ -38,7 +38,7 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 20 Jun 2021 09:47:23 -0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 10:59:05 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.4.95.dmg"
                  sparkle:version="13.4.95" type="application/octet-stream"
                  sparkle:edSignature="GO3f1FMbcJAAsRGaA2YOm9T1s0/KruOSGfk+eJQsk8FGCZTQI9s0MUOV0Nw6+zFRDcBzocDgwFqSKqiBXi1xDA==" length="17355702"
