@@ -7,44 +7,41 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.4.0</title>
+      <title>Version 13.5.0</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-<h2>About v13.4.0 Update</h2>
+      <description><![CDATA[<!DOCTYPE html>
+<body>
+<style>
+* {
+  font-size: 14px !important;
+}
+</style>
+<h2>About v13.5.0 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Apr 4, 2021</li>
-</ul></li>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed an issue that Karabiner-Elements stops working with <code>virtual_hid_keyboard is not ready. Please wait for a while.</code> error message when you kill <code>karabiner_console_user_server</code> process manually.</li>
-</ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Changed to terminate virtual HID devices immediately after quit Karabiner-Elements.</li>
+<li>Improved temporary directory handling to reduce the frequency of mds process accessing it.</li>
+<li>Improved <code>mouse_key.speed_multiplier</code> handling when it is used with <code>to.modifiers</code>, the modifier is retained while speed_multiplier is active.</li>
+<li>The caps lock LED manipulation has been enabled by default.
+
+<ul>
+<li>Note: This change applies to newly connected keyboards.</li>
+</ul></li>
+<li>Several Objective-C code around GUI has been rewritten in Swift + SwiftUI.</li>
 </ul></li>
 </ul>
-
-<h3>🔔 Notes for Mac computers with Apple Silicon (Apple M1) users</h3>
-
-<p>macOS Big Sur 11.2 or earlier has an issue within memory management and HID device handling that causes kernel panics on Mac computers with Apple Silicon.
-The virtual device that is used internally by Karabiner-Elements triggers this issue, and a kernel panic might be caused at macOS shutdown.</p>
-
-<p>We confirmed that this issue has been fixed in <a href="https://beta.apple.com/sp/betaprogram/">macOS Big Sur 11.3 Beta</a>.
-Please use macOS Big Sur 11.3 Beta or later versions if you are facing the kernel panic issue.</p>
 <p>
   <a href="https://karabiner-elements.pqrs.org/docs/releasenotes/">More</a>
 </p>
+</body>
+</html>
 ]]>
       </description>
-      <pubDate>Sun, 04 Apr 2021 13:26:09 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v13.4.0/Karabiner-Elements-13.4.0.dmg"
-                 sparkle:version="13.4.0" type="application/octet-stream"
-                 sparkle:edSignature="wZ5oOP2O5rNH7B0PHyeQ+NsoHEmqus+3nIJV/WmG+K7W63NkzhjHNEU1EdDMMgBw15/Cx/YwtgwbzGIXjAYrCA==" length="17923232"
+      <pubDate>Sun, 20 Jun 2021 16:34:40 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v13.5.0/Karabiner-Elements-13.5.0.dmg"
+                 sparkle:version="13.5.0" type="application/octet-stream"
+                 sparkle:edSignature="W8bzX/0ufmhu8iBaIipnVMps9AFiSZRcQnrOAyVacEtuYOprhqOZWXXw7HoohoZQnBB/hLMHK1dgHReRp5yvDA==" length="17356225"
       />
     </item>
 
