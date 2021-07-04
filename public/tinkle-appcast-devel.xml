@@ -32,7 +32,7 @@
 ]]>
       </description>
       <pubDate>Sun, 04 Jul 2021 03:19:04 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-1.7.0.dmg"
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/v1.7.0/Tinkle-1.7.0.dmg"
                  sparkle:version="1.7.0" type="application/octet-stream"
                  sparkle:edSignature="PDRG+FvZsjUYyz90sI1M1cjUsrrYLI9zfCqOA8HLOHjY8ttTbb7yF6wK0tEJPFtvwEF2GLXc4YKsMwGhIxehBA==" length="3196265"
       />
