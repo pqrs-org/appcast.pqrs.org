@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.5.0</title>
+      <title>Version 13.5.1</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,19 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v13.5.0 Update</h2>
+<h2>About v13.5.1 Update</h2>
 <ul>
-<li>⚡️ Improvements
+<li>✨ New Features
 
 <ul>
-<li>Improved temporary directory handling to reduce the frequency of mds process accessing it.</li>
-<li>Improved <code>mouse_key.speed_multiplier</code> handling when it is used with <code>to.modifiers</code>, the modifier is retained while speed_multiplier is active.</li>
-<li>The caps lock LED manipulation has been enabled by default.
-
-<ul>
-<li>Note: This change applies to newly connected keyboards.</li>
-</ul></li>
-<li>Several Objective-C code around GUI has been rewritten in Swift + SwiftUI.</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/cg_event_double_click/"><code>software_function.cg_event_double_click</code></a>.</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/set_mouse_cursor_position/"><code>software_function.set_mouse_cursor_position</code></a>.</li>
 </ul></li>
 </ul>
 <p>
@@ -38,10 +32,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 20 Jun 2021 16:34:40 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v13.5.0/Karabiner-Elements-13.5.0.dmg"
-                 sparkle:version="13.5.0" type="application/octet-stream"
-                 sparkle:edSignature="W8bzX/0ufmhu8iBaIipnVMps9AFiSZRcQnrOAyVacEtuYOprhqOZWXXw7HoohoZQnBB/hLMHK1dgHReRp5yvDA==" length="17356225"
+      <pubDate>Tue, 03 Aug 2021 14:36:19 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.5.1.dmg"
+                 sparkle:version="13.5.1" type="application/octet-stream"
+                 sparkle:edSignature="KcMPyqh9nc7P52Fshnzog/FiSm1wBxNHJJeUTeUr96P+lAWXarbcHcw0nAJ6+UHqyVrWrYdjPY93d0NpOyWfDA==" length="17437690"
       />
     </item>
 
