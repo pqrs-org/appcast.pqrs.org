@@ -9,7 +9,13 @@
     <item>
       <title>Version 4.90.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[
+      <description><![CDATA[<!DOCTYPE html>
+<body>
+<style>
+* {
+  font-size: 14px !important;
+}
+</style>
 <h2>About v4.90.0 Update</h2>
 <ul>
 <li>💥 Breaking changes
@@ -32,9 +38,11 @@
 <p>
   <a href="https://showyedge.pqrs.org/docs/releasenotes/">More</a>
 </p>
+</body>
+</html>
 ]]>
       </description>
-      <pubDate>Sat, 14 Aug 2021 16:12:39 -0000</pubDate>
+      <pubDate>Sat, 14 Aug 2021 16:15:31 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-4.90.0.dmg"
                  sparkle:version="4.90.0" type="application/octet-stream"
                  sparkle:edSignature="4CV6u7uaBgJeJPVGJJFLT8553EH9ZSstmvNOP3CkeJeOCGORhuyzqkIVK82r7HuvujFMrc6IJKtmT6QXiGs8Dw==" length="2394218"
