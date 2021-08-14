@@ -36,7 +36,7 @@ cat >>"$targetdir/showyedge-appcast-devel.xml.tmp" <<EOF
 
     <item>
       <title>Version $version</title>
-      <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
 EOF
 

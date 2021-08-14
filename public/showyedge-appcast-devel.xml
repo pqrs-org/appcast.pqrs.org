@@ -7,14 +7,15 @@
     <language>en</language>
 
     <item>
-      <title>Version 4.0.1</title>
-      <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
+      <title>Version 4.90.0</title>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v4.0.1 Update</h2>
+<h2>About v4.90.0 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
 <ul>
+<li>macOS 10.15 Catalina support has been dropped.</li>
 <li>The indicator height configuration has been changed to absolute px from the ratio of the menu bar.</li>
 </ul></li>
 <li>🐛 Bug Fixes
@@ -22,16 +23,21 @@
 <ul>
 <li>Fixed an issue that indicator is not shown when the menu bar is hidden.</li>
 </ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>Completely rewritten in Swift and SwiftUI.</li>
+</ul></li>
 </ul>
 <p>
   <a href="https://showyedge.pqrs.org/docs/releasenotes/">More</a>
 </p>
 ]]>
       </description>
-      <pubDate>Fri, 30 Oct 2020 00:42:16 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-4.0.1.dmg"
-                 sparkle:version="4.0.1" type="application/octet-stream"
-                 sparkle:edSignature="CGQnQ07f1NbZ6W7ISS13eiZ9L8ujDiZT1Lqv6GAqtzDGlz1WmwZZYuLyORNj4LoFsz2eqE/6tK5/afnUy0plBA==" length="2395371"
+      <pubDate>Sat, 14 Aug 2021 16:12:39 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-4.90.0.dmg"
+                 sparkle:version="4.90.0" type="application/octet-stream"
+                 sparkle:edSignature="4CV6u7uaBgJeJPVGJJFLT8553EH9ZSstmvNOP3CkeJeOCGORhuyzqkIVK82r7HuvujFMrc6IJKtmT6QXiGs8Dw==" length="2394218"
       />
     </item>
 
