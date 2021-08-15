@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 4.90.0</title>
+      <title>Version 4.90.1</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v4.90.0 Update</h2>
+<h2>About v4.90.1 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -42,10 +42,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 14 Aug 2021 16:15:31 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-4.90.0.dmg"
-                 sparkle:version="4.90.0" type="application/octet-stream"
-                 sparkle:edSignature="4CV6u7uaBgJeJPVGJJFLT8553EH9ZSstmvNOP3CkeJeOCGORhuyzqkIVK82r7HuvujFMrc6IJKtmT6QXiGs8Dw==" length="2394218"
+      <pubDate>Sun, 15 Aug 2021 14:33:08 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-4.90.1.dmg"
+                 sparkle:version="4.90.1" type="application/octet-stream"
+                 sparkle:edSignature="vJeKsjXn7lMDUs9u3oh9BuweuxpUeAEHeuiQDY5o39h8chXLFK3yrU//zH5vuBgd+AyHItk7fKcNEpId6h3GAA==" length="2408956"
       />
     </item>
 
