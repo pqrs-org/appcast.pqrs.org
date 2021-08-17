@@ -7,6 +7,49 @@
     <language>en</language>
 
     <item>
+      <title>Version 5.2.0</title>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<!DOCTYPE html>
+<body>
+<style>
+* {
+  font-size: 14px !important;
+}
+</style>
+<h2>About v5.2.0 Update</h2>
+<ul>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 10.15 Catalina support has been dropped.</li>
+<li>The indicator height configuration has been changed to absolute px from the ratio of the menu bar.</li>
+</ul></li>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue that indicator is not shown when the menu bar is hidden.</li>
+</ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>Completely rewritten in Swift and SwiftUI.</li>
+</ul></li>
+</ul>
+<p>
+  <a href="https://showyedge.pqrs.org/docs/releasenotes/">More</a>
+</p>
+</body>
+</html>
+]]>
+      </description>
+      <pubDate>Tue, 17 Aug 2021 15:05:28 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v5.2.0/ShowyEdge-5.2.0.dmg"
+                 sparkle:version="5.2.0" type="application/octet-stream"
+                 sparkle:edSignature="TKd7VDCvuuggAwJT3aUO9chlmQJAbouWYuVVY6pxY17UMJECPu2FiBiOx54Ep8+T5BOBPrhaKolXuW63nZkTAQ==" length="2414689"
+      />
+    </item>
+
+    <item>
       <title>Version 4.0.0</title>
       <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
