@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.5.5</title>
+      <title>Version 13.5.6</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v13.5.5 Update</h2>
+<h2>About v13.5.6 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -33,6 +33,7 @@
 
 <ul>
 <li>Changed to log the output of shell_command into console_user_server.log.</li>
+<li>The notification window transparency will be increased when the mouse cursor is hovered.</li>
 </ul></li>
 </ul>
 <p>
@@ -42,10 +43,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 26 Aug 2021 14:56:31 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.5.5.dmg"
-                 sparkle:version="13.5.5" type="application/octet-stream"
-                 sparkle:edSignature="QDk8ciO/jI64wXHumroZywmn5gX3wdP0tu3JmIr/d/dd4k68xH6nZZBDJImJifB8qQK16qTxI5FdwhL4/i7pAA==" length="16928327"
+      <pubDate>Mon, 30 Aug 2021 15:02:01 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.5.6.dmg"
+                 sparkle:version="13.5.6" type="application/octet-stream"
+                 sparkle:edSignature="IPbcaTH5GtJJY8FsdBx2X9VFQX8iP+xvgXQ9RI8HyO2PKGWNUH2005GKHkYCOt4dbTqlALeZip7T6C0bsxzHDw==" length="16968341"
       />
     </item>
 
