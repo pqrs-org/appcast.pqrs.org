@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.5.7</title>
+      <title>Version 13.5.9</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,13 +16,18 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v13.5.7 Update</h2>
+<h2>About v13.5.9 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
+<li>Add new features for writing your own settings:
+
+<ul>
 <li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/cg_event_double_click/"><code>software_function.cg_event_double_click</code></a>.</li>
 <li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/set_mouse_cursor_position/"><code>software_function.set_mouse_cursor_position</code></a>.</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/set-notification-message/"><code>set_notification_message</code></a>.</li>
+</ul></li>
 </ul></li>
 <li>🐛 Bug Fixes
 
@@ -43,10 +48,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 31 Aug 2021 04:35:46 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.5.7.dmg"
-                 sparkle:version="13.5.7" type="application/octet-stream"
-                 sparkle:edSignature="c0XA+eIAXOW7OAOFfUWfVs8Lr92PkVf2Qcb5oLkioTPIF51IItVahJSzdTy9r1jkmJjkAFE7pdZr2XjBJopVAw==" length="16994383"
+      <pubDate>Wed, 01 Sep 2021 15:21:00 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.5.9.dmg"
+                 sparkle:version="13.5.9" type="application/octet-stream"
+                 sparkle:edSignature="UsWOpZ1Lqbczum5tzYSwmxMwljvvZwHCmyboMOTrLZCKlkF25hY97bec14snJ4YDv8Gzd0rdpeC2SjNVsRpjAQ==" length="16916549"
       />
     </item>
 
