@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.5.0</title>
+      <title>Version 13.6.0</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,19 +16,29 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v13.5.0 Update</h2>
+<h2>About v13.6.0 Update</h2>
 <ul>
+<li>✨ New Features
+
+<ul>
+<li>Add new features for writing your own settings:
+
+<ul>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/cg_event_double_click/"><code>software_function.cg_event_double_click</code></a>.</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/set_mouse_cursor_position/"><code>software_function.set_mouse_cursor_position</code></a>.</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/set-notification-message/"><code>set_notification_message</code></a>.</li>
+</ul></li>
+</ul></li>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue that karabiner.json parse error message is not shown in Preferences &gt; Log if the error message contains corrupted characters.</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Improved temporary directory handling to reduce the frequency of mds process accessing it.</li>
-<li>Improved <code>mouse_key.speed_multiplier</code> handling when it is used with <code>to.modifiers</code>, the modifier is retained while speed_multiplier is active.</li>
-<li>The caps lock LED manipulation has been enabled by default.
-
-<ul>
-<li>Note: This change applies to newly connected keyboards.</li>
-</ul></li>
-<li>Several Objective-C code around GUI has been rewritten in Swift + SwiftUI.</li>
+<li>Changed to log the output of shell_command into console_user_server.log.</li>
+<li>The notification window transparency will be increased when the mouse cursor is hovered.</li>
 </ul></li>
 </ul>
 <p>
@@ -38,10 +48,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 20 Jun 2021 16:34:40 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v13.5.0/Karabiner-Elements-13.5.0.dmg"
-                 sparkle:version="13.5.0" type="application/octet-stream"
-                 sparkle:edSignature="W8bzX/0ufmhu8iBaIipnVMps9AFiSZRcQnrOAyVacEtuYOprhqOZWXXw7HoohoZQnBB/hLMHK1dgHReRp5yvDA==" length="17356225"
+      <pubDate>Fri, 03 Sep 2021 15:16:34 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v13.6.0/Karabiner-Elements-13.6.0.dmg"
+                 sparkle:version="13.6.0" type="application/octet-stream"
+                 sparkle:edSignature="QopSM+CsIlxByEc7NEvSetflLmDQSHlM/ilApvo3EdQs0yEQ0NW8b8UDaIGunIryvbJ1cWkrb55Ww31CabreCg==" length="17016964"
       />
     </item>
 
