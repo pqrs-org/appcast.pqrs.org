@@ -1,10 +1,2 @@
--   ✨ New Features
-    -   Add new features for writing your own settings:
-        -   Added [`software_function.cg_event_double_click`](https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/cg_event_double_click/).
-        -   Added [`software_function.set_mouse_cursor_position`](https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/set_mouse_cursor_position/).
-        -   Added [`set_notification_message`](https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/set-notification-message/).
 -   🐛 Bug Fixes
-    -   Fixed an issue that karabiner.json parse error message is not shown in Preferences > Log if the error message contains corrupted characters.
--   ⚡️ Improvements
-    -   Changed to log the output of shell_command into console_user_server.log.
-    -   The notification window transparency will be increased when the mouse cursor is hovered.
+    -   Fix an issue that `shell_command` does not set environment variables (HOME, USER, etc.).
