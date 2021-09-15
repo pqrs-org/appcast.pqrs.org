@@ -1,2 +1,3 @@
--   🐛 Bug Fixes
-    -   Fix an issue that `shell_command` does not set environment variables (HOME, USER, etc.).
+-   ✨ New Features
+    -   Add new features for writing your own settings:
+        -   Added [`software_function.iokit_power_management_sleep_system`](https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/iokit_power_management_sleep_system/).
