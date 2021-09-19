@@ -1,2 +1,3 @@
 -   ⚡️ Improvements
     -   Minor source code improvement.
+    -   Sparkle Framework has been updated.
