@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.7.2</title>
+      <title>Version 13.7.3</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,8 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v13.7.2 Update</h2>
+<h2>About v13.7.3 Update</h2>
 <ul>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 10.15 support has been dropped.</li>
+</ul></li>
 <li>✨ New Features
 
 <ul>
@@ -28,6 +33,11 @@
 <li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/iokit_power_management_sleep_system/"><code>software_function.iokit_power_management_sleep_system</code></a>.</li>
 </ul></li>
 </ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>EventViewer is rewritten in SwiftUI.</li>
+</ul></li>
 </ul>
 <p>
   <a href="https://karabiner-elements.pqrs.org/docs/releasenotes/">More</a>
@@ -36,10 +46,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 18 Sep 2021 07:48:20 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.7.2.dmg"
-                 sparkle:version="13.7.2" type="application/octet-stream"
-                 sparkle:edSignature="OHciVVjW3c9baogRc+L48pnBRzmu6z8SB8c2y4WHxkBIo9PhRxLaPzUsWd2OojjD1cMaKdR0kKtrdAjwkiWUBg==" length="17074641"
+      <pubDate>Thu, 23 Sep 2021 12:07:03 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.7.3.dmg"
+                 sparkle:version="13.7.3" type="application/octet-stream"
+                 sparkle:edSignature="RBgflKP4IX6var7YH/vCE5ItlDD3vbzH5y2SzodgeWXfDUY/U3WMx4F/yI1pFuQ9iLFJjDXt6N2a3fwwR35XAQ==" length="16925572"
       />
     </item>
 
