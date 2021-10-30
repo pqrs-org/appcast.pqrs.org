@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Oct 30, 2021
 -   💥 Breaking changes
     -   macOS 10.15 support has been dropped.
 -   ✨ New Features
