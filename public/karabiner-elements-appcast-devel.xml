@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 13.7.12</title>
+      <title>Version 13.7.13</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v13.7.12 Update</h2>
+<h2>About v13.7.13 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -27,6 +27,7 @@
 
 <ul>
 <li>Supported Touch ID on Magic Keyboard.</li>
+<li>Supported application launcher keys (Mail, Browser, Calculator, etc.) which are belong to HID Consumer Usage Page and Application Launch Buttons Usage.</li>
 <li>Add new features for writing your own settings:
 
 <ul>
@@ -47,10 +48,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 24 Oct 2021 06:17:42 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.7.12.dmg"
-                 sparkle:version="13.7.12" type="application/octet-stream"
-                 sparkle:edSignature="Ee7FsWg4Eel0Wz5ygQqwzAYgMyJpp5Y4TpG+A+sJ7x+PBEa9drMRYn7nWzlqqu7KeMPNQCEzNTzhmWVni68aBA==" length="18455731"
+      <pubDate>Sat, 30 Oct 2021 07:43:39 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-13.7.13.dmg"
+                 sparkle:version="13.7.13" type="application/octet-stream"
+                 sparkle:edSignature="jG5bZ25npfFxGo08XiBCZV5DpNU/J2/c2HEh3XB0wLcIZ8KBm7oylWpBBg3fCyucdTaZY5EwhQ2ZBmvSA0XVBw==" length="18485292"
       />
     </item>
 
