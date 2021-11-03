@@ -7,6 +7,65 @@
     <language>en</language>
 
     <item>
+      <title>Version 14.2.0</title>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<!DOCTYPE html>
+<body>
+<style>
+* {
+  font-size: 14px !important;
+}
+</style>
+<h2>About v14.2.0 Update</h2>
+<ul>
+<li>📅 Release date
+
+<ul>
+<li>Nov 3, 2021</li>
+</ul></li>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 10.15 support has been dropped.</li>
+</ul></li>
+<li>✨ New Features
+
+<ul>
+<li>Supported Touch ID on Magic Keyboard.</li>
+<li>Supported application launcher keys (Mail, Browser, Calculator, etc.) which are belong to HID Consumer Usage Page and Application Launch Buttons Usage.</li>
+<li>Add new features for writing your own settings:
+
+<ul>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/iokit_power_management_sleep_system/"><code>software_function.iokit_power_management_sleep_system</code></a>.</li>
+</ul></li>
+</ul></li>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue that an alert window appears in an incorrect position on macOS 12 Monterey.</li>
+</ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>Update application icons. (Thanks to Kouji TAMURA)</li>
+<li>EventViewer is rewritten in SwiftUI.</li>
+</ul></li>
+</ul>
+<p>
+  <a href="https://karabiner-elements.pqrs.org/docs/releasenotes/">More</a>
+</p>
+</body>
+</html>
+]]>
+      </description>
+      <pubDate>Wed, 03 Nov 2021 08:37:54 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.2.0.dmg"
+                 sparkle:version="14.2.0" type="application/octet-stream"
+                 sparkle:edSignature="vNsQj9KFBUS2yM9F82dxkNpMxRPKqqTOy74eArJTqQpQg5g1KjNcWFINUX0QIv4cB+3mLNtojeevXmuXeMANDQ==" length="19217471"
+      />
+    </item>
+
+    <item>
       <title>Version 13.7.0</title>
       <sparkle:minimumSystemVersion>10.15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
