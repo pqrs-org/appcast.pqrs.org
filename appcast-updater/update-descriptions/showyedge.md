@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Nov 4, 2021
 -   ⚡️ Improvements
     -   Update application icons. (Thanks to Kouji TAMURA)
     -   Minor source code improvement.
