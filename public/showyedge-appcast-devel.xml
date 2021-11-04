@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 5.2.1</title>
+      <title>Version 5.2.2</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,11 +16,12 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v5.2.1 Update</h2>
+<h2>About v5.2.2 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
+<li>Update application icons. (Thanks to Kouji TAMURA)</li>
 <li>Minor source code improvement.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
@@ -32,10 +33,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 19 Sep 2021 10:04:18 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.2.1.dmg"
-                 sparkle:version="5.2.1" type="application/octet-stream"
-                 sparkle:edSignature="aRbnYjXfZVu/AfY2O0y6c/tgKBWCtWNQkBOjEgQqgGilToHAumrMmC6X+bpqAzsPRsw7DvJhu16kJQRpoL0gAw==" length="2415521"
+      <pubDate>Thu, 04 Nov 2021 13:49:05 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.2.2.dmg"
+                 sparkle:version="5.2.2" type="application/octet-stream"
+                 sparkle:edSignature="KjhtYOyEX2zV4Jzw0W6ks4l4FfCa2awvjYa8nk+BWAZq46Ki/R7k6Pk/evLESBN6Nnry+5mOd3kuVBLeAIFtDA==" length="2487429"
       />
     </item>
 
