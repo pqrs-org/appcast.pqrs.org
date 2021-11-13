@@ -7,8 +7,8 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.7.3</title>
-      <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
+      <title>Version 1.7.4</title>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
 <style>
@@ -16,8 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v1.7.3 Update</h2>
+<h2>About v1.7.4 Update</h2>
 <ul>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 10.15 support has been dropped.</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
@@ -33,10 +38,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 11 Nov 2021 00:09:56 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-1.7.3.dmg"
-                 sparkle:version="1.7.3" type="application/octet-stream"
-                 sparkle:edSignature="qkz/yqs6oa0S1NR6jXdeVZt83FQD6cHoOsC+f1pwIQ19WIFhpO/oFEwvQvhVrtV6qDcOiInCcvB2WVNCmIMEDw==" length="3327309"
+      <pubDate>Sat, 13 Nov 2021 09:53:05 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-1.7.4.dmg"
+                 sparkle:version="1.7.4" type="application/octet-stream"
+                 sparkle:edSignature="AKng2TXTwUv+PMYUjJkua2fo1WYQ60MTUA6xAlJ+gF3BKCSXAyy5o7UuZA38pe3E0O6oa+EvurGci60IgaU8DA==" length="2929894"
       />
     </item>
 
