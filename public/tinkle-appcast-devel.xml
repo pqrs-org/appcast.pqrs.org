@@ -18,6 +18,11 @@
 </style>
 <h2>About v2.0.0 Update</h2>
 <ul>
+<li>📅 Release date
+
+<ul>
+<li>Nov 13, 2021</li>
+</ul></li>
 <li>💥 Breaking changes
 
 <ul>
@@ -38,8 +43,8 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 13 Nov 2021 12:49:43 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/v2.0.0/Tinkle-2.0.0.dmg"
+      <pubDate>Sat, 13 Nov 2021 13:41:33 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.0.0.dmg"
                  sparkle:version="2.0.0" type="application/octet-stream"
                  sparkle:edSignature="QyE3KfVwqJWQwm+f1jBH0+D/vvVaVuCEWiYjWgPtY7Fs8lbNkUilmmbAMbh7OKsvrCRw1FRvMgTCnSkLryPdCw==" length="2951561"
       />
