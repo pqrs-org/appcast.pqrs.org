@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.2.2</title>
+      <title>Version 14.2.3</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,12 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.2.2 Update</h2>
+<h2>About v14.2.3 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
 <li>Added System Extensions tab to EventViewer.</li>
+<li>Added a workaround for macOS&rsquo;s ioreg command issue that consumes high CPU usage on macOS Monterey.</li>
 </ul></li>
 </ul>
 <p>
@@ -31,10 +32,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 05 Nov 2021 00:09:56 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.2.2.dmg"
-                 sparkle:version="14.2.2" type="application/octet-stream"
-                 sparkle:edSignature="Ad2dpXpk8qxogZ0nuiS0w1/6JFBzhLzEy4xKwDMMih2990cPwu/KQEYpaKcDejlt9TNOqb43vGvx2IxoVEIdDw==" length="19578739"
+      <pubDate>Fri, 19 Nov 2021 00:27:37 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.2.3.dmg"
+                 sparkle:version="14.2.3" type="application/octet-stream"
+                 sparkle:edSignature="nez21dxHzffdauCNX677EkwchphXAUtbxWigjHqcgxax9Pa5N2C6NRrEjSBDbfsirI2OVDFawbyzM6jVmFBUAw==" length="19576942"
       />
     </item>
 
