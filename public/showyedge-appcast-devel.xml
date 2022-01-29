@@ -43,7 +43,7 @@
 ]]>
       </description>
       <pubDate>Sat, 29 Jan 2022 13:00:25 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.4.0.dmg"
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v5.4.0/ShowyEdge-5.4.0.dmg"
                  sparkle:version="5.4.0" type="application/octet-stream"
                  sparkle:edSignature="KY70qN5PzH26MgVc7unfK2wnLnMhKxnrmMfGY1dNMVsn7TWF5z4rYDQOFNyQDrAFmbD1/Xhgt6hcrKOwmCqfAA==" length="2812929"
       />
