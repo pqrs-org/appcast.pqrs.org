@@ -1,6 +1,4 @@
--   📅 Release date
-    -   Nov 4, 2021
+-   ✨ New Features
+    -   `Use pill shape` configuration has been added. (Thanks to [@natanrolnik](https://github.com/natanrolnik))
 -   ⚡️ Improvements
-    -   Update application icons. (Thanks to Kouji TAMURA)
-    -   Minor source code improvement.
     -   Sparkle Framework has been updated.

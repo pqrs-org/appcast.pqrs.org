@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 5.3.0</title>
+      <title>Version 5.3.1</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,18 +16,16 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v5.3.0 Update</h2>
+<h2>About v5.3.1 Update</h2>
 <ul>
-<li>📅 Release date
+<li>✨ New Features
 
 <ul>
-<li>Nov 4, 2021</li>
+<li><code>Use pill shape</code> configuration has been added. (Thanks to <a href="https://github.com/natanrolnik">@natanrolnik</a>)</li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Update application icons. (Thanks to Kouji TAMURA)</li>
-<li>Minor source code improvement.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -38,10 +36,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 04 Nov 2021 14:41:04 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v5.3.0/ShowyEdge-5.3.0.dmg"
-                 sparkle:version="5.3.0" type="application/octet-stream"
-                 sparkle:edSignature="ZcR4pD2JbtQMG7NV3NmbmDiyvswlpcXySG9bfXNSBATTPgxbk/LeJMHMUsYM0QIgAA7YyzdFsk9nqU8v8x22Bg==" length="2487343"
+      <pubDate>Sat, 29 Jan 2022 11:47:18 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.3.1.dmg"
+                 sparkle:version="5.3.1" type="application/octet-stream"
+                 sparkle:edSignature="17znSmLHOGH2zjQihcHwwSMVpX7ZNypmgyVNhwEbQe4TqypTXZqF2/Nuc1vMiwueq051krbjc0YsuZzshJ7+Dg==" length="2812933"
       />
     </item>
 
