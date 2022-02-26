@@ -1,5 +1,2 @@
--   📅 Release date
-    -   Nov 20, 2021
 -   ⚡️ Improvements
-    -   Added System Extensions tab to EventViewer.
-    -   Added a workaround for macOS's ioreg command issue that consumes high CPU usage on macOS Monterey.
+    -   Improve NotificationWindow multiple screens handling.
