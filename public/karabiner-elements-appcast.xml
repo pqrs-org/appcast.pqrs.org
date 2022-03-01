@@ -21,7 +21,7 @@
 <li>🐛 Bug Fixes
 
 <ul>
-<li>Fixed an issue that NotificationWindow cause high CPU usage in some environments.</li>
+<li>Fixed an issue that NotificationWindow causes high CPU usage in some environments.</li>
 </ul></li>
 </ul>
 <p>

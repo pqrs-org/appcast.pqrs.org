@@ -1,2 +1,2 @@
 -   🐛 Bug Fixes
-    -   Fixed an issue that NotificationWindow cause high CPU usage in some environments.
+    -   Fixed an issue that NotificationWindow causes high CPU usage in some environments.
