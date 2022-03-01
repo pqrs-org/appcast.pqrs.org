@@ -1,2 +1,2 @@
--   ⚡️ Improvements
-    -   Improve NotificationWindow multiple screens handling.
+-   🐛 Bug Fixes
+    -   Fixed an issue that NotificationWindow cause high CPU usage in some environments.
