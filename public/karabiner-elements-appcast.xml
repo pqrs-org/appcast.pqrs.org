@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.3.0</title>
+      <title>Version 14.4.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,18 +16,12 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.3.0 Update</h2>
+<h2>About v14.4.0 Update</h2>
 <ul>
-<li>📅 Release date
+<li>🐛 Bug Fixes
 
 <ul>
-<li>Nov 20, 2021</li>
-</ul></li>
-<li>⚡️ Improvements
-
-<ul>
-<li>Added System Extensions tab to EventViewer.</li>
-<li>Added a workaround for macOS&rsquo;s ioreg command issue that consumes high CPU usage on macOS Monterey.</li>
+<li>Fixed an issue that NotificationWindow cause high CPU usage in some environments.</li>
 </ul></li>
 </ul>
 <p>
@@ -37,10 +31,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 20 Nov 2021 12:24:03 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.3.0/Karabiner-Elements-14.3.0.dmg"
-                 sparkle:version="14.3.0" type="application/octet-stream"
-                 sparkle:edSignature="0jw2/B05jGXI6mfwTffpz/VNytRMrlA7lVQNtgdeMyvvQt++WwVm42y8VNHAWrvNMRPJ9Umh8EOSF/bTybwdBA==" length="19620620"
+      <pubDate>Tue, 01 Mar 2022 12:47:12 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.4.0/Karabiner-Elements-14.4.0.dmg"
+                 sparkle:version="14.4.0" type="application/octet-stream"
+                 sparkle:edSignature="34xpRDalkPGHpJZFCb+pD2q5YFgIcC5c4BEO59rO9IseQxw/n4oq2W+haFXXwvrlds5aO78II0N3t39oPPakAQ==" length="19779156"
       />
     </item>
 
