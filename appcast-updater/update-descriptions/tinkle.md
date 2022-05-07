@@ -1,2 +1,4 @@
+-   📅 Release date
+    -   May 7, 2022
 -   ⚡️ Improvements
     -   Sparkle Framework has been updated.
