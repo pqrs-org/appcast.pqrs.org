@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 5.4.1</title>
+      <title>Version 5.4.2</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v5.4.1 Update</h2>
+<h2>About v5.4.2 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
@@ -31,10 +31,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 07 May 2022 07:41:27 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.4.1.dmg"
-                 sparkle:version="5.4.1" type="application/octet-stream"
-                 sparkle:edSignature="3hgbY6kXDG2s6K+5BtSn4z6SVPaQ/mEN4XQY/eJwrznMC8i2A0eiOt7NArehCz+LM8OahNNfvpXqPPt4cKSdCQ==" length="2857003"
+      <pubDate>Sat, 07 May 2022 08:28:39 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.4.2.dmg"
+                 sparkle:version="5.4.2" type="application/octet-stream"
+                 sparkle:edSignature="t1DMS3cJZWe2kDeDFBkhPJvQtp9157wGAqkonhuOdOoF7QgZ6+deO2qRINXNE6dLu0HpiUYIJA4W+0nZ7ucEDQ==" length="2857000"
       />
     </item>
 
