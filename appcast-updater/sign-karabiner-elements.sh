@@ -64,7 +64,7 @@ cat >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp" <<EOF
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-$version.dmg"
                  type="application/octet-stream"
                  sparkle:version="$version"
-                 sparkle:installationType="interactive-package"
+                 sparkle:installationType="package"
                  $signature
       />
     </item>
