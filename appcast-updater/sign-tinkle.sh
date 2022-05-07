@@ -62,7 +62,8 @@ cat >>"$targetdir/tinkle-appcast-devel.xml.tmp" <<EOF
       </description>
       <pubDate>$pubDate</pubDate>
       <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-$version.dmg"
-                 sparkle:version="$version" type="application/octet-stream"
+                 type="application/octet-stream"
+                 sparkle:version="$version"
                  $signature
       />
     </item>
