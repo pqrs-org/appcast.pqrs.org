@@ -1,2 +1,3 @@
 -   ⚡️ Improvements
     -   Preferences Window is rewritten in SwiftUI.
+    -   Sparkle Framework has been updated.
