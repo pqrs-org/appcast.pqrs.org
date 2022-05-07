@@ -62,7 +62,8 @@ cat >>"$targetdir/showyedge-appcast-devel.xml.tmp" <<EOF
       </description>
       <pubDate>$pubDate</pubDate>
       <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-$version.dmg"
-                 sparkle:version="$version" type="application/octet-stream"
+                 type="application/octet-stream"
+                 sparkle:version="$version"
                  $signature
       />
     </item>

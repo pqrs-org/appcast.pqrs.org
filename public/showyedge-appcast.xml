@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 5.4.0</title>
+      <title>Version 5.5.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,18 +16,12 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v5.4.0 Update</h2>
+<h2>About v5.5.0 Update</h2>
 <ul>
-<li><a href="https://github.com/pqrs-org/ShowyEdge/releases/download/v5.4.0/ShowyEdge-5.4.0.dmg">📦 Download</a></li>
 <li>📅 Release date
 
 <ul>
-<li>Jan 29, 2022</li>
-</ul></li>
-<li>✨ New Features
-
-<ul>
-<li><code>Use pill shape</code> configuration has been added. (Thanks to <a href="https://github.com/natanrolnik">@natanrolnik</a>)</li>
+<li>May 7, 2022</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -42,10 +36,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 29 Jan 2022 13:00:25 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v5.4.0/ShowyEdge-5.4.0.dmg"
-                 sparkle:version="5.4.0" type="application/octet-stream"
-                 sparkle:edSignature="KY70qN5PzH26MgVc7unfK2wnLnMhKxnrmMfGY1dNMVsn7TWF5z4rYDQOFNyQDrAFmbD1/Xhgt6hcrKOwmCqfAA==" length="2812929"
+      <pubDate>Sat, 07 May 2022 12:35:36 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v5.5.0/ShowyEdge-5.5.0.dmg"
+                 type="application/octet-stream"
+                 sparkle:version="5.5.0"
+                 sparkle:edSignature="tp6y6Htapcx28IpeQBNHHSQVFYBUHLIEtDcSvF4BzEDqJ7Y6K4uqNLOkG61rQLIIZ6YN4z76UYmowy+jPGrYBA==" length="2857002"
       />
     </item>
 
