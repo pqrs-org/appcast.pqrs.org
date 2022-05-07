@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.0.0</title>
+      <title>Version 2.0.1</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,23 +16,11 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v2.0.0 Update</h2>
+<h2>About v2.0.1 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Nov 13, 2021</li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>macOS 10.15 support has been dropped.</li>
-</ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Update application icons. (Thanks to Kouji TAMURA)</li>
-<li>Minor source code improvement.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -43,10 +31,10 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 13 Nov 2021 13:41:33 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/v2.0.0/Tinkle-2.0.0.dmg"
-                 sparkle:version="2.0.0" type="application/octet-stream"
-                 sparkle:edSignature="QyE3KfVwqJWQwm+f1jBH0+D/vvVaVuCEWiYjWgPtY7Fs8lbNkUilmmbAMbh7OKsvrCRw1FRvMgTCnSkLryPdCw==" length="2951561"
+      <pubDate>Sat, 07 May 2022 14:15:57 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.0.1.dmg"
+                 sparkle:version="2.0.1" type="application/octet-stream"
+                 sparkle:edSignature="smnouGhQ+cwIajYIn2dUTD8TsKb/6PkcfrfR0eN0yTgzee1dBUMNCCdNjA548BhUl4nPbJn+Wc6fnCmbAAU7AA==" length="3281198"
       />
     </item>
 
