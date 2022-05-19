@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.4.12</title>
+      <title>Version 14.4.13</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,8 +16,20 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.4.12 Update</h2>
+<h2>About v14.4.13 Update</h2>
 <ul>
+<li>💥 Breaking changes
+
+<ul>
+<li>The following modifier flags and manipulators are now canceled even for events from devices not grabbed by Karabiner-Elements, e.g. mouse clicks.
+
+<ul>
+<li>sticky modifiers</li>
+<li><code>to_if_alone</code></li>
+<li><code>to_if_held_down</code></li>
+<li><code>to_delayed_action</code></li>
+</ul></li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
@@ -32,12 +44,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 08 May 2022 05:54:50 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.4.12.dmg"
+      <pubDate>Thu, 19 May 2022 15:33:27 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.4.13.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.4.12"
+                 sparkle:version="14.4.13"
                  sparkle:installationType="package"
-                 sparkle:edSignature="ugklghFSoRvqfvPRnZbIrZlEK/bxAsYeyLvsMxSQbmV1Kw594ZxuTdxTiri7ehhfzi4oThnwJhnhP3HprO2ZCw==" length="20087409"
+                 sparkle:edSignature="Bk7GG8bbf3J8VdPqwV0IiNYR9pbn7L1bCGbpEIQrBWc8VDv83W/Vt0TRn3a68t18s9xz3OANnT8q8dYZiRYJAQ==" length="20119607"
       />
     </item>
 
