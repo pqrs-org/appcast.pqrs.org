@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.4.18</title>
+      <title>Version 14.4.19</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.4.18 Update</h2>
+<h2>About v14.4.19 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -35,6 +35,7 @@
 <ul>
 <li>Improved behavior the sticky modifiers when used together with the built-in trackpad. (Thanks to @quarkw)</li>
 <li>Preferences Window is rewritten in SwiftUI.</li>
+<li><code>set_variable</code> now supports bool and string value.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -45,12 +46,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 29 May 2022 10:38:16 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.4.18.dmg"
+      <pubDate>Mon, 30 May 2022 23:33:27 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.4.19.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.4.18"
+                 sparkle:version="14.4.19"
                  sparkle:installationType="package"
-                 sparkle:edSignature="U+YgnLa2xl3kzr+pTwuH2OdMAuDUOcR4u69XNC93nnDyp2IIJjfLFU2eMktV/0m+00Fjl2JFCw2xQW/PDALPCg==" length="20145983"
+                 sparkle:edSignature="/AW50LVYLyETczvYwNf5NdlmHgXrIveK/5s1OqWXLG0fkCnZzpefB8juWVFeuL1r/+k+di6fM6FWp6ytkYMRBw==" length="20186347"
       />
     </item>
 
