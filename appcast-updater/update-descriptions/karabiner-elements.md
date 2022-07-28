@@ -1,11 +1,2 @@
--   💥 Breaking changes
-    -   The following modifier flags and manipulators are now canceled even for events from devices not grabbed by Karabiner-Elements, e.g. mouse clicks.
-        -   `sticky modifiers`
-        -   `to_if_alone`
-        -   `to_if_held_down`
-        -   `to_delayed_action`
--   ⚡️ Improvements
-    -   Improved behavior the sticky modifiers when used together with the built-in trackpad. (Thanks to @quarkw)
-    -   Preferences Window is rewritten in SwiftUI.
-    -   `set_variable` now supports bool and string value.
-    -   Sparkle Framework has been updated.
+-   🐛 Bug Fixes
+    -   Fixed an issue that "Disable the built-in keyboard" feature does not work if the built-in keyboard is not included in the event modification target devices.

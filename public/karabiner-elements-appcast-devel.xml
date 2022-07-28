@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.5.0</title>
+      <title>Version 14.5.1</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,27 +16,12 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.5.0 Update</h2>
+<h2>About v14.5.1 Update</h2>
 <ul>
-<li>💥 Breaking changes
+<li>🐛 Bug Fixes
 
 <ul>
-<li>The following modifier flags and manipulators are now canceled even for events from devices not grabbed by Karabiner-Elements, e.g. mouse clicks.
-
-<ul>
-<li><code>sticky modifiers</code></li>
-<li><code>to_if_alone</code></li>
-<li><code>to_if_held_down</code></li>
-<li><code>to_delayed_action</code></li>
-</ul></li>
-</ul></li>
-<li>⚡️ Improvements
-
-<ul>
-<li>Improved behavior the sticky modifiers when used together with the built-in trackpad. (Thanks to @quarkw)</li>
-<li>Preferences Window is rewritten in SwiftUI.</li>
-<li><code>set_variable</code> now supports bool and string value.</li>
-<li>Sparkle Framework has been updated.</li>
+<li>Fixed an issue that &ldquo;Disable the built-in keyboard&rdquo; feature does not work if the built-in keyboard is not included in the event modification target devices.</li>
 </ul></li>
 </ul>
 <p>
@@ -46,12 +31,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 17 Jul 2022 08:09:53 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.5.0/Karabiner-Elements-14.5.0.dmg"
+      <pubDate>Thu, 28 Jul 2022 14:45:42 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.5.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.5.0"
+                 sparkle:version="14.5.1"
                  sparkle:installationType="package"
-                 sparkle:edSignature="qBqV4pfsT3DctHokDZKm2VMp0c4infAr4/8HiUe7dGZKS4VwnNuqmzr5MzHEDPS0ALt4IsDD6I4eEBSlJdh4AA==" length="20804413"
+                 sparkle:edSignature="q8JKKxyCc30TIEM0yLzFde9R6Zi6Aw3nN2suN3zpiRQhr2UXfmiAYHlUHZ6eOFV4WQFIr3SaHHMx+VYfWxrFBQ==" length="20804116"
       />
     </item>
 
