@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.5.2</title>
+      <title>Version 14.5.3</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,8 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.5.2 Update</h2>
+<h2>About v14.5.3 Update</h2>
 <ul>
+<li>✨ New Features
+
+<ul>
+<li><code>Treat as built-in keyboard</code> setting has been added into Devices configuration. It works with &ldquo;Disable the built-in keyboard&rdquo; feature.</li>
+</ul></li>
 <li>🐛 Bug Fixes
 
 <ul>
@@ -31,12 +36,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 28 Jul 2022 15:13:41 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.5.2.dmg"
+      <pubDate>Sun, 31 Jul 2022 01:03:11 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.5.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.5.2"
+                 sparkle:version="14.5.3"
                  sparkle:installationType="package"
-                 sparkle:edSignature="7BmQRb/94y4W2zip0Xs6HOvhq6Iwe/9vO52ItlAbLKPwgnHdCcSYgxA5mhyhp6rO0bZAcB1t3VA8iY9+3BqDAw==" length="20798297"
+                 sparkle:edSignature="mmOzwdF0gXBWiXBjiV1RjwSQOmhEekGHma0E5fCt9MeCWq3in2f5oF70i+3fprKeDhyf3GUysRH8veuI7nNFDw==" length="20829407"
       />
     </item>
 
