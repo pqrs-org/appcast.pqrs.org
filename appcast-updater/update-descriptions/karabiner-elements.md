@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Jul 31, 2022
 -   ✨ New Features
     -   `Treat as built-in keyboard` setting has been added into Devices configuration. It works with "Disable the built-in keyboard" feature.
 -   🐛 Bug Fixes
