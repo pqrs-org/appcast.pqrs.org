@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.6.0</title>
+      <title>Version 14.8.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,22 +16,22 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.6.0 Update</h2>
+<h2>About v14.8.0 Update</h2>
 <ul>
 <li>📅 Release date
 
 <ul>
-<li>Jul 31, 2022</li>
+<li>Aug 11, 2022</li>
 </ul></li>
 <li>✨ New Features
 
 <ul>
-<li><code>Treat as a built-in keyboard</code> setting has been added into Devices configuration. It works with &ldquo;Disable the built-in keyboard&rdquo; feature.</li>
+<li>Add <code>Enable unsafe configuration</code> feature into Preferences &gt; Pro tab.</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
 <ul>
-<li>Fixed an issue that &ldquo;Disable the built-in keyboard&rdquo; feature does not work if the built-in keyboard is not included in the event modification target devices.</li>
+<li>Fixed an issue that the built-in keyboard is not be treated as the built-in keyboard if the keyboard is connected via SPI (Serial Peripheral Interface), such as M2 MacBook Air.</li>
 </ul></li>
 </ul>
 <p>
@@ -41,12 +41,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 31 Jul 2022 01:51:48 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.6.0/Karabiner-Elements-14.6.0.dmg"
+      <pubDate>Thu, 11 Aug 2022 15:06:34 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.8.0/Karabiner-Elements-14.8.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.6.0"
+                 sparkle:version="14.8.0"
                  sparkle:installationType="package"
-                 sparkle:edSignature="WvcL4wofnEO7hu2lqRicWtMrTw4KHg67R9wLwoZMnhyE/ykt0qslyijCgxGwyTkZ4eS0SpWGVu9xXyACcsB7Bg==" length="20829110"
+                 sparkle:edSignature="g8khhpTeYCfLu4u46CNImbM9pSWviNigjTaleMKm3fibWM0inGkERhp7b2spzQzvMHIrBXgsDEORYDUzlZi6Bg==" length="19978527"
       />
     </item>
 
