@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.7.1</title>
+      <title>Version 14.8.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,8 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.7.1 Update</h2>
+<h2>About v14.8.0 Update</h2>
 <ul>
+<li>📅 Release date
+
+<ul>
+<li>Aug 11, 2022</li>
+</ul></li>
 <li>✨ New Features
 
 <ul>
@@ -26,7 +31,7 @@
 <li>🐛 Bug Fixes
 
 <ul>
-<li>Fixed ans issue that the built-in keyboard is not be treated as the built-in keyboard if the keyboard is connected via SPI (Serial Peripheral Interface), such as M2 MacBook Air.</li>
+<li>Fixed an issue that the built-in keyboard is not be treated as the built-in keyboard if the keyboard is connected via SPI (Serial Peripheral Interface), such as M2 MacBook Air.</li>
 </ul></li>
 </ul>
 <p>
@@ -36,12 +41,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 11 Aug 2022 14:52:19 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.7.1.dmg"
+      <pubDate>Thu, 11 Aug 2022 15:06:34 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.8.0/Karabiner-Elements-14.8.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.7.1"
+                 sparkle:version="14.8.0"
                  sparkle:installationType="package"
-                 sparkle:edSignature="bg+O7gppYgjoTBE/ZbIdLmuxZRPQjMQMm4mydwXanvywj7tjNmqB7o2licI4JE+YcEnR4UVYulOf36PcIRsdCw==" length="19978401"
+                 sparkle:edSignature="g8khhpTeYCfLu4u46CNImbM9pSWviNigjTaleMKm3fibWM0inGkERhp7b2spzQzvMHIrBXgsDEORYDUzlZi6Bg==" length="19978527"
       />
     </item>
 
