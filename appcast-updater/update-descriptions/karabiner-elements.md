@@ -1,2 +1,3 @@
 -   ✨ New Features
     -   Supported Remote control buttons. (menu arrows buttons, color buttons)
+    -   `is_built_in_keyboard` has been added into `device_if` and `device_unless`.

@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.8.1</title>
+      <title>Version 14.8.2</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,12 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.8.1 Update</h2>
+<h2>About v14.8.2 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
 <li>Supported Remote control buttons. (menu arrows buttons, color buttons)</li>
+<li><code>is_built_in_keyboard</code> has been added into <code>device_if</code> and <code>device_unless</code>.</li>
 </ul></li>
 </ul>
 <p>
@@ -31,12 +32,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 14 Aug 2022 02:02:49 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.8.1.dmg"
+      <pubDate>Mon, 15 Aug 2022 00:08:16 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.8.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.8.1"
+                 sparkle:version="14.8.2"
                  sparkle:installationType="package"
-                 sparkle:edSignature="f0DYbTj09ERjja0wW3SynrmpL08cycip71xHJWOEwTdhupFqEvNcWbU+5b470w3yLcm9ZjwutnRIHYWCGCHPDA==" length="19983093"
+                 sparkle:edSignature="VWNqGU4WPW5JkOvH3FldHXXHVso0Y6HHrA9krVWdrVXHGYMQiwmoEN0CMfCI6FxcfdGS/jPqtvs+SAX5RgHRBw==" length="19976278"
       />
     </item>
 
