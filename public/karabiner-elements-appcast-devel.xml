@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.9.2</title>
+      <title>Version 14.9.3</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,13 +16,18 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.9.2 Update</h2>
+<h2>About v14.9.3 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
 <li>Update <code>set_mouse_cursor_position</code> to use the current screen if <code>screen</code> option is not specified. (Thanks to @gnawf)</li>
 <li>Sparkle Framework has been updated.</li>
+</ul></li>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue that the <code>device_if</code> and <code>device_unless</code> does not work if vendor_id or product_id is zero. (or more precisely, if vendor_id or product_id cannot be retrieved and is set to 0)</li>
 </ul></li>
 </ul>
 <p>
@@ -32,12 +37,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 21 Sep 2022 02:47:33 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.9.2.dmg"
+      <pubDate>Sat, 24 Sep 2022 12:04:44 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.9.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.9.2"
+                 sparkle:version="14.9.3"
                  sparkle:installationType="package"
-                 sparkle:edSignature="xyJEi9+RsmlWNgX81Nq6JM+Ta4nTlPTkh2w1zlNz0RdwYZd02Re40yGFbr4sx5jCjtPgOdgjy++I9idJaCDkCw==" length="20749177"
+                 sparkle:edSignature="6qqmzIM08UBwTcbGwlqMHOa7F1CzG2XX+zoUYAzKcsrwfOrdcVXJ7saS55bmGchei+3D17IsfrEgPe2pSl4TAw==" length="20748414"
       />
     </item>
 
