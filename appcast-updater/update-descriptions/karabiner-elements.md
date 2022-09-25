@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Sep 25, 2022
 -   ⚡️ Improvements
     -   Update `set_mouse_cursor_position` to use the current screen if `screen` option is not specified. (Thanks to @gnawf)
     -   Sparkle Framework has been updated.
