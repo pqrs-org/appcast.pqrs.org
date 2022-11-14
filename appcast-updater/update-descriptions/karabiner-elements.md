@@ -1,7 +1,2 @@
--   📅 Release date
-    -   Sep 25, 2022
--   ⚡️ Improvements
-    -   Update `set_mouse_cursor_position` to use the current screen if `screen` option is not specified. (Thanks to @gnawf)
-    -   Sparkle Framework has been updated.
--   🐛 Bug Fixes
-    -   Fixed an issue that the `device_if` and `device_unless` does not work if vendor_id or product_id is zero. (or more precisely, if vendor_id or product_id cannot be retrieved and is set to 0)
+-   ✨ New Features
+    -   Add `Ask for confirmation when quitting` option into Preferences > Pro tab. (Thanks to @basti1302)

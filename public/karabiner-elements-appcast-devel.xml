@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.10.0</title>
+      <title>Version 14.10.1</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,23 +16,12 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.10.0 Update</h2>
+<h2>About v14.10.1 Update</h2>
 <ul>
-<li>📅 Release date
+<li>✨ New Features
 
 <ul>
-<li>Sep 25, 2022</li>
-</ul></li>
-<li>⚡️ Improvements
-
-<ul>
-<li>Update <code>set_mouse_cursor_position</code> to use the current screen if <code>screen</code> option is not specified. (Thanks to @gnawf)</li>
-<li>Sparkle Framework has been updated.</li>
-</ul></li>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed an issue that the <code>device_if</code> and <code>device_unless</code> does not work if vendor_id or product_id is zero. (or more precisely, if vendor_id or product_id cannot be retrieved and is set to 0)</li>
+<li>Add <code>Ask for confirmation when quitting</code> option into Preferences &gt; Pro tab. (Thanks to @basti1302)</li>
 </ul></li>
 </ul>
 <p>
@@ -42,12 +31,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 25 Sep 2022 14:29:39 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.10.0/Karabiner-Elements-14.10.0.dmg"
+      <pubDate>Mon, 14 Nov 2022 03:18:14 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.10.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.10.0"
+                 sparkle:version="14.10.1"
                  sparkle:installationType="package"
-                 sparkle:edSignature="oQi9BfTIFrFDzS67hG0vykjbmIx3i/U82KV/rm2pQXX81POHvVfvkHT21FzHTSLZ7nLGVRLVBYy7PYOHT2J5DQ==" length="20749430"
+                 sparkle:edSignature="NY9LAo5xQ84iJJ0hRfn0mUqxW1M8lnBDPZgI1UFej/wffycj2Imb2UrMVYnLV0+f9lbKVkmfWMZ69fE1BqXCBA==" length="20763681"
       />
     </item>
 
