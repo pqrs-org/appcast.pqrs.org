@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>TrueWidget Changelog</title>
+    <link>https://appcast.pqrs.org/truewidget-appcast-devel.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 0.1.6</title>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<!DOCTYPE html>
+<body>
+<style>
+* {
+  font-size: 14px !important;
+}
+</style>
+<h2>About v0.1.6 Update</h2>
+<ul>
+<li>✨ New Features
+
+<ul>
+<li>First release.</li>
+</ul></li>
+</ul>
+<p>
+  <a href="https://truewidget.pqrs.org/docs/releasenotes/">More</a>
+</p>
+</body>
+</html>
+]]>
+      </description>
+      <pubDate>Sat, 26 Nov 2022 22:46:50 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-0.1.6.dmg"
+                 type="application/octet-stream"
+                 sparkle:version="0.1.6"
+                 sparkle:edSignature="29rXFhec/KAH7Ysml2LphMDfp2t6oWUb8qKhukXZpJuSHiheEViUNOWL1sHWtATsDptqe0qTZ2AwepklUz0IBA==" length="2539925"
+      />
+    </item>
+
+  </channel>
+</rss>
