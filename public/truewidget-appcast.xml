@@ -37,7 +37,7 @@
 ]]>
       </description>
       <pubDate>Sun, 04 Dec 2022 14:25:13 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.0.0.dmg"
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.0.0/TrueWidget-1.0.0.dmg"
                  type="application/octet-stream"
                  sparkle:version="1.0.0"
                  sparkle:edSignature="1+KXA5lMPgrV1rVRgcODN5ck7JIg0/p4MLdx5xquCKQNzi1LUF04NkPjCOZ5FNikCLqrvgaW8WGzXBb8JvioBw==" length="2562579"
