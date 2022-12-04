@@ -1,2 +1,4 @@
+-   📅 Release date
+    -   Dec 4, 2022
 -   ✨ New Features
     -   First release.
