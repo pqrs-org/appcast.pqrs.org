@@ -1,4 +1,2 @@
--   📅 Release date
-    -   Dec 4, 2022
 -   ✨ New Features
-    -   First release.
+    -   Added the ability to display the Xcode bundle path.
