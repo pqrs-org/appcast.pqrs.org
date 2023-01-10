@@ -1,2 +1,4 @@
 -   ✨ New Features
-    -   Added the ability to display the Xcode bundle path.
+    -   Added option to show local date.
+    -   Added option to show processes using CPU.
+    -   Added option to show Xcode bundle path.
