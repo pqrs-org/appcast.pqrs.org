@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.0.3</title>
+      <title>Version 1.0.4</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v1.0.3 Update</h2>
+<h2>About v1.0.4 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -33,11 +33,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 10 Jan 2023 14:01:00 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.0.3.dmg"
+      <pubDate>Tue, 10 Jan 2023 23:57:55 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.0.4.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.0.3"
-                 sparkle:edSignature="bsjrA9rre2/dgD2w4DNPGaiGwnMvpnkH6G2pqL6ZpoB1rE2rGUxblBmD0jKIrBKtlXVWjgzfvsGzR0/54vJCBg==" length="3468484"
+                 sparkle:version="1.0.4"
+                 sparkle:edSignature="/1q6a5BQtrVOXqddUUUN7lBJxgSFh6BIB+qoBYoERmeCM4wctGEFyVKzkgZDoI7wQQERnZ7XWX+lO15BscIRBg==" length="3473508"
       />
     </item>
 
