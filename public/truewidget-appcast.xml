@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.0.0</title>
+      <title>Version 1.1.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,17 +16,14 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v1.0.0 Update</h2>
+<h2>About v1.1.0 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Dec 4, 2022</li>
-</ul></li>
 <li>✨ New Features
 
 <ul>
-<li>First release.</li>
+<li>Added option to show local date.</li>
+<li>Added option to show processes using CPU.</li>
+<li>Added option to show Xcode bundle path.</li>
 </ul></li>
 </ul>
 <p>
@@ -36,11 +33,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 04 Dec 2022 14:25:13 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.0.0/TrueWidget-1.0.0.dmg"
+      <pubDate>Wed, 11 Jan 2023 23:23:54 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.1.0/TrueWidget-1.1.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.0.0"
-                 sparkle:edSignature="1+KXA5lMPgrV1rVRgcODN5ck7JIg0/p4MLdx5xquCKQNzi1LUF04NkPjCOZ5FNikCLqrvgaW8WGzXBb8JvioBw==" length="2562579"
+                 sparkle:version="1.1.0"
+                 sparkle:edSignature="Y5ykgE6kDHW5gbTb5/AGOrKyfAt8P2V1HEndJTdEEHPxNc3/jbjymw9hUlV9354elcwiaDyiSWaNRJeP/IqiAA==" length="3473485"
       />
     </item>
 
