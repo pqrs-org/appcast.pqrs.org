@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.11.0</title>
+      <title>Version 14.11.1</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,33 +16,19 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.11.0 Update</h2>
+<h2>About v14.11.1 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Jan 7, 2023</li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>Changed bundle identifier of Karabiner-Elements Settings to <code>org.pqrs.Karabiner-Elements.Settings</code> from <code>org.pqrs.Karabiner-Elements.Preferences</code>.</li>
-</ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added <code>Ask for confirmation when quitting</code> option into Settings &gt; Misc tab. (Thanks to @basti1302)</li>
-</ul></li>
-<li>⚡️ Improvements
+<li>Added the following variables in MultitouchExtension. (Thanks to @codeanpeace)
 
 <ul>
-<li>Improved health checks for inter-process communication to better recover from errors.</li>
+<li>multitouch_extension_finger_count_upper_quarter_area</li>
+<li>multitouch_extension_finger_count_lower_quarter_area</li>
+<li>multitouch_extension_finger_count_left_quarter_area</li>
+<li>multitouch_extension_finger_count_right_quarter_area</li>
 </ul></li>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed an issue that uninstaller does not remove Karabiner-Elements.app and Karabiner-EventViewer.app in macOS Ventura.</li>
-<li>Fixed an issue that could cause multiple update windows will be shown.</li>
 </ul></li>
 </ul>
 <p>
@@ -52,12 +38,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 07 Jan 2023 07:06:32 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.11.0/Karabiner-Elements-14.11.0.dmg"
+      <pubDate>Thu, 26 Jan 2023 15:47:13 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.11.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.11.0"
+                 sparkle:version="14.11.1"
                  sparkle:installationType="package"
-                 sparkle:edSignature="Z0TTZcCbaJElFvnQ4qimLYsn/4l6tOIjkolxgz3/eTGlAs0/XpE8rLkz8nIVWdJnoefM4pZURTkY7nED1H9eCw==" length="25585911"
+                 sparkle:edSignature="I9GorBEnBkNQ7tltwgTfmA2oQIwNxxSieUM8X2s6kZyx2ANv9sO8EmVBTjH9dGOJEcmDkjGpk+XZPBhYsGlCBQ==" length="25584510"
       />
     </item>
 

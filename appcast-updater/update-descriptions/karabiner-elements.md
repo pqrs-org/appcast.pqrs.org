@@ -1,11 +1,6 @@
--   📅 Release date
-    -   Jan 7, 2023
--   💥 Breaking changes
-    -   Changed bundle identifier of Karabiner-Elements Settings to `org.pqrs.Karabiner-Elements.Settings` from `org.pqrs.Karabiner-Elements.Preferences`.
 -   ✨ New Features
-    -   Added `Ask for confirmation when quitting` option into Settings > Misc tab. (Thanks to @basti1302)
--   ⚡️ Improvements
-    -   Improved health checks for inter-process communication to better recover from errors.
--   🐛 Bug Fixes
-    -   Fixed an issue that uninstaller does not remove Karabiner-Elements.app and Karabiner-EventViewer.app in macOS Ventura.
-    -   Fixed an issue that could cause multiple update windows will be shown.
+    -   Added the following variables in MultitouchExtension. (Thanks to @codeanpeace)
+        -   multitouch_extension_finger_count_upper_quarter_area
+        -   multitouch_extension_finger_count_lower_quarter_area
+        -   multitouch_extension_finger_count_left_quarter_area
+        -   multitouch_extension_finger_count_right_quarter_area
