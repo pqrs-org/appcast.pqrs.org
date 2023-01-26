@@ -30,6 +30,11 @@
 <li>multitouch_extension_finger_count_right_quarter_area</li>
 </ul></li>
 </ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>Improved MultitouchExtension to synchronize finger count (half and quarter) variables with finger movement.</li>
+</ul></li>
 </ul>
 <p>
   <a href="https://karabiner-elements.pqrs.org/docs/releasenotes/">More</a>
@@ -38,7 +43,7 @@
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 26 Jan 2023 15:47:13 -0000</pubDate>
+      <pubDate>Thu, 26 Jan 2023 15:51:39 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.11.1.dmg"
                  type="application/octet-stream"
                  sparkle:version="14.11.1"

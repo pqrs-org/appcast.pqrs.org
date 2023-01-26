@@ -4,3 +4,5 @@
         -   multitouch_extension_finger_count_lower_quarter_area
         -   multitouch_extension_finger_count_left_quarter_area
         -   multitouch_extension_finger_count_right_quarter_area
+-   ⚡️ Improvements
+    -   Improved MultitouchExtension to synchronize finger count (half and quarter) variables with finger movement.
