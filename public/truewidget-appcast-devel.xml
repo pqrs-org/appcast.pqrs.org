@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.1.0</title>
+      <title>Version 1.1.1</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,14 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v1.1.0 Update</h2>
+<h2>About v1.1.1 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
-<li>Added option to show local date.</li>
-<li>Added option to show processes using CPU.</li>
-<li>Added option to show Xcode bundle path.</li>
+<li>Added option to show UTC time.</li>
+<li>Added option to show the root volume name.</li>
 </ul></li>
 </ul>
 <p>
@@ -33,11 +32,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 11 Jan 2023 23:23:54 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.1.0/TrueWidget-1.1.0.dmg"
+      <pubDate>Sat, 28 Jan 2023 00:44:26 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.1.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.1.0"
-                 sparkle:edSignature="Y5ykgE6kDHW5gbTb5/AGOrKyfAt8P2V1HEndJTdEEHPxNc3/jbjymw9hUlV9354elcwiaDyiSWaNRJeP/IqiAA==" length="3473485"
+                 sparkle:version="1.1.1"
+                 sparkle:edSignature="YSFPMUVCYXGSzP7zz9bAWpl94mzv8OFOX/pCT8jASnsdkqwzRNBq95dLCMsL00t26qo8OD3hKNSUR5r8L9y4Cg==" length="3512244"
       />
     </item>
 
