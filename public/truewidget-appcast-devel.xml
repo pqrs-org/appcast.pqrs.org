@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.1.1</title>
+      <title>Version 1.1.2</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,12 +16,12 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v1.1.1 Update</h2>
+<h2>About v1.1.2 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
-<li>Added option to show UTC time.</li>
+<li>Added option to show time of other time zones.</li>
 <li>Added option to show the root volume name.</li>
 </ul></li>
 </ul>
@@ -32,11 +32,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 28 Jan 2023 00:44:26 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.1.1.dmg"
+      <pubDate>Sun, 29 Jan 2023 04:27:10 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.1.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.1.1"
-                 sparkle:edSignature="YSFPMUVCYXGSzP7zz9bAWpl94mzv8OFOX/pCT8jASnsdkqwzRNBq95dLCMsL00t26qo8OD3hKNSUR5r8L9y4Cg==" length="3512244"
+                 sparkle:version="1.1.2"
+                 sparkle:edSignature="8xFavuPERXZ2TKJSxXsZ2TqQLo2e5kLJCDHeDJcB8GODEynhl6fjpKyiqni3eNnY8AbKBsk2ZiPe/UopGmIMDQ==" length="3563805"
       />
     </item>
 
