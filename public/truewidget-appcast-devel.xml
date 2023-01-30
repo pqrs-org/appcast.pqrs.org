@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.1.2</title>
+      <title>Version 1.1.5</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,8 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v1.1.2 Update</h2>
+<h2>About v1.1.5 Update</h2>
 <ul>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue that <code>Open at login</code> option does not work properly.</li>
+</ul></li>
 <li>✨ New Features
 
 <ul>
@@ -32,11 +37,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 29 Jan 2023 04:27:10 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.1.2.dmg"
+      <pubDate>Mon, 30 Jan 2023 14:03:27 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.1.5.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.1.2"
-                 sparkle:edSignature="8xFavuPERXZ2TKJSxXsZ2TqQLo2e5kLJCDHeDJcB8GODEynhl6fjpKyiqni3eNnY8AbKBsk2ZiPe/UopGmIMDQ==" length="3563805"
+                 sparkle:version="1.1.5"
+                 sparkle:edSignature="7J5NNbnj8PyqhPv8hjLrlOT7epHpNY2GnUM57k/n7j9gNc0d2/ia0N2whWhIFblizRH6928DJsJ+aEgpS/kNAg==" length="3791387"
       />
     </item>
 
