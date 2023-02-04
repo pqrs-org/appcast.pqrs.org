@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.1.0</title>
+      <title>Version 1.2.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,14 +16,23 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v1.1.0 Update</h2>
+<h2>About v1.2.0 Update</h2>
 <ul>
+<li>📅 Release date
+
+<ul>
+<li>Feb 4, 2022</li>
+</ul></li>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue that <code>Open at login</code> option does not work properly.</li>
+</ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added option to show local date.</li>
-<li>Added option to show processes using CPU.</li>
-<li>Added option to show Xcode bundle path.</li>
+<li>Added option to show time of other time zones.</li>
+<li>Added option to show the root volume name.</li>
 </ul></li>
 </ul>
 <p>
@@ -33,11 +42,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 11 Jan 2023 23:23:54 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.1.0/TrueWidget-1.1.0.dmg"
+      <pubDate>Sat, 04 Feb 2023 03:40:13 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.2.0/TrueWidget-1.2.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.1.0"
-                 sparkle:edSignature="Y5ykgE6kDHW5gbTb5/AGOrKyfAt8P2V1HEndJTdEEHPxNc3/jbjymw9hUlV9354elcwiaDyiSWaNRJeP/IqiAA==" length="3473485"
+                 sparkle:version="1.2.0"
+                 sparkle:edSignature="OmscchQeMe5kE+mgwI6bY5QBT+z9Fc2Ha+QN3X3hrzmAhJkTXKhsLU1Uhv3Let3qpm7hkm5YVOoc9EoQx9vzBA==" length="3791420"
       />
     </item>
 
