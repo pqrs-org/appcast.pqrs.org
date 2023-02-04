@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Feb 4, 2022
 -   🐛 Bug Fixes
     -   Fixed an issue that `Open at login` option does not work properly.
 -   ✨ New Features
