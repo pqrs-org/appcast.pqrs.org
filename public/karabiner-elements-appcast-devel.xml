@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.11.1</title>
+      <title>Version 14.11.2</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.11.1 Update</h2>
+<h2>About v14.11.2 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -33,6 +33,7 @@
 <li>⚡️ Improvements
 
 <ul>
+<li>Fix inconsistent and confusing brightness label in Simple Modifications. (Thanks to @revolter)</li>
 <li>Improved MultitouchExtension to synchronize finger count (half and quarter) variables with finger movement.</li>
 </ul></li>
 </ul>
@@ -43,12 +44,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 26 Jan 2023 15:51:39 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.11.1.dmg"
+      <pubDate>Sat, 11 Feb 2023 15:11:52 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.11.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.11.1"
+                 sparkle:version="14.11.2"
                  sparkle:installationType="package"
-                 sparkle:edSignature="I9GorBEnBkNQ7tltwgTfmA2oQIwNxxSieUM8X2s6kZyx2ANv9sO8EmVBTjH9dGOJEcmDkjGpk+XZPBhYsGlCBQ==" length="25584510"
+                 sparkle:edSignature="6lD7KCrcgo6IGYo1kRaO4U0iPiFi/K/44uevyIDDbkQXQotdC4DKpMyqH0DCgW05ZMDLw8dLaDluCDdlJmWSDg==" length="25584366"
       />
     </item>
 
