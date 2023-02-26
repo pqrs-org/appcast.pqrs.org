@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.11.2</title>
+      <title>Version 14.11.3</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.11.2 Update</h2>
+<h2>About v14.11.3 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -33,6 +33,7 @@
 <li>⚡️ Improvements
 
 <ul>
+<li>Prevent moving the mouse from waking up from sleep by ungrab devices during system sleep. (Thanks to @aspacca)</li>
 <li>Fix inconsistent and confusing brightness label in Simple Modifications. (Thanks to @revolter)</li>
 <li>Improved MultitouchExtension to synchronize finger count (half and quarter) variables with finger movement.</li>
 </ul></li>
@@ -44,12 +45,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 11 Feb 2023 15:11:52 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.11.2.dmg"
+      <pubDate>Sun, 26 Feb 2023 13:53:13 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.11.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.11.2"
+                 sparkle:version="14.11.3"
                  sparkle:installationType="package"
-                 sparkle:edSignature="6lD7KCrcgo6IGYo1kRaO4U0iPiFi/K/44uevyIDDbkQXQotdC4DKpMyqH0DCgW05ZMDLw8dLaDluCDdlJmWSDg==" length="25584366"
+                 sparkle:edSignature="eDpubJOS3lOzIq40pxOzfAN0RfnA5jgLwio85UWtwVL3ID8rQNeWuFpjP5DfZ2GNr8YP8oOTCigspU5V/ToJCA==" length="25690733"
       />
     </item>
 
