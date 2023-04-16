@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.11.90</title>
+      <title>Version 14.12.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,12 +16,21 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.11.90 Update</h2>
+<h2>About v14.12.0 Update</h2>
 <ul>
+<li>📅 Release date
+
+<ul>
+<li>Apr 16, 2023</li>
+</ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added the ability to switch application icons. This can be changed from the UI tab in Settings.</li>
+<li>Added the ability to switch application icons. This can be changed from the UI tab in Settings.
+
+<ul>
+<li><a href="https://karabiner-elements.pqrs.org/docs/manual/misc/change-app-icon/">Manual</a></li>
+</ul></li>
 <li>Added new application icons. (Thanks to @Zabriskije)</li>
 <li>Added the following variables in MultitouchExtension. (Thanks to @codeanpeace)
 
@@ -53,12 +62,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 15 Apr 2023 15:42:02 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.11.90.dmg"
+      <pubDate>Sun, 16 Apr 2023 06:53:24 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.11.90"
+                 sparkle:version="14.12.0"
                  sparkle:installationType="package"
-                 sparkle:edSignature="q9gRxs0bdFVmexRdR8LASKWCXBxkplEmkWSbygFdEJEO5NHmt8CtUco96hfW7HQFYuzJbqoLk4tFXZGER4HCBQ==" length="30601751"
+                 sparkle:edSignature="DM3eeVb5Cfrr4L3KMruIm0rMGncZPOojfBck03VUFqxQcPXYKN5WtAKoJJaz8TYKd1f8G87VRbOzbbEwQ8EBDQ==" length="30601744"
       />
     </item>
 
