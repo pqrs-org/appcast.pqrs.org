@@ -63,7 +63,7 @@
 ]]>
       </description>
       <pubDate>Sun, 16 Apr 2023 06:53:24 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.0.dmg"
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.12.0/Karabiner-Elements-14.12.0.dmg"
                  type="application/octet-stream"
                  sparkle:version="14.12.0"
                  sparkle:installationType="package"
