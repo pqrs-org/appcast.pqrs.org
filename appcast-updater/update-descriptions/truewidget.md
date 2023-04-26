@@ -1,7 +1,2 @@
--   📅 Release date
-    -   Feb 4, 2022
--   🐛 Bug Fixes
-    -   Fixed an issue that `Open at login` option does not work properly.
 -   ✨ New Features
-    -   Added option to show time of other time zones.
-    -   Added option to show the root volume name.
+    -   Added option to show user name.

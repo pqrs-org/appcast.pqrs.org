@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.2.0</title>
+      <title>Version 1.2.1</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,23 +16,12 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v1.2.0 Update</h2>
+<h2>About v1.2.1 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Feb 4, 2022</li>
-</ul></li>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed an issue that <code>Open at login</code> option does not work properly.</li>
-</ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added option to show time of other time zones.</li>
-<li>Added option to show the root volume name.</li>
+<li>Added option to show user name.</li>
 </ul></li>
 </ul>
 <p>
@@ -42,11 +31,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 04 Feb 2023 03:40:13 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.2.0/TrueWidget-1.2.0.dmg"
+      <pubDate>Wed, 26 Apr 2023 14:45:29 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.2.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.2.0"
-                 sparkle:edSignature="OmscchQeMe5kE+mgwI6bY5QBT+z9Fc2Ha+QN3X3hrzmAhJkTXKhsLU1Uhv3Let3qpm7hkm5YVOoc9EoQx9vzBA==" length="3791420"
+                 sparkle:version="1.2.1"
+                 sparkle:edSignature="9JRlLWdxGGyUHsO+DbJ60+KE7cpiMc0Ah26N9Mj84BrYwzA1feKJYjMf4pA0qI0qPHqdCr3ULVuVhA0TIBxSDw==" length="3555707"
       />
     </item>
 
