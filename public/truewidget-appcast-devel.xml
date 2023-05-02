@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.2.1</title>
+      <title>Version 1.2.2</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,12 +16,18 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v1.2.1 Update</h2>
+<h2>About v1.2.2 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
 <li>Added option to show user name.</li>
+</ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>Improved the operating system version display.</li>
+<li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
 <p>
@@ -31,11 +37,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 26 Apr 2023 14:45:29 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.2.1.dmg"
+      <pubDate>Tue, 02 May 2023 04:06:03 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.2.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.2.1"
-                 sparkle:edSignature="9JRlLWdxGGyUHsO+DbJ60+KE7cpiMc0Ah26N9Mj84BrYwzA1feKJYjMf4pA0qI0qPHqdCr3ULVuVhA0TIBxSDw==" length="3555707"
+                 sparkle:version="1.2.2"
+                 sparkle:edSignature="h7hMBk95nkce4XX+Wb96AajTVLUJq5Z/hc8xKYPLG7VpjyHYa8eRmreoGtpCMajupFjqkXBBsV1V8sfEukZcAw==" length="3370933"
       />
     </item>
 
