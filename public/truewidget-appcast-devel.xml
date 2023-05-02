@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.2.2</title>
+      <title>Version 1.3.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,8 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v1.2.2 Update</h2>
+<h2>About v1.3.0 Update</h2>
 <ul>
+<li>📅 Release date
+
+<ul>
+<li>May 2, 2023</li>
+</ul></li>
 <li>✨ New Features
 
 <ul>
@@ -26,7 +31,7 @@
 <li>⚡️ Improvements
 
 <ul>
-<li>Improved the operating system version display.</li>
+<li>Supported the security update version in macOS version display.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -37,11 +42,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 02 May 2023 04:06:03 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.2.2.dmg"
+      <pubDate>Tue, 02 May 2023 12:41:36 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.3.0/TrueWidget-1.3.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.2.2"
-                 sparkle:edSignature="h7hMBk95nkce4XX+Wb96AajTVLUJq5Z/hc8xKYPLG7VpjyHYa8eRmreoGtpCMajupFjqkXBBsV1V8sfEukZcAw==" length="3370933"
+                 sparkle:version="1.3.0"
+                 sparkle:edSignature="+yjqUAUqR5qCkY9nY5NTzenJ/1/xsR3wXGQgQ4UxVSOVoiEpHQGnipGhXdmEebKIrzXBFWFzxcBKavJ5+CAvDw==" length="3372096"
       />
     </item>
 
