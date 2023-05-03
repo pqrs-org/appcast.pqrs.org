@@ -1,7 +1,3 @@
--   📅 Release date
-    -   May 2, 2023
--   ✨ New Features
-    -   Added option to show user name.
 -   ⚡️ Improvements
-    -   Supported the security update version in macOS version display.
-    -   Sparkle Framework has been updated.
+    -   Enabled the setting of `Open at login` by default.
+    -   Changed to open TrueWidget directly instead of via the helper app when opening at login on macOS 13 or later.
