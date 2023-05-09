@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 5.5.3</title>
+      <title>Version 5.5.4</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v5.5.3 Update</h2>
+<h2>About v5.5.4 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
@@ -31,11 +31,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 02 May 2023 14:57:50 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.5.3.dmg"
+      <pubDate>Tue, 09 May 2023 03:07:11 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.5.4.dmg"
                  type="application/octet-stream"
-                 sparkle:version="5.5.3"
-                 sparkle:edSignature="VYC3VEmimIg0Dn9/MYUShZ1A/ud4v8GKc+CtxJCaq2LcomnhdEgMu7VuA6nvo64b6gHbmGkJjYWlzDhVcfb3AA==" length="3426082"
+                 sparkle:version="5.5.4"
+                 sparkle:edSignature="1805dWWxwbAIvNI35zgv0VNFs7ttjjJ5qt+mRgZB+R0qLS0DtC21u0JJTT+S7hrvty61V5hbgwFAkgEGM1kOAQ==" length="3371294"
       />
     </item>
 
