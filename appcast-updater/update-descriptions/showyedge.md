@@ -1,2 +1,3 @@
 -   ⚡️ Improvements
     -   Became sandboxed app.
+    -   Enabled the setting of `Open at login` by default.

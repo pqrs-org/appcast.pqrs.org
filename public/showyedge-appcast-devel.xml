@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 5.5.5</title>
+      <title>Version 5.5.6</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,12 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v5.5.5 Update</h2>
+<h2>About v5.5.6 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
 <li>Became sandboxed app.</li>
+<li>Enabled the setting of <code>Open at login</code> by default.</li>
 </ul></li>
 </ul>
 <p>
@@ -31,11 +32,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 09 May 2023 03:20:21 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.5.5.dmg"
+      <pubDate>Wed, 10 May 2023 14:49:31 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.5.6.dmg"
                  type="application/octet-stream"
-                 sparkle:version="5.5.5"
-                 sparkle:edSignature="QFgJJNpHL6jWSFNh31jrmJ7LltOx3gKpvKceGqtoJREAaBR7w95Q5Bpljh8fcrKHDySsURzEQ124K+A1ciYmAA==" length="3371783"
+                 sparkle:version="5.5.6"
+                 sparkle:edSignature="6Gr7cYf2Y0pQf+CFNEdgtlO2I0wxOio5ihHn0ksvO1qlstyVFDcvE0IsaN8aplUxTwPt9nwrfa0Ey/Hsapy+BA==" length="3371234"
       />
     </item>
 
