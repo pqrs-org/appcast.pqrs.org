@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   May 14, 2023
 -   ⚡️ Improvements
     -   Became sandboxed app.
     -   Enabled the setting of `Open at login` by default.
