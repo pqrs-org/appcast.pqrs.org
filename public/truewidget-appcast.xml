@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.3.0</title>
+      <title>Version 1.4.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,23 +16,23 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v1.3.0 Update</h2>
+<h2>About v1.4.0 Update</h2>
 <ul>
 <li>📅 Release date
 
 <ul>
-<li>May 2, 2023</li>
+<li>May 14, 2023</li>
 </ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added option to show user name.</li>
+<li>Changed the widget to fade out on mouseover instead of hiding immediately.</li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Supported the security update version in macOS version display.</li>
-<li>Sparkle Framework has been updated.</li>
+<li>Enabled the setting of <code>Open at login</code> by default.</li>
+<li>Changed to open TrueWidget directly instead of via the helper app when opening at login.</li>
 </ul></li>
 </ul>
 <p>
@@ -42,11 +42,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 02 May 2023 12:41:36 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.3.0/TrueWidget-1.3.0.dmg"
+      <pubDate>Sun, 14 May 2023 01:52:28 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.4.0/TrueWidget-1.4.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.3.0"
-                 sparkle:edSignature="+yjqUAUqR5qCkY9nY5NTzenJ/1/xsR3wXGQgQ4UxVSOVoiEpHQGnipGhXdmEebKIrzXBFWFzxcBKavJ5+CAvDw==" length="3372096"
+                 sparkle:version="1.4.0"
+                 sparkle:edSignature="0gheqfSt/qJJbDHcLatPLDb7GOvihi7s9yjBzCka729sSJQXSA1enNbnv2me+I8HHnOyb/dzJ1jPHSYUM06oAw==" length="3579038"
       />
     </item>
 
