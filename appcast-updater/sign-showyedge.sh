@@ -10,6 +10,8 @@ latest_dmg=$(ruby scripts/get-latest.rb $binariesdir/ShowyEdge-*.dmg)
 version=$(echo $(basename $latest_dmg .dmg) | sed 's|ShowyEdge-||')
 signature=$(sparkle/sign_update $latest_dmg)
 pubDate=$(ruby scripts/get-time.rb)
+tag='beta'
+(echo "$version" | grep -qE '\.0$') && tag="v$version"
 
 if [ "$version" == $(ruby scripts/get-version.rb <"$targetdir/showyedge-appcast-devel.xml") ]; then
   echo " $(basename $0): Already up-to-date."
@@ -61,7 +63,7 @@ cat >>"$targetdir/showyedge-appcast-devel.xml.tmp" <<EOF
 ]]>
       </description>
       <pubDate>$pubDate</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-$version.dmg"
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/$tag/ShowyEdge-$version.dmg"
                  type="application/octet-stream"
                  sparkle:version="$version"
                  $signature
