@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.12.1</title>
+      <title>Version 14.12.2</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,8 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.12.1 Update</h2>
+<h2>About v14.12.2 Update</h2>
 <ul>
+<li>✨ New Features
+
+<ul>
+<li>The <code>device_address</code> condition has been added into <code>device_if</code> and <code>device_unless</code>.</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
@@ -32,12 +37,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 20 Apr 2023 01:29:13 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.1.dmg"
+      <pubDate>Sat, 27 May 2023 02:30:24 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.12.1"
+                 sparkle:version="14.12.2"
                  sparkle:installationType="package"
-                 sparkle:edSignature="SmN+7ilao7OH2IcIei+XO5lrhz7WodPbQOYEq9pdLhKhqiSUtsJkKQjLVfhoLzAnXBGM3H0PoV1m6IS++2dFDg==" length="30627021"
+                 sparkle:edSignature="Lu2XIC2J3uzXayj8l8F+D5hCamxvtcWx2T9Lj5/UkaKzMZ4g4+dmWsQOXM1mRKyu5vsgRRG2ZZY2FYD+IffiAg==" length="30672090"
       />
     </item>
 
