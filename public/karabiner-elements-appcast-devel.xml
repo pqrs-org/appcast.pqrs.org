@@ -21,7 +21,7 @@
 <li>✨ New Features
 
 <ul>
-<li>The <code>device_address</code> condition has been added into <code>device_if</code> and <code>device_unless</code>.</li>
+<li>The <code>device_address</code> condition has been added into <code>device_if</code> and <code>device_unless</code>. (Thanks to @stackia)</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -37,7 +37,7 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 27 May 2023 02:30:24 -0000</pubDate>
+      <pubDate>Sat, 27 May 2023 02:41:29 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.2.dmg"
                  type="application/octet-stream"
                  sparkle:version="14.12.2"
