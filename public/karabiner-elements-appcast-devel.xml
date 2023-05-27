@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.12.2</title>
+      <title>Version 14.12.3</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,11 +16,12 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.12.2 Update</h2>
+<h2>About v14.12.3 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
+<li>Use Bluetooth address (Bluetooth MAC address) is used to identify the device when the Bluetooth device does not have Vendor ID and Product ID. (Thanks to @stackia)</li>
 <li>The <code>device_address</code> condition has been added into <code>device_if</code> and <code>device_unless</code>. (Thanks to @stackia)</li>
 </ul></li>
 <li>⚡️ Improvements
@@ -37,12 +38,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 27 May 2023 02:41:29 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.2.dmg"
+      <pubDate>Sat, 27 May 2023 13:38:05 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.12.2"
+                 sparkle:version="14.12.3"
                  sparkle:installationType="package"
-                 sparkle:edSignature="Lu2XIC2J3uzXayj8l8F+D5hCamxvtcWx2T9Lj5/UkaKzMZ4g4+dmWsQOXM1mRKyu5vsgRRG2ZZY2FYD+IffiAg==" length="30672090"
+                 sparkle:edSignature="wAhfhump9MWTeIMEizhAYQauoH0K1of2Olg3fB+NIqy0+eMd/MhEp5R8GWvO7p0sT5E/5VAfmLKHo8SNi5aiAw==" length="30720852"
       />
     </item>
 
