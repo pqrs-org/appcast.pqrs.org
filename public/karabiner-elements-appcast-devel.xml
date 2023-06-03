@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.12.3</title>
+      <title>Version 14.12.4</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,13 +16,14 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.12.3 Update</h2>
+<h2>About v14.12.4 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
 <li>Use Bluetooth address (Bluetooth MAC address) is used to identify the device when the Bluetooth device does not have Vendor ID and Product ID. (Thanks to @stackia)</li>
 <li>The <code>device_address</code> condition has been added into <code>device_if</code> and <code>device_unless</code>. (Thanks to @stackia)</li>
+<li>Partial gamepad support (only some buttons on DirectInput devices are supported. Xinput is not supported at all)</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -38,12 +39,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 27 May 2023 13:38:05 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.3.dmg"
+      <pubDate>Sat, 03 Jun 2023 07:05:24 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.4.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.12.3"
+                 sparkle:version="14.12.4"
                  sparkle:installationType="package"
-                 sparkle:edSignature="wAhfhump9MWTeIMEizhAYQauoH0K1of2Olg3fB+NIqy0+eMd/MhEp5R8GWvO7p0sT5E/5VAfmLKHo8SNi5aiAw==" length="30720852"
+                 sparkle:edSignature="mo/Ucwh8yL3Oc4aMUjNbXu6O0ClG1f6UYsJSfA7m4xofJze346UfLJQy9H2Twc/kvGElO9vaWoV+OmbaIcm3BQ==" length="30724821"
       />
     </item>
 
