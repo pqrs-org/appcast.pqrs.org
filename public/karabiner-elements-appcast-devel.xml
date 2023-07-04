@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.12.5</title>
+      <title>Version 14.12.6</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,15 +16,20 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.12.5 Update</h2>
+<h2>About v14.12.6 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
 <li>Use Bluetooth address (Bluetooth MAC address) is used to identify the device when the Bluetooth device does not have Vendor ID and Product ID. (Thanks to @stackia)</li>
-<li>The <code>device_address</code> condition has been added into <code>device_if</code> and <code>device_unless</code>. (Thanks to @stackia)</li>
 <li>Partial gamepad support (only some buttons on DirectInput devices are supported. Xinput is not supported at all)</li>
-<li>Add &ldquo;Move item to top&rdquo; and &ldquo;Move item to bottom&rdquo; into the context menu of the Complex Modifications list.</li>
+<li>Added &ldquo;Move item to top&rdquo; and &ldquo;Move item to bottom&rdquo; into the context menu of the Complex Modifications list.</li>
+<li>Changes for users who write their own json.
+
+<ul>
+<li>The <code>device_address</code> condition has been added into <code>device_if</code> and <code>device_unless</code>. (Thanks to @stackia)</li>
+<li>Added <code>key_up_value</code> to <code>set_variable</code>.</li>
+</ul></li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -40,12 +45,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 01 Jul 2023 23:46:40 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.5.dmg"
+      <pubDate>Tue, 04 Jul 2023 23:23:33 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.6.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.12.5"
+                 sparkle:version="14.12.6"
                  sparkle:installationType="package"
-                 sparkle:edSignature="kjf69HPjWJdHKCy0KQ9yNQlsfCNysBKu0f+I/h3qWviZ/jODG5GB2ImUELFWQyNJnG3RSh6KGc2dYC9A5UG8AQ==" length="30753497"
+                 sparkle:edSignature="Vw9Bj9CswU+uv89H/Iu3BmJtoTs9TUtxIFA7f5yYg58mvyJOMRPE2RGSUYHl+cYIcvasjjPDybF7KvRr9FXEBw==" length="30765791"
       />
     </item>
 
