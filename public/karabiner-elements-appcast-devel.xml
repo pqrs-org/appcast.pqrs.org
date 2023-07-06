@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.12.7</title>
+      <title>Version 14.12.8</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.12.7 Update</h2>
+<h2>About v14.12.8 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -45,12 +45,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 05 Jul 2023 23:32:55 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.7.dmg"
+      <pubDate>Thu, 06 Jul 2023 00:28:41 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.8.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.12.7"
+                 sparkle:version="14.12.8"
                  sparkle:installationType="package"
-                 sparkle:edSignature="Wh6aCoP16gKgoYGQmUYyOuNPr3zVeCituW6ztdfoU2qHaomYYHwGH5ytb2/MJT8nu08uzrTaecgYO0cZ8lTjCg==" length="30765785"
+                 sparkle:edSignature="GL3CqSkDVoCuKU3/Eeqxp6lqY6gAsWXoo0HxitRCLmn0m1NnU/Be3nfn6Qq1o37PyJ8RLC99Wi1R2Pp7PeEIAg==" length="30765803"
       />
     </item>
 
