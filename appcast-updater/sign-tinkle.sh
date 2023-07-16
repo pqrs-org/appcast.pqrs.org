@@ -10,6 +10,8 @@ latest_dmg=$(ruby scripts/get-latest.rb $binariesdir/Tinkle-*.dmg)
 version=$(echo $(basename $latest_dmg .dmg) | sed 's|Tinkle-||')
 signature=$(sparkle/sign_update $latest_dmg)
 pubDate=$(ruby scripts/get-time.rb)
+tag='beta'
+(echo "$version" | grep -qE '\.0$') && tag="v$version"
 
 if [ "$version" == $(ruby scripts/get-version.rb <"$targetdir/tinkle-appcast-devel.xml") ]; then
   echo " $(basename $0): Already up-to-date."
@@ -61,7 +63,7 @@ cat >>"$targetdir/tinkle-appcast-devel.xml.tmp" <<EOF
 ]]>
       </description>
       <pubDate>$pubDate</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-$version.dmg"
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/$tag/Tinkle-$version.dmg"
                  type="application/octet-stream"
                  sparkle:version="$version"
                  $signature
