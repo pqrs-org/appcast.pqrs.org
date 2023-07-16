@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.1.2</title>
+      <title>Version 2.2.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,8 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v2.1.2 Update</h2>
+<h2>About v2.2.0 Update</h2>
 <ul>
+<li>📅 Release date
+
+<ul>
+<li>Jul 16, 2023</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
@@ -32,11 +37,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 16 Jul 2023 12:09:32 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.1.2.dmg"
+      <pubDate>Sun, 16 Jul 2023 22:22:58 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/v2.2.0/Tinkle-2.2.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.1.2"
-                 sparkle:edSignature="M3bXGATS2Au70CGd9yGLCbZlpTIyMdQ1X8hx96+2IROSOe1ubc34ZJ7FrdurjicjM4uYgakCHzxTX7tyJCeIDQ==" length="3767586"
+                 sparkle:version="2.2.0"
+                 sparkle:edSignature="swQckoy/wdXdVLAs4v9AysA74AyrgncR7YMk+Zn61r8y6thpYKsncWJ1Dn/CGzHi1aiImuPI2eUI0DZmKbcMAQ==" length="3767661"
       />
     </item>
 

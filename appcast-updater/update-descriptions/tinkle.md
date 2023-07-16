@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Jul 16, 2023
 -   ⚡️ Improvements
     -   Became sandboxed app.
     -   Sparkle Framework has been updated.
