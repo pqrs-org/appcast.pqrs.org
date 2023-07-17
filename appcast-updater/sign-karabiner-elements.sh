@@ -10,6 +10,8 @@ latest_dmg=$(ruby scripts/get-latest.rb $binariesdir/Karabiner-Elements-*.dmg)
 version=$(echo $(basename $latest_dmg .dmg) | sed 's|Karabiner-Elements-||')
 signature=$(sparkle/sign_update $latest_dmg)
 pubDate=$(ruby scripts/get-time.rb)
+tag='beta'
+(echo "$version" | grep -qE '\.0$') && tag="v$version"
 
 if [ "$version" == $(ruby scripts/get-version.rb <"$targetdir/karabiner-elements-appcast-devel.xml") ]; then
   echo " $(basename $0): Already up-to-date."
@@ -61,7 +63,7 @@ cat >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp" <<EOF
 ]]>
       </description>
       <pubDate>$pubDate</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-$version.dmg"
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/$tag/Karabiner-Elements-$version.dmg"
                  type="application/octet-stream"
                  sparkle:version="$version"
                  sparkle:installationType="package"
