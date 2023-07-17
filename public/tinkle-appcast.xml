@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.1.0</title>
+      <title>Version 2.3.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,16 +16,18 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v2.1.0 Update</h2>
+<h2>About v2.3.0 Update</h2>
 <ul>
 <li>📅 Release date
 
 <ul>
-<li>May 7, 2022</li>
+<li>Jul 16, 2023</li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
+<li>Changed the default effect to Neon (gray).</li>
+<li>Became sandboxed app.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -36,11 +38,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 07 May 2022 14:26:28 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/v2.1.0/Tinkle-2.1.0.dmg"
+      <pubDate>Mon, 17 Jul 2023 00:38:31 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/v2.3.0/Tinkle-2.3.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.1.0"
-                 sparkle:edSignature="/EZPovqQiYJHl0ykdWkZBMEneLpX+/U87+8ZlNKyYLMyvAzVpIYRrYdSvCTDX99rG7TGlpsSnVk7iaZyOYeUCQ==" length="3281200"
+                 sparkle:version="2.3.0"
+                 sparkle:edSignature="iPEatq6dYbyw3VmFV0eS7nNPYUM1Ot6YhOLQopNFzdoC/NT1wyTRnYtHI0+o4jsEcj67jfw9b5X3GoE+FIEXBg==" length="3768288"
       />
     </item>
 
