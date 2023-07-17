@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 5.6.0</title>
+      <title>Version 5.6.1</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,18 +16,12 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v5.6.0 Update</h2>
+<h2>About v5.6.1 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>May 14, 2023</li>
-</ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Became sandboxed app.</li>
-<li>Enabled the setting of <code>Open at login</code> by default.</li>
+<li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
 <p>
@@ -37,11 +31,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 14 May 2023 14:06:48 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v5.6.0/ShowyEdge-5.6.0.dmg"
+      <pubDate>Mon, 17 Jul 2023 01:54:23 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.6.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="5.6.0"
-                 sparkle:edSignature="ebxe0iemV9z6xu9l84MrtI686nHmFHRd+e0nVLHuuf4YLhg8FQhyxJLwCRk1sKOrCSivwN8u60HOnNYA+fkgAg==" length="3373291"
+                 sparkle:version="5.6.1"
+                 sparkle:edSignature="7B7EYaaFKKM1CN8GdidWTTzsHtuaU9xUroRQAN1BEfyvBvVzOhkMifI+hbpWWL5ZxCpYVRaLdSiQktDprvzhBA==" length="3374163"
       />
     </item>
 
