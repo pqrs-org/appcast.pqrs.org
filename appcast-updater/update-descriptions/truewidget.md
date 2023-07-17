@@ -1,7 +1,2 @@
--   📅 Release date
-    -   May 14, 2023
--   ✨ New Features
-    -   Changed the widget to fade out on mouseover instead of hiding immediately.
 -   ⚡️ Improvements
-    -   Enabled the setting of `Open at login` by default.
-    -   Changed to open TrueWidget directly instead of via the helper app when opening at login.
+    -   Sparkle Framework has been updated.
