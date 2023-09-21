@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.12.23</title>
+      <title>Version 14.12.24</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.12.23 Update</h2>
+<h2>About v14.12.24 Update</h2>
 <ul>
 <li>🔔 Important Notes
 
@@ -28,6 +28,14 @@
 <ul>
 <li>Palm detection is supported in MultitouchExtension. (Thanks to @quarkw)</li>
 <li>Use Bluetooth address (Bluetooth MAC address) is used to identify the device when the Bluetooth device does not have Vendor ID and Product ID. (Thanks to @stackia)</li>
+<li>Add the following settings into Devices tab.
+
+<ul>
+<li><code>Flip mouse X</code></li>
+<li><code>Flip mouse Y</code></li>
+<li><code>Flip mouse vertical wheel</code></li>
+<li><code>Flip mouse horizontal wheel</code></li>
+</ul></li>
 <li>Gamepad support (DirectInput devices are supported. Xinput is not supported at all)</li>
 <li>Added &ldquo;Add new rule&rdquo; button into Complex Modifications settings.</li>
 <li>Added &ldquo;Move item to top&rdquo; and &ldquo;Move item to bottom&rdquo; into the context menu of the Complex Modifications list.</li>
@@ -43,6 +51,7 @@
 <ul>
 <li>The <code>device_address</code> condition has been added into <code>device_if</code> and <code>device_unless</code>. (Thanks to @stackia)</li>
 <li>Added <code>key_up_value</code> to <code>set_variable</code>.</li>
+<li>Added <code>mouse_basic</code> manipulator.</li>
 </ul></li>
 </ul></li>
 <li>⚡️ Improvements
@@ -60,12 +69,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 18 Sep 2023 01:51:44 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.23.dmg"
+      <pubDate>Thu, 21 Sep 2023 14:41:47 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.24.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.12.23"
+                 sparkle:version="14.12.24"
                  sparkle:installationType="package"
-                 sparkle:edSignature="Ll0iQoRpfx9NJ4T5nueKdoI/UNu3Hkjmoyl4MFQxejWy8aVlkeG8gPyGSpDD/oVgY9MDs/eX2Z+BmP+tTaDJBQ==" length="37581174"
+                 sparkle:edSignature="/wNRUGHqdg+ymmKphryzmSIYO1LoX0meJ7FTDQxbwFqhs2am9OAOAlYwYhWH0Cl9G5Pc59Ftt8ncFNBEdK4GDg==" length="35143583"
       />
     </item>
 
