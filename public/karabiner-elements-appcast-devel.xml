@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.12.24</title>
+      <title>Version 14.12.25</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.12.24 Update</h2>
+<h2>About v14.12.25 Update</h2>
 <ul>
 <li>🔔 Important Notes
 
@@ -35,6 +35,8 @@
 <li><code>Flip mouse Y</code></li>
 <li><code>Flip mouse vertical wheel</code></li>
 <li><code>Flip mouse horizontal wheel</code></li>
+<li><code>Swap mouse X and Y</code></li>
+<li><code>Swap mouse wheels</code></li>
 </ul></li>
 <li>Gamepad support (DirectInput devices are supported. Xinput is not supported at all)</li>
 <li>Added &ldquo;Add new rule&rdquo; button into Complex Modifications settings.</li>
@@ -69,12 +71,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 21 Sep 2023 14:41:47 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.24.dmg"
+      <pubDate>Fri, 22 Sep 2023 12:21:07 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.12.25.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.12.24"
+                 sparkle:version="14.12.25"
                  sparkle:installationType="package"
-                 sparkle:edSignature="/wNRUGHqdg+ymmKphryzmSIYO1LoX0meJ7FTDQxbwFqhs2am9OAOAlYwYhWH0Cl9G5Pc59Ftt8ncFNBEdK4GDg==" length="35143583"
+                 sparkle:edSignature="MZB1VSEG7pM/Vy9ibeDWKnB52xYgP7YprcyO7Vs3oa1I3YcazqBim9RHnyM5AN1o1OvmDbMxpl+3pSfh+V44CQ==" length="35176824"
       />
     </item>
 
