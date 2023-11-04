@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 5.6.0</title>
+      <title>Version 5.7.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,18 +16,22 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v5.6.0 Update</h2>
+<h2>About v5.7.0 Update</h2>
 <ul>
 <li>📅 Release date
 
 <ul>
-<li>May 14, 2023</li>
+<li>Mov 4, 2023</li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Became sandboxed app.</li>
-<li>Enabled the setting of <code>Open at login</code> by default.</li>
+<li>macOS Sonoma support has been improved.
+
+<ul>
+<li>The color picker opacity now works correctly on macOS Sonoma.</li>
+</ul></li>
+<li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
 <p>
@@ -37,11 +41,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 14 May 2023 14:06:48 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v5.6.0/ShowyEdge-5.6.0.dmg"
+      <pubDate>Sat, 04 Nov 2023 08:43:30 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v5.7.0/ShowyEdge-5.7.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="5.6.0"
-                 sparkle:edSignature="ebxe0iemV9z6xu9l84MrtI686nHmFHRd+e0nVLHuuf4YLhg8FQhyxJLwCRk1sKOrCSivwN8u60HOnNYA+fkgAg==" length="3373291"
+                 sparkle:version="5.7.0"
+                 sparkle:edSignature="5087kPiveEz96k3Jx9DMAqHcE6UXaxXCyanY2FgKOPoslHoGJBzQPYG6xhmsKHhrFdT3g1XXaO9S2CkdTYsiBA==" length="3341690"
       />
     </item>
 
