@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 5.6.1</title>
+      <title>Version 5.6.3</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,11 +16,16 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v5.6.1 Update</h2>
+<h2>About v5.6.3 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
+<li>macOS Sonoma support has been improved.
+
+<ul>
+<li>The color picker opacity now works correctly on macOS Sonoma.</li>
+</ul></li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -31,11 +36,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 17 Jul 2023 01:54:23 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.6.1.dmg"
+      <pubDate>Sat, 04 Nov 2023 07:26:55 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-5.6.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="5.6.1"
-                 sparkle:edSignature="7B7EYaaFKKM1CN8GdidWTTzsHtuaU9xUroRQAN1BEfyvBvVzOhkMifI+hbpWWL5ZxCpYVRaLdSiQktDprvzhBA==" length="3374163"
+                 sparkle:version="5.6.3"
+                 sparkle:edSignature="e0xxdRhbpISYmBjEMiiwhmRJN2Mav/1p9GK8qDWDpGwVT2Bsuu8l9UKDSOsFGShfowO0iJbGcNvLRQNs5lrEAg==" length="3342361"
       />
     </item>
 
