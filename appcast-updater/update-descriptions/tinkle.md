@@ -1,6 +1,3 @@
--   📅 Release date
-    -   Jul 16, 2023
 -   ⚡️ Improvements
-    -   Changed the default effect to Neon (gray).
-    -   Became sandboxed app.
+    -   Add effects: Line (Red), Line (Green), Line (Blue)
     -   Sparkle Framework has been updated.
