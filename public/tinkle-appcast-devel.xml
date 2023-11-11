@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.3.1</title>
+      <title>Version 2.3.2</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,11 +16,12 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v2.3.1 Update</h2>
+<h2>About v2.3.2 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
+<li>Neon effects have been improved for better visibility.</li>
 <li>Add effects: Line (Red), Line (Green), Line (Blue)</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
@@ -32,11 +33,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 05 Nov 2023 23:54:35 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.3.1.dmg"
+      <pubDate>Sat, 11 Nov 2023 07:23:22 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.3.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.3.1"
-                 sparkle:edSignature="wjEoIKeM42e3Knadbdip4kM40CjW5/jK7KxRvJ2Gq7SRsYXQL1EHk2twkblbSlKK9CxGIlQ4aNrndCd9kHMNCA==" length="3757744"
+                 sparkle:version="2.3.2"
+                 sparkle:edSignature="PQ1wNvTlQWgkMcV8+qG7Dvs1B2YLP3n+HB6To8TW6U0AyAPOrbU69KFbYjSl2xW0WBTxFG68nNiioDqrQJmhBg==" length="3757481"
       />
     </item>
 
