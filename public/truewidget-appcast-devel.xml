@@ -18,6 +18,11 @@
 </style>
 <h2>About v1.6.0 Update</h2>
 <ul>
+<li>📅 Release date
+
+<ul>
+<li>Nov 15, 2023</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
@@ -33,7 +38,7 @@
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 15 Nov 2023 14:26:18 -0000</pubDate>
+      <pubDate>Wed, 15 Nov 2023 14:29:53 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.6.0/TrueWidget-1.6.0.dmg"
                  type="application/octet-stream"
                  sparkle:version="1.6.0"
