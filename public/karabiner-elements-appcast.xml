@@ -45,6 +45,7 @@
 </ul></li>
 <li>Gamepad support (DirectInput devices are supported. Xinput is not supported at all)</li>
 <li>Added &ldquo;Add your own rule&rdquo; button into Complex Modifications settings.</li>
+<li>The json content of Complex Modifications can now be changed via the Edit button.</li>
 <li>Added &ldquo;Move item to top&rdquo; and &ldquo;Move item to bottom&rdquo; into the context menu of the Complex Modifications list.</li>
 <li>Add the following options to <code>karabiner_cli</code>
 
@@ -76,7 +77,7 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 09 Dec 2023 14:36:01 -0000</pubDate>
+      <pubDate>Sat, 09 Dec 2023 15:34:59 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.13.0/Karabiner-Elements-14.13.0.dmg"
                  type="application/octet-stream"
                  sparkle:version="14.13.0"
