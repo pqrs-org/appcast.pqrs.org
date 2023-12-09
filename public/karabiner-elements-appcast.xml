@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.12.0</title>
+      <title>Version 14.13.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,43 +16,57 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.12.0 Update</h2>
+<h2>About v14.13.0 Update</h2>
 <ul>
 <li>📅 Release date
 
 <ul>
-<li>Apr 16, 2023</li>
+<li>Dec 9, 2023</li>
+</ul></li>
+<li>🔔 Important Notes
+
+<ul>
+<li>A reboot is required when upgrading from version 14.12.0 or earlier, to update the virtual keyboard driver.</li>
 </ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added the ability to switch application icons. This can be changed from the UI tab in Settings.
+<li>Palm detection is supported in MultitouchExtension. (Thanks to @quarkw)</li>
+<li>Use Bluetooth address (Bluetooth MAC address) is used to identify the device when the Bluetooth device does not have Vendor ID and Product ID. (Thanks to @stackia)</li>
+<li>Add the following settings into Devices tab.
 
 <ul>
-<li><a href="https://karabiner-elements.pqrs.org/docs/manual/misc/change-app-icon/">Manual</a></li>
+<li><code>Flip mouse X</code></li>
+<li><code>Flip mouse Y</code></li>
+<li><code>Flip mouse vertical wheel</code></li>
+<li><code>Flip mouse horizontal wheel</code></li>
+<li><code>Swap mouse X and Y</code></li>
+<li><code>Swap mouse wheels</code></li>
 </ul></li>
-<li>Added new application icons. (Thanks to @Zabriskije)</li>
-<li>Added the following variables in MultitouchExtension. (Thanks to @codeanpeace)
+<li>Gamepad support (DirectInput devices are supported. Xinput is not supported at all)</li>
+<li>Added &ldquo;Add your own rule&rdquo; button into Complex Modifications settings.</li>
+<li>Added &ldquo;Move item to top&rdquo; and &ldquo;Move item to bottom&rdquo; into the context menu of the Complex Modifications list.</li>
+<li>Add the following options to <code>karabiner_cli</code>
 
 <ul>
-<li>multitouch_extension_finger_count_upper_quarter_area</li>
-<li>multitouch_extension_finger_count_lower_quarter_area</li>
-<li>multitouch_extension_finger_count_left_quarter_area</li>
-<li>multitouch_extension_finger_count_right_quarter_area</li>
+<li><code>--format-json</code></li>
+<li><code>--eval-js</code></li>
+<li><code>--silent</code></li>
+</ul></li>
+<li>Changes for users who write their own json.
+
+<ul>
+<li>The <code>device_address</code> condition has been added into <code>device_if</code> and <code>device_unless</code>. (Thanks to @stackia)</li>
+<li>Added <code>key_up_value</code> to <code>set_variable</code>.</li>
+<li>Added <code>mouse_basic</code> manipulator.</li>
 </ul></li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Prevent moving the mouse from waking up from sleep by ungrab devices during system sleep. (Thanks to @aspacca)</li>
-<li>Fixed inconsistent and confusing brightness label in Simple Modifications. (Thanks to @revolter)</li>
-<li>Improved MultitouchExtension to synchronize finger count (half and quarter) variables with finger movement.</li>
-<li>Moved &ldquo;Disable the built-in keyboard while this device is connected&rdquo; settings into Devices tab from Devices &gt; Advanced tab in Settings.</li>
-</ul></li>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed an issue that dynamic keyboard type change (ANSI, ISO and JIS) by changing the country code of the virtual keyboard did not work properly.</li>
+<li>Added the ability to filter by keywords when adding Complex Modifications rules.</li>
+<li>Adjusted the position of the Add rule button in Complex Modifications. (Thanks to @GanZhiXiong)</li>
+<li>MultitouchExtension has been rewritten in Swift.</li>
 </ul></li>
 </ul>
 <p>
@@ -62,12 +76,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 16 Apr 2023 06:53:24 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.12.0/Karabiner-Elements-14.12.0.dmg"
+      <pubDate>Sat, 09 Dec 2023 14:36:01 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.13.0/Karabiner-Elements-14.13.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.12.0"
+                 sparkle:version="14.13.0"
                  sparkle:installationType="package"
-                 sparkle:edSignature="DM3eeVb5Cfrr4L3KMruIm0rMGncZPOojfBck03VUFqxQcPXYKN5WtAKoJJaz8TYKd1f8G87VRbOzbbEwQ8EBDQ==" length="30601744"
+                 sparkle:edSignature="pX23no97Xde4flpmpApYLlvcomjIT6xYndqApPLulsyf3X4wOqKCEI9p6eoc+VLhvl1yG51J6hcof7ogKynfCA==" length="36555670"
       />
     </item>
 
