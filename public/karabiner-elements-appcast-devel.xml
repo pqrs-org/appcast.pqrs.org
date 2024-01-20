@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.13.2</title>
+      <title>Version 14.13.3</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,12 +16,13 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.13.2 Update</h2>
+<h2>About v14.13.3 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
 <li>Added the ability to duplicate and reorder profiles.</li>
+<li>Added the ability to restart Karabiner-Elements from the menu.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -36,12 +37,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 07 Jan 2024 14:02:58 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.13.2.dmg"
+      <pubDate>Sat, 20 Jan 2024 15:08:18 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.13.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.13.2"
+                 sparkle:version="14.13.3"
                  sparkle:installationType="package"
-                 sparkle:edSignature="yhov+LUxUxH040El1AssC/q39pDjVN1fzcTlYtpbqIdNLeHuxzaNtfZADeUmv2fINDCs+HBl6UGz5fddalO9BQ==" length="35756285"
+                 sparkle:edSignature="5+RqkYrPHDdiUcGvuFZPtY+ICuWu5XzOLbfSjNuPQnzIwbI2DsMwGTPaPyB5TVbl02gKmM/vnXN7901SmxJGCg==" length="36682295"
       />
     </item>
 
