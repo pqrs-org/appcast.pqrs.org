@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.4.0</title>
+      <title>Version 2.4.1</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,19 +16,12 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v2.4.0 Update</h2>
+<h2>About v2.4.1 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Nov 12, 2023</li>
-</ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Neon effects have been improved for better visibility.</li>
-<li>Added <code>Line</code> into the effect choices.</li>
-<li>Sparkle Framework has been updated.</li>
+<li>Minor improvements to the source code.</li>
 </ul></li>
 </ul>
 <p>
@@ -38,11 +31,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 12 Nov 2023 03:01:56 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/v2.4.0/Tinkle-2.4.0.dmg"
+      <pubDate>Sun, 18 Feb 2024 02:41:21 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.4.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.4.0"
-                 sparkle:edSignature="CRrCB8Pq+e3S7cNlFQZN0qlXiwpsrrvIKihHpAuF4kfZ7wPXzSFn2GsjTIyhmlsdt5vExdXP4UW6OB7hqDhWDg==" length="3758664"
+                 sparkle:version="2.4.1"
+                 sparkle:edSignature="MGtqg8EVYWFnDG0G4sqaxZlfRoeppGsukQ5zYlhlDMuTM9f1Gbjrgn39CbhdZ2u8DIsUz46+RJkI4ag/UkYnAw==" length="3758316"
       />
     </item>
 

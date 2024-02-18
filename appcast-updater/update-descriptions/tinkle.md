@@ -1,6 +1,2 @@
--   📅 Release date
-    -   Nov 12, 2023
 -   ⚡️ Improvements
-    -   Neon effects have been improved for better visibility.
-    -   Added `Line` into the effect choices.
-    -   Sparkle Framework has been updated.
+    -   Minor improvements to the source code.
