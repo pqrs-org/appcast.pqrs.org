@@ -3,3 +3,4 @@
     -   Added the ability to restart Karabiner-Elements from the menu.
 -   ⚡️ Improvements
     -   Improved behaviour when using the gamepad stick as a pointing device.
+    -   Improve `to_if_alone` behavior to use the modifier flags of the time the key is pressed, when sending events.
