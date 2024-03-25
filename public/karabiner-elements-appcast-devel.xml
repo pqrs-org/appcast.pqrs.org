@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.13.9</title>
+      <title>Version 14.13.10</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.13.9 Update</h2>
+<h2>About v14.13.10 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -28,7 +28,8 @@
 
 <ul>
 <li>Improved behaviour when using the gamepad stick as a pointing device.</li>
-<li>Improve <code>to_if_alone</code> behavior to use the modifier flags of the time the key is pressed, when sending events.</li>
+<li>Improved <code>to_if_alone</code> behavior to use the modifier flags of the time the key is pressed, when sending events.</li>
+<li>Support <code>al_consumer_control_configuration</code> key, used as the Music key. (Thanks to @kambala-decapitator)</li>
 </ul></li>
 </ul>
 <p>
@@ -38,12 +39,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 25 Feb 2024 04:16:30 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.13.9.dmg"
+      <pubDate>Mon, 25 Mar 2024 00:12:35 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.13.10.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.13.9"
+                 sparkle:version="14.13.10"
                  sparkle:installationType="package"
-                 sparkle:edSignature="rjgjjMDnHIIPIkyWYZQiq5MnzezsGhQwCwfHV/ycjvquiggFGiizfWIos62UowYbZJl+MexIPXjVFPN45dXRDQ==" length="43081724"
+                 sparkle:edSignature="Q4xBNkoU7896tbxOoTXsFjX28hJsNtgJd6zBp3pzBsXUPLkkpITZPoo5UxL3IYe5Tz6T4yJFvflxfs76tEmwBQ==" length="43225240"
       />
     </item>
 
