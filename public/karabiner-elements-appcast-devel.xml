@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.13.13</title>
+      <title>Version 14.13.14</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.13.13 Update</h2>
+<h2>About v14.13.14 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -31,6 +31,11 @@
 <li>Support <code>al_consumer_control_configuration</code> key, used as the Music key. (Thanks to @kambala-decapitator)</li>
 <li>Improved behaviour when using the gamepad stick as a pointing device.</li>
 <li>Improved <code>to_if_alone</code> behavior to use the modifier flags of the time the key is pressed, when sending events.</li>
+<li>Internal changes:
+
+<ul>
+<li>Improved the interface of libkrbn to minimize the use of unsafe pointers in Swift.</li>
+</ul></li>
 </ul></li>
 </ul>
 <p>
@@ -40,12 +45,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 13 Apr 2024 23:16:36 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.13.13.dmg"
+      <pubDate>Fri, 19 Apr 2024 00:26:40 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.13.14.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.13.13"
+                 sparkle:version="14.13.14"
                  sparkle:installationType="package"
-                 sparkle:edSignature="i12bMTQq1vHHr2EB1aSsPkivYkV5bZxZXBPUlm6b41vBqE2AEJB2XDHHlk4s9tksyLcRysiMKTNxMJxDFSN4AQ==" length="43560267"
+                 sparkle:edSignature="nOj5FC8gtqKrXB2Qp571xAnPH0iM8C9jdzoSWgJMMicIo69ImqEhyq5d0xf55XIvIfZqgtRZpKWg6EywlENPBA==" length="43646811"
       />
     </item>
 
