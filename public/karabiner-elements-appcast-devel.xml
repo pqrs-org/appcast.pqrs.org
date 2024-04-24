@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.13.14</title>
+      <title>Version 14.13.16</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.13.14 Update</h2>
+<h2>About v14.13.16 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -31,6 +31,8 @@
 <li>Support <code>al_consumer_control_configuration</code> key, used as the Music key. (Thanks to @kambala-decapitator)</li>
 <li>Improved behaviour when using the gamepad stick as a pointing device.</li>
 <li>Improved <code>to_if_alone</code> behavior to use the modifier flags of the time the key is pressed, when sending events.</li>
+<li>Integrated <code>karabiner_observer</code> functions into <code>karabiner_grabber</code>, and then <code>karabiner_observer</code> has been removed.
+The number of background processes has been reduced, resolving performance issues caused by inter-process communication that were occurring in some environments.</li>
 <li>Internal changes:
 
 <ul>
@@ -45,12 +47,12 @@
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 19 Apr 2024 00:26:40 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.13.14.dmg"
+      <pubDate>Wed, 24 Apr 2024 01:03:00 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.13.16.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.13.14"
+                 sparkle:version="14.13.16"
                  sparkle:installationType="package"
-                 sparkle:edSignature="nOj5FC8gtqKrXB2Qp571xAnPH0iM8C9jdzoSWgJMMicIo69ImqEhyq5d0xf55XIvIfZqgtRZpKWg6EywlENPBA==" length="43646811"
+                 sparkle:edSignature="1UH1i5lYbB3WqER3hyvfqXhaB0ji3Iqj/mApgHdEvOPhy+wihrTG5Erm+yTRO+E5o+VYQlPYllAvBe5Ja8+RDA==" length="41451056"
       />
     </item>
 
