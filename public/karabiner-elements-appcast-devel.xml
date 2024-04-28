@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.13.18</title>
+      <title>Version 14.13.19</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,7 +16,7 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.13.18 Update</h2>
+<h2>About v14.13.19 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -47,12 +47,12 @@ The number of background processes has been reduced, resolving performance issue
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 27 Apr 2024 03:51:53 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.13.18.dmg"
+      <pubDate>Sun, 28 Apr 2024 07:09:22 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.13.19.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.13.18"
+                 sparkle:version="14.13.19"
                  sparkle:installationType="package"
-                 sparkle:edSignature="SJZyBGMjAgllvIUTeh5Hynd2iKVXgftP0VNP4X/pzPA3ha9yJLbCT3o+EtAAXpo57O6g6eXuQ6wuSWJxpMjbAw==" length="42458780"
+                 sparkle:edSignature="GesoHnyP6o4MtF0Sbjbs2n/usYSU/wyGgIchoq8xnYD2a2LRdEXd4eQtG0Y2eHz5ouRjZxjdTKbi0UaMqARnAg==" length="42456776"
       />
     </item>
 
