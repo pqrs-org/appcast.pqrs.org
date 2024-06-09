@@ -45,6 +45,9 @@ cat >>"$targetdir/truewidget-appcast-devel.xml.tmp" <<EOF
 * {
   font-size: 14px !important;
 }
+img {
+  max-width: 100%;
+}
 </style>
 EOF
 
