@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.13.24</title>
+      <title>Version 14.99.2</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -16,8 +16,43 @@
   font-size: 14px !important;
 }
 </style>
-<h2>About v14.13.24 Update</h2>
+<h2>About v14.99.2 Update</h2>
 <ul>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 11 and macOS 12 are no longer supported.</li>
+<li>The background service management method has been changed to a new method compatible with macOS 13 and later.
+Therefore, permission needs to be granted for the background service to run. Please follow the steps below.
+
+<ul>
+<li>Open Karabiner-Elements Settings.</li>
+<li>Follow the instructions to allow Karabiner-Elements Privileged Daemons to run in the System Settings.
+<br/><br/>
+<table><tbody><tr><td><!-- border hack -->
+    <img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.0.0/settings@2x.png" alt="Karabiner-Elements Setttings" />
+</td></tr></tbody></table></li>
+</ul></li>
+<li>The method to enable the Multitouch Extension has changed.
+To enable the Multitouch Extension, go to the Misc tab in the settings and turn on <code>Enable Multitouch Extension</code>.
+<br/><br/>
+<table><tbody><tr><td><!-- border hack -->
+<img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.0.0/multitouch-extension@2x.png" alt="Karabiner-Elements Setttings" />
+</td></tr></tbody></table></li>
+</ul></li>
+<li>🔔 Important Notes
+
+<ul>
+<li>A unique random ID called <code>karabiner_machine_identifier</code> is now generated during installation.
+This ID is used for machine-specific settings and may be included in the karabiner.json file.
+If you are sharing karabiner.json with others, you might be interested in how this ID is generated and whether it is safe to share.
+Since it is a safe ID to share with others, and there is no need to mask it when you share karabiner.json with others.
+For more details, please refer to the <a href="https://karabiner-elements.pqrs.org/docs/privacy/">Privacy</a> page.
+<br/><br/>
+<table><tbody><tr><td><!-- border hack -->
+<img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.0.0/karabiner-machine-identifier@2x.png" alt="karabiner_machine_identifier" />
+</td></tr></tbody></table></li>
+</ul></li>
 <li>✨ New Features
 
 <ul>
@@ -28,9 +63,11 @@
 
 <ul>
 <li>Improved &ldquo;{device} is ignored temporarily until {key_code} is pressed again&rdquo; message for to make it more understandable. (Thanks to @adamnovak)</li>
+<li>Added &ldquo;Enable Karabiner Notification Window&rdquo; configuration, which allows you to hide the notification window by turning off this setting. (Thanks to @jwodnicki)</li>
 <li>Support <code>al_consumer_control_configuration</code> key, used as the Music key. (Thanks to @kambala-decapitator)</li>
 <li>Improved behaviour when using the gamepad stick as a pointing device.</li>
 <li>Improved <code>to_if_alone</code> behavior to use the modifier flags of the time the key is pressed, when sending events.</li>
+<li>Added <code>{&quot;type&quot;: &quot;unset&quot;}</code> option to <code>set_variable</code>.</li>
 <li>Integrated <code>karabiner_observer</code> functions into <code>karabiner_grabber</code>, and then <code>karabiner_observer</code> has been removed.
 The number of background processes has been reduced, resolving performance issues caused by inter-process communication that were occurring in some environments.</li>
 <li>Internal changes:
@@ -47,12 +84,12 @@ The number of background processes has been reduced, resolving performance issue
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 04 May 2024 00:54:37 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.13.24.dmg"
+      <pubDate>Sun, 09 Jun 2024 04:50:53 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.99.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.13.24"
+                 sparkle:version="14.99.2"
                  sparkle:installationType="package"
-                 sparkle:edSignature="NGMXAhoFrwEv+xa6xTQNFa1xN4FGtMaMBlc6QPUyO/0XWi+Wuci4XfH4QOSY4ZkQrTl+C49qYETf6pDuJ1FIDA==" length="42426164"
+                 sparkle:edSignature="JFMnKVH+zLSbsIOXkePAUeODOq73sM2q2pURIM2tqe/hO9YtCQOAsp083KDvpMCj/jmv87lllmknu1t385o/DA==" length="37628637"
       />
     </item>
 
