@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.99.3</title>
+      <title>Version 14.99.4</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v14.99.3 Update</h2>
+<h2>About v14.99.4 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -73,6 +73,8 @@ For more details, please refer to the <a href="https://karabiner-elements.pqrs.o
 <li>Added <code>{&quot;type&quot;: &quot;unset&quot;}</code> option to <code>set_variable</code>.</li>
 <li>Integrated <code>karabiner_observer</code> functions into <code>karabiner_grabber</code>, and then <code>karabiner_observer</code> has been removed.
 The number of background processes has been reduced, resolving performance issues caused by inter-process communication that were occurring in some environments.</li>
+<li>A custom JSON formatter has been introduced to save JSON in a more compact format.</li>
+<li>The process for saving the configuration file has been optimized so that settings that have not been changed from their default values are not included in karabiner.json.</li>
 <li>Internal changes:
 
 <ul>
@@ -87,12 +89,12 @@ The number of background processes has been reduced, resolving performance issue
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 09 Jun 2024 11:48:54 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.99.3.dmg"
+      <pubDate>Sun, 23 Jun 2024 11:56:31 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.99.4.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.99.3"
+                 sparkle:version="14.99.4"
                  sparkle:installationType="package"
-                 sparkle:edSignature="L0Jz5eQ1rpmAiNcMpeFM5xEH7kmyIsyq6NKbkAWYsCrnSQpkwoi4+bhu8KY1E/oOiJKq1rYNMpuEi4CbDG5CBw==" length="37665877"
+                 sparkle:edSignature="llaBoGkK0OiL51XOXAvwCqb9u6ZnmhIh+8pTwfrqlJ4QOyV8tBlU2GiART+V4UT4636o1QF81dd4tkITehJ8DQ==" length="33129207"
       />
     </item>
 
