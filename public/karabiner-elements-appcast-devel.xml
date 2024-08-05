@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 14.99.15</title>
+      <title>Version 14.99.16</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v14.99.15 Update</h2>
+<h2>About v14.99.16 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -59,6 +59,7 @@ For more details, please refer to the <a href="https://karabiner-elements.pqrs.o
 <li>✨ New Features
 
 <ul>
+<li>Added the ability to disable Complex Modifications rules.</li>
 <li>Added the ability to duplicate and reorder profiles.</li>
 <li>Added the ability to restart Karabiner-Elements from the menu.</li>
 <li>Added the ability to reset device settings that are not currently connected.</li>
@@ -90,12 +91,12 @@ The number of background processes has been reduced, resolving performance issue
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 04 Aug 2024 07:56:25 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.99.15.dmg"
+      <pubDate>Mon, 05 Aug 2024 00:48:30 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.99.16.dmg"
                  type="application/octet-stream"
-                 sparkle:version="14.99.15"
+                 sparkle:version="14.99.16"
                  sparkle:installationType="package"
-                 sparkle:edSignature="n0mvjYme8e9D/EdYp568C/+Vo3s+S8k9VmTQiZ4UJ2o3FbM9cK/JtVc5+DCTvaxDw98wEY/8pA6GsjKv3GaXAg==" length="33382611"
+                 sparkle:edSignature="rWKI2hrP10viARq5IWXlMFtXjzeUx9P5hvdLdr80HxINpFfOgoFI6RtDqe2wqMySRiGestadp/uRB+S7rVDbBw==" length="33394835"
       />
     </item>
 
