@@ -8,7 +8,7 @@
 
     <item>
       <title>Version 14.99.90</title>
-      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
 <style>
@@ -91,7 +91,7 @@ The number of background processes has been reduced, resolving performance issue
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 06 Aug 2024 23:36:28 -0000</pubDate>
+      <pubDate>Tue, 06 Aug 2024 23:39:26 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-14.99.90.dmg"
                  type="application/octet-stream"
                  sparkle:version="14.99.90"
