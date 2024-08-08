@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Aug 8, 2024
 -   💥 Breaking changes
     -   macOS 11 and macOS 12 are no longer supported.
     -   The background service management method has been changed to a new method compatible with macOS 13 and later.
