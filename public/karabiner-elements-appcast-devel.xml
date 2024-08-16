@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.0.1</title>
+      <title>Version 15.0.2</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,12 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.0.1 Update</h2>
+<h2>About v15.0.2 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
 <li>A setting has been added to disable mouse cursor movement and scrolling for both the mouse and gamepad.</li>
+<li>Settings of the gamepad stick have been added; deadzone and delta magnitude detection threshold.</li>
 </ul></li>
 </ul>
 <p>
@@ -34,12 +35,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 15 Aug 2024 09:54:56 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.0.1.dmg"
+      <pubDate>Fri, 16 Aug 2024 06:50:10 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.0.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.0.1"
+                 sparkle:version="15.0.2"
                  sparkle:installationType="package"
-                 sparkle:edSignature="LifYhgGGa5ptGDiX1EtO6321CRJ1SoeyzYvt595uNG5ErlHcebzdq/htzehzp3xUJTeRHFeavhHft7Hi9NY1BQ==" length="33395271"
+                 sparkle:edSignature="f1/G+kP/cnNhkX1Rdelh4A0VlYvjbZX3IrlYoOMLbilsiNGIdO132IBNwDpgMEDidsehsj3Kk5SOTr+MHAWXAQ==" length="32403471"
       />
     </item>
 

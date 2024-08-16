@@ -1,2 +1,3 @@
 -   ✨ New Features
     -   A setting has been added to disable mouse cursor movement and scrolling for both the mouse and gamepad.
+    -   Settings of the gamepad stick have been added; deadzone and delta magnitude detection threshold.
