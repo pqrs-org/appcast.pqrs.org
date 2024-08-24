@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.0.3</title>
+      <title>Version 15.0.4</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,14 +19,31 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.0.3 Update</h2>
+<h2>About v15.0.4 Update</h2>
 <ul>
+<li>💥 Breaking changes
+
+<ul>
+<li>In previous versions, when fn+arrows were implicitly changed to home, end, page up, and page down, this would occur even if other modifiers were pressed.
+For example, fn+shift+up_arrow would become shift+page_up.
+This has now been changed so that home, end, page up, and page down are only triggered when only fn is pressed.
+If you prefer the old behavior, you can revert to it by disabling the &ldquo;Change fn+arrows&hellip;&rdquo; setting in the Virtual Keyboard tab.
+<br/><br/>
+<table><tbody><tr><td><!-- border hack -->
+<img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.1.0/strict-fn-arrows@2x.png" alt="Karabiner-Elements Setttings" />
+</td></tr></tbody></table></li>
+</ul></li>
 <li>✨ New Features
 
 <ul>
 <li>A setting has been added to disable mouse cursor movement and scrolling for both the mouse and gamepad.</li>
 <li>Settings of the gamepad stick have been added; deadzone and delta magnitude detection threshold.</li>
 <li>Added an option to allow quitting EventViewer with Command+Q and Command+W.</li>
+</ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>Adjusted the gamepad deadzone default value</li>
 </ul></li>
 </ul>
 <p>
@@ -36,12 +53,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 23 Aug 2024 00:36:37 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.0.3.dmg"
+      <pubDate>Sat, 24 Aug 2024 05:27:14 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.0.4.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.0.3"
+                 sparkle:version="15.0.4"
                  sparkle:installationType="package"
-                 sparkle:edSignature="/I1Z3DumSbbEK/QyX20MWYzIBWH0761e7CgL4N7O82Yx+AiSI4PFK/66U7NBpsU79mMbsaXxjWRr2MGs8QpqAA==" length="33447275"
+                 sparkle:edSignature="KMWDGRvgNnE55WRBfsv+AWYTP+QsLEK6uWrfJtUfcaleDcFnjwMQVINqB1i/KR1r2qgCTrKTAWrO7V1UXYXFDA==" length="32425823"
       />
     </item>
 
