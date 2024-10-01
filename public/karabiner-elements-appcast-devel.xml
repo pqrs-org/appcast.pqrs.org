@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.0.14</title>
+      <title>Version 15.0.15</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.0.14 Update</h2>
+<h2>About v15.0.15 Update</h2>
 <ul>
 <li>🔔 Important Notes
 
@@ -32,7 +32,7 @@ img {
 <li>After restarting, please open the Karabiner-Elements settings and configure the keyboard type.
 <br/><br/>
 <table><tbody><tr><td><!-- border hack -->
-<img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.1.0/keyboard-type-selector@2x.png" alt="keyboard type selector" />
+<img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.1.0/keyboard-type-selector@2x.png?v=2" alt="keyboard type selector" />
 </td></tr></tbody></table></li>
 </ul></li>
 <li>💥 Breaking changes
@@ -40,6 +40,7 @@ img {
 <ul>
 <li>The implicit conversion feature for fn+arrow keys, fn+return, and fn+delete has been removed.
 For example, fn+up arrow used to be automatically changed to page up, but it will now be treated as fn+up arrow without modification.</li>
+<li>To improve the behavior around the fn key, the Vendor ID and Product ID of the virtual keyboard used by Karabiner-Elements have been changed to the same values as those of a real Apple external keyboard.</li>
 </ul></li>
 <li>✨ New Features
 
@@ -51,6 +52,7 @@ For example, fn+up arrow used to be automatically changed to page up, but it wil
 <li>⚡️ Improvements
 
 <ul>
+<li>Updated the embedded screenshots and help messages for macOS 15 Sequoia.</li>
 <li>Adjusted the gamepad deadzone default value.</li>
 </ul></li>
 </ul>
@@ -61,12 +63,12 @@ For example, fn+up arrow used to be automatically changed to page up, but it wil
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 29 Sep 2024 01:17:27 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.0.14.dmg"
+      <pubDate>Tue, 01 Oct 2024 13:17:20 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.0.15.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.0.14"
+                 sparkle:version="15.0.15"
                  sparkle:installationType="package"
-                 sparkle:edSignature="yzi7QQ9X8d31ZKUX8ZwlLqfVP6fgA1hbZzIrTLywCWiAwoHD20Eq6yn+vttOWykoY0SnFCg6H33WLDQ3KpuTDw==" length="32043515"
+                 sparkle:edSignature="mSh/oSAy5x8BzCsuvahDQWMxNe1vJjRKaXoANi3TOaJfRjsKmp/Hhz8VGzXZYntq2dHeKNgKLlf5IlO+U2aSBw==" length="32132891"
       />
     </item>
 
