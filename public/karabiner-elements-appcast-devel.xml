@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.0.17</title>
+      <title>Version 15.0.18</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.0.17 Update</h2>
+<h2>About v15.0.18 Update</h2>
 <ul>
 <li>🔔 Important Notes
 
@@ -59,6 +59,7 @@ For example, fn+up arrow used to be automatically changed to page up, but it wil
 <li>⚡️ Improvements
 
 <ul>
+<li>Fixed an issue where disconnected devices would occasionally remain in the device list.</li>
 <li>Updated the embedded screenshots and help messages for macOS 15 Sequoia.</li>
 <li>Adjusted the gamepad deadzone default value.</li>
 </ul></li>
@@ -70,12 +71,12 @@ For example, fn+up arrow used to be automatically changed to page up, but it wil
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 02 Oct 2024 00:09:54 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.0.17.dmg"
+      <pubDate>Fri, 04 Oct 2024 00:05:30 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.0.18.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.0.17"
+                 sparkle:version="15.0.18"
                  sparkle:installationType="package"
-                 sparkle:edSignature="dskhEWaYPgay/Oyvg9iNXlY2lVPM5p9V+fYSR1nJvBeGYTSHFxm6eCDmZL1Ybn0g4XNCZsIANFSn+S1lWXVCCQ==" length="32083987"
+                 sparkle:edSignature="LfX3MlFIOP+H+kjLIa1rBM97NyEmZzzvKJyfVBu/z4NA+cHHCDTxH8IlDNQXbffzc19AqAtFBMtuqb87IvVNBg==" length="32195199"
       />
     </item>
 
