@@ -29,15 +29,13 @@ img {
 <li>🔔 Important Notes
 
 <ul>
-<li>After the upgrade, macOS must be restarted to update the virtual keyboard driver.
-<br/><br/>
-  <table><tbody><tr><td><!-- border hack -->
-  <img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.1.0/macos-restart-required@2x.png" alt="macOS restart required" />
-  </td></tr></tbody></table></li>
-<li>After restarting, please open the Karabiner-Elements settings and configure the keyboard type.
-<br/><br/>
+<li>After the upgrade, you have to set keyboard type and restart macOS.
 <table><tbody><tr><td><!-- border hack -->
 <img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.1.0/keyboard-type-selector@2x.png?v=2" alt="keyboard type selector" />
+</td></tr></tbody></table>
+<br/><br/>
+<table><tbody><tr><td><!-- border hack -->
+<img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.1.0/macos-restart-required@2x.png" alt="macOS restart required" />
 </td></tr></tbody></table></li>
 </ul></li>
 <li>💥 Breaking changes
@@ -77,7 +75,7 @@ For example, fn+up arrow used to be automatically changed to page up, but it wil
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 06 Oct 2024 12:59:49 -0000</pubDate>
+      <pubDate>Sun, 06 Oct 2024 13:25:13 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.1.0/Karabiner-Elements-15.1.0.dmg"
                  type="application/octet-stream"
                  sparkle:version="15.1.0"
