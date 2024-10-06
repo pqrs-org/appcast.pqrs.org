@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.0.18</title>
+      <title>Version 15.0.19</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.0.18 Update</h2>
+<h2>About v15.0.19 Update</h2>
 <ul>
 <li>🔔 Important Notes
 
@@ -52,6 +52,7 @@ For example, fn+up arrow used to be automatically changed to page up, but it wil
 <li>✨ New Features
 
 <ul>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/open_application/">open_application</a> to complex modifications.</li>
 <li>A setting has been added to disable mouse cursor movement and scrolling for both the mouse and gamepad.</li>
 <li>Settings of the gamepad stick have been added; deadzone and delta magnitude detection threshold.</li>
 <li>Added an option to allow quitting EventViewer with Command+Q and Command+W.</li>
@@ -71,12 +72,12 @@ For example, fn+up arrow used to be automatically changed to page up, but it wil
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 04 Oct 2024 00:05:30 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.0.18.dmg"
+      <pubDate>Sun, 06 Oct 2024 08:04:50 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.0.19.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.0.18"
+                 sparkle:version="15.0.19"
                  sparkle:installationType="package"
-                 sparkle:edSignature="LfX3MlFIOP+H+kjLIa1rBM97NyEmZzzvKJyfVBu/z4NA+cHHCDTxH8IlDNQXbffzc19AqAtFBMtuqb87IvVNBg==" length="32195199"
+                 sparkle:edSignature="oHVWlwTlEk5mf2XpByu3PBRsvCQMcAFaXywaBLwxy6eSjG/eP0tSd6Ytyl1JFN1Xu3JvYnjQ9yHiypGuRCVNAg==" length="32320671"
       />
     </item>
 
