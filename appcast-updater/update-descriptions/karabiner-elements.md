@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Oct 6, 2024
 -   🔔 Important Notes
     -   After the upgrade, macOS must be restarted to update the virtual keyboard driver.
         <br/><br/>
