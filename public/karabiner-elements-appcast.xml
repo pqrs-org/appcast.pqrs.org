@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.0.0</title>
+      <title>Version 15.1.0</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,74 +19,53 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.0.0 Update</h2>
+<h2>About v15.1.0 Update</h2>
 <ul>
 <li>📅 Release date
 
 <ul>
-<li>Aug 8, 2024</li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>macOS 11 and macOS 12 are no longer supported.</li>
-<li>The background service management method has been changed to a new method compatible with macOS 13 and later.
-Therefore, permission needs to be granted for the background service to run. Please follow the steps below.
-
-<ul>
-<li>Open Karabiner-Elements Settings.</li>
-<li>Follow the instructions to allow Karabiner-Elements Privileged Daemons to run in the System Settings.
-<br/><br/>
-<table><tbody><tr><td><!-- border hack -->
-    <img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.0.0/settings@2x.png" alt="Karabiner-Elements Setttings" />
-</td></tr></tbody></table></li>
-</ul></li>
-<li>The method to enable the Multitouch Extension has changed.
-To enable the Multitouch Extension, go to the Misc tab in the settings and turn on <code>Enable Multitouch Extension</code>.
-<br/><br/>
-<table><tbody><tr><td><!-- border hack -->
-<img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.0.0/multitouch-extension@2x.png" alt="Karabiner-Elements Setttings" />
-</td></tr></tbody></table></li>
+<li>Oct 6, 2024</li>
 </ul></li>
 <li>🔔 Important Notes
 
 <ul>
-<li>A unique random ID called <code>karabiner_machine_identifier</code> is now generated during installation.
-This ID is used for machine-specific settings and may be included in the karabiner.json file.
-If you are sharing karabiner.json with others, you might be interested in how this ID is generated and whether it is safe to share.
-Since it is a safe ID to share with others, and there is no need to mask it when you share karabiner.json with others.
-For more details, please refer to the <a href="https://karabiner-elements.pqrs.org/docs/privacy/">Privacy</a> page.
+<li>After the upgrade, you have to set keyboard type and restart macOS.
+<table><tbody><tr><td><!-- border hack -->
+<img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.1.0/keyboard-type-selector@2x.png?v=2" alt="keyboard type selector" />
+</td></tr></tbody></table>
 <br/><br/>
 <table><tbody><tr><td><!-- border hack -->
-<img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.0.0/karabiner-machine-identifier@2x.png" alt="karabiner_machine_identifier" />
+<img src="https://karabiner-elements.pqrs.org/docs/releasenotes/images/v15.1.0/macos-restart-required@2x.png" alt="macOS restart required" />
 </td></tr></tbody></table></li>
+</ul></li>
+<li>💥 Breaking changes
+
+<ul>
+<li>The implicit conversion feature for fn+arrow keys, fn+return, and fn+delete has been removed.
+For example, fn+up arrow used to be automatically changed to page up, but it will now be treated as fn+up arrow without modification.</li>
+<li>To improve the behavior around the fn key, the Vendor ID and Product ID of the virtual keyboard used by Karabiner-Elements have been changed to the same values as those of a real Apple external keyboard.</li>
+<li>There were two JSON files that output information about connected devices, but this information has now been consolidated into <code>karabiner_grabber_devices.json</code>.
+<code>karabiner_grabber_device_details.json</code> is no longer used. Please use <code>karabiner_grabber_devices.json</code> from now on.
+
+<ul>
+<li><code>karabiner_grabber_devices.json</code></li>
+<li><code>karabiner_grabber_device_details.json</code> (obsoleted)</li>
+</ul></li>
 </ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added the ability to disable Complex Modifications rules.</li>
-<li>Added the ability to duplicate and reorder profiles.</li>
-<li>Added the ability to restart Karabiner-Elements from the menu.</li>
-<li>Added the ability to reset device settings that are not currently connected.</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/open_application/">open_application</a> to complex modifications.</li>
+<li>A setting has been added to disable mouse cursor movement and scrolling for both the mouse and gamepad.</li>
+<li>Settings of the gamepad stick have been added; deadzone and delta magnitude detection threshold.</li>
+<li>Added an option to allow quitting EventViewer with Command+Q and Command+W.</li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Improved &ldquo;{device} is ignored temporarily until {key_code} is pressed again&rdquo; message for to make it more understandable. (Thanks to @adamnovak)</li>
-<li>Added &ldquo;Enable Karabiner Notification Window&rdquo; configuration, which allows you to hide the notification window by turning off this setting. (Thanks to @jwodnicki)</li>
-<li>Support <code>al_consumer_control_configuration</code> key, used as the Music key. (Thanks to @kambala-decapitator)</li>
-<li>Improved behaviour when using the gamepad stick as a pointing device.</li>
-<li>Improved <code>to_if_alone</code> behavior to use the modifier flags of the time the key is pressed, when sending events.</li>
-<li>Added <code>{&quot;type&quot;: &quot;unset&quot;}</code> option to <code>set_variable</code>.</li>
-<li>Integrated <code>karabiner_observer</code> functions into <code>karabiner_grabber</code>, and then <code>karabiner_observer</code> has been removed.
-The number of background processes has been reduced, resolving performance issues caused by inter-process communication that were occurring in some environments.</li>
-<li>A custom JSON formatter has been introduced to save JSON in a more compact format.</li>
-<li>The process for saving the configuration file has been optimized so that settings that have not been changed from their default values are not included in karabiner.json.</li>
-<li>Internal changes:
-
-<ul>
-<li>Improved the interface of libkrbn to minimize the use of unsafe pointers in Swift.</li>
-</ul></li>
+<li>Fixed an issue where disconnected devices would occasionally remain in the device list.</li>
+<li>Updated the embedded screenshots and help messages for macOS 15 Sequoia.</li>
+<li>Adjusted the gamepad deadzone default value.</li>
 </ul></li>
 </ul>
 <p>
@@ -96,12 +75,12 @@ The number of background processes has been reduced, resolving performance issue
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 08 Aug 2024 23:54:51 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.0.0/Karabiner-Elements-15.0.0.dmg"
+      <pubDate>Sun, 06 Oct 2024 13:25:13 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.1.0/Karabiner-Elements-15.1.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.0.0"
+                 sparkle:version="15.1.0"
                  sparkle:installationType="package"
-                 sparkle:edSignature="5p2NkDJINFJ1Wh8k011wWkMtL3mP6sp/XNgI8TKdFS7NiL/O4uEfpO7j0DBbtPUv+U9sKL494gOb82bRzVT+Dg==" length="33410495"
+                 sparkle:edSignature="NyYCVMgBZ0bvvUMcqzzY0emWRX5cBeM2/olMEB9cdfENxu+BQenBGA8Bde5CjfMKTy4vkOe+NNszsU31WgphBg==" length="32333635"
       />
     </item>
 
