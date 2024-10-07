@@ -30,7 +30,7 @@ img {
 
 <ul>
 <li>The method for setting &ldquo;Use all F1, F2, etc. keys as standard function keys&rdquo; has been changed.
-Due to internal processing in macOS, with the new virtual keyboard introduced in version 15.0.0, this setting must be changed through System Settings.</li>
+Due to internal processing in macOS, with the new virtual keyboard introduced in version 15.1.0, this setting must be changed through System Settings.</li>
 </ul></li>
 </ul>
 
