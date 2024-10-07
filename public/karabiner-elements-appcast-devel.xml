@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.1.1</title>
+      <title>Version 15.2.0</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,8 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.1.1 Update</h2>
+<h2>About v15.2.0 Update</h2>
 <ul>
+<li>📅 Release date
+
+<ul>
+<li>Oct 7, 2024</li>
+</ul></li>
 <li>🐛 Bug Fixes
 
 <ul>
@@ -86,12 +91,12 @@ For example, fn+up arrow used to be automatically changed to page up, but it wil
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 07 Oct 2024 13:53:46 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.1.1.dmg"
+      <pubDate>Mon, 07 Oct 2024 15:00:33 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.2.0/Karabiner-Elements-15.2.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.1.1"
+                 sparkle:version="15.2.0"
                  sparkle:installationType="package"
-                 sparkle:edSignature="Uivj0Z1Jmwf0gG5RLnu7s7gP/66KTe5OhHw9NrI2RWkET9plwysBzsDKT/Kr2C20P9ty9yTVMMIQvMe/QR6oBQ==" length="32327035"
+                 sparkle:edSignature="3+eOPaZS+6NPFsnsP0lFf2EWES16MFA9rlLHAa+PZLNR1qGgLsgh9EVlgKlM6A6rNGzXhGvLVeBE947qQDOYAw==" length="32325163"
       />
     </item>
 
