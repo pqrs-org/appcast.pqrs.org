@@ -1,3 +1,9 @@
+-   🐛 Bug Fixes
+    -   The method for setting "Use all F1, F2, etc. keys as standard function keys" has been changed.
+        Due to internal processing in macOS, with the new virtual keyboard introduced in version 15.0.0, this setting must be changed through System Settings.
+
+## v15.1.0
+
 -   📅 Release date
     -   Oct 6, 2024
 -   🔔 Important Notes
