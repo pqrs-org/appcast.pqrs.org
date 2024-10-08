@@ -1,3 +1,8 @@
+-   🐛 Bug Fixes
+    -   Fixed the behavior when setting the function keys to act as regular f1...f12 keys instead of media controls.
+
+## v15.2.0
+
 -   📅 Release date
     -   Oct 7, 2024
 -   🐛 Bug Fixes
