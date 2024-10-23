@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.2.1</title>
+      <title>Version 15.2.2</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,12 +19,17 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.2.1 Update</h2>
+<h2>About v15.2.2 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
 <ul>
 <li>Fixed the behavior when setting the function keys to act as regular f1&hellip;f12 keys instead of media controls.</li>
+</ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>The key names in the Function Keys settings became clearer when &ldquo;Use all F1, F2, etc. keys as standard function keys&rdquo; is enabled.</li>
 </ul></li>
 </ul>
 
@@ -101,12 +106,12 @@ For example, fn+up arrow used to be automatically changed to page up, but it wil
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 08 Oct 2024 15:18:30 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.2.1.dmg"
+      <pubDate>Wed, 23 Oct 2024 00:08:07 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.2.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.2.1"
+                 sparkle:version="15.2.2"
                  sparkle:installationType="package"
-                 sparkle:edSignature="qzF0uv5L4UY0VhfRhFmUJYDhuSyTNkeoAQ56XOPODBXyUoyO2+09tSLUajLHalI+ch4rKiqYDBRudCMLW6o6DA==" length="32335167"
+                 sparkle:edSignature="FZuezSm+eEgnVz6alrxYK/UOOKeavUluHUvrRlfAjRfD5JU1PScTatm7U8qw9L1u/Xx6DoDM84YsEBoDCd3PDg==" length="31283987"
       />
     </item>
 
