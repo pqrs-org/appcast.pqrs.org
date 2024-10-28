@@ -19,6 +19,9 @@ img {
   max-width: 100%;
 }
 </style>
+
+<a href="https://karabiner-elements.pqrs.org/docs/help/troubleshooting/breaking-changes/#karabiner-elements-1510">Details of Breaking Changes in v15.1.0</a>
+
 <h2>About v15.3.0 Update</h2>
 <ul>
 <li>📅 Release date
@@ -47,8 +50,6 @@ img {
 <li>The key names in the Function Keys settings became clearer when &ldquo;Use all F1, F2, etc. keys as standard function keys&rdquo; is enabled.</li>
 </ul></li>
 </ul>
-
-<a href="https://karabiner-elements.pqrs.org/docs/help/troubleshooting/breaking-changes/#karabiner-elements-1510">Details of Breaking Changes in v15.1.0</a>
 
 <h2>v15.2.0</h2>
 
