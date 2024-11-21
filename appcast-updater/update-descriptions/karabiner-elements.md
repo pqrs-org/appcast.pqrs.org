@@ -1,2 +1,7 @@
 -   🐛 Bug Fixes
     -   Fixed an overflow issue with the mouse key movements.
+-   ⚡️ Improvements
+    -   Support the following keys:
+        -   consumer::ac_zoom_out
+        -   consumer::ac_zoom_in
+        -   generic_desktop::system_sleep

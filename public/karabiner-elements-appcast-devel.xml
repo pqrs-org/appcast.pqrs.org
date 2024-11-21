@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.3.1</title>
+      <title>Version 15.3.2</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,12 +19,23 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.3.1 Update</h2>
+<h2>About v15.3.2 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
 <ul>
 <li>Fixed an overflow issue with the mouse key movements.</li>
+</ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>Support the following keys:
+
+<ul>
+<li>consumer::ac_zoom_out</li>
+<li>consumer::ac_zoom_in</li>
+<li>generic_desktop::system_sleep</li>
+</ul></li>
 </ul></li>
 </ul>
 <p>
@@ -34,12 +45,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 09 Nov 2024 03:40:12 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.1.dmg"
+      <pubDate>Thu, 21 Nov 2024 01:14:01 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.3.1"
+                 sparkle:version="15.3.2"
                  sparkle:installationType="package"
-                 sparkle:edSignature="AFrjQV4BLRpNVAgLDvJ7SEst4fYyG4goDO6yizNEQo12IjxcbsebYqptvGL8Ykh9H8VVa7HRcsV6z5AeyMl4Cg==" length="32337391"
+                 sparkle:edSignature="6Jw/B8R4oZ6WFcne/NvojeQ7A05E6YBzS4I0KU+gUsfAmadC7RrBwjBUxfOLptsZIcZZSeAJEEiuUtRi1ysKBg==" length="32341107"
       />
     </item>
 
