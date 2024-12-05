@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.3.5</title>
+      <title>Version 15.3.6</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.3.5 Update</h2>
+<h2>About v15.3.6 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -30,7 +30,7 @@ img {
 <li>✨ New Features
 
 <ul>
-<li>Added <code>history_index</code> option into <code>open_application</code>.</li>
+<li>Added <code>frontmost_application_history_index</code> option into <code>open_application</code>.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -51,12 +51,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 03 Dec 2024 00:21:57 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.5.dmg"
+      <pubDate>Thu, 05 Dec 2024 00:12:41 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.6.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.3.5"
+                 sparkle:version="15.3.6"
                  sparkle:installationType="package"
-                 sparkle:edSignature="hesbm1FODnDwhpYCHf1HMI4XyrKrxP6u0zQoSRrYaAtCW5+SRNMO9+H58LSG5BUt8frUHd+nDFvcTzU7nh3GAQ==" length="32627363"
+                 sparkle:edSignature="2I3s83HHrY5I71iK40W+8b/cVnlIzOeHCuqPFPmmR1zIQCss5XZIHEoquPg/F/S5Skth4jFSbNLZF/K0Kc0LDg==" length="32628587"
       />
     </item>
 
