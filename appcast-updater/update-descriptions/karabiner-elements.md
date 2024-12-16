@@ -4,6 +4,11 @@
 -   ✨ New Features
     -   Added `frontmost_application_history_index` option into `open_application`.
     -   Added `conditions` option into `to`.
+-   ⚡️ Improvements
+    -   Support the following keys:
+        -   consumer::ac_zoom_out
+        -   consumer::ac_zoom_in
+        -   generic_desktop::system_sleep
     -   Added support for new consumer keys (Thanks to @indygriffiths):
         -   `{ "consumer_key_code": "stop" }`
         -   `{ "consumer_key_code": "bass_boost" }`
@@ -11,8 +16,3 @@
         -   `{ "consumer_key_code": "bass_increment" }`
         -   `{ "consumer_key_code": "bass_decrement" }`
         -   `{ "consumer_key_code": "ac_search" }`
--   ⚡️ Improvements
-    -   Support the following keys:
-        -   consumer::ac_zoom_out
-        -   consumer::ac_zoom_in
-        -   generic_desktop::system_sleep
