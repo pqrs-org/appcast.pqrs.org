@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.3.7</title>
+      <title>Version 15.3.8</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.3.7 Update</h2>
+<h2>About v15.3.8 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -32,6 +32,16 @@ img {
 <ul>
 <li>Added <code>frontmost_application_history_index</code> option into <code>open_application</code>.</li>
 <li>Added <code>conditions</code> option into <code>to</code>.</li>
+<li>Added support for new consumer keys (Thanks to @indygriffiths):
+
+<ul>
+<li><code>{ &quot;consumer_key_code&quot;: &quot;stop&quot; }</code></li>
+<li><code>{ &quot;consumer_key_code&quot;: &quot;bass_boost&quot; }</code></li>
+<li><code>{ &quot;consumer_key_code&quot;: &quot;loudness&quot; }</code></li>
+<li><code>{ &quot;consumer_key_code&quot;: &quot;bass_increment&quot; }</code></li>
+<li><code>{ &quot;consumer_key_code&quot;: &quot;bass_decrement&quot; }</code></li>
+<li><code>{ &quot;consumer_key_code&quot;: &quot;ac_search&quot; }</code></li>
+</ul></li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -52,12 +62,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 11 Dec 2024 13:16:30 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.7.dmg"
+      <pubDate>Mon, 16 Dec 2024 00:11:18 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.8.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.3.7"
+                 sparkle:version="15.3.8"
                  sparkle:installationType="package"
-                 sparkle:edSignature="wJ95JmW1dyCf8iFAoDLJRh0Fb0VVwLcqxJ1DjQfS+FKPUTsgqqro6JFVozSXgiNqk2dBTinKuw+5tO2W6eBHDA==" length="32597767"
+                 sparkle:edSignature="oyn1PC3dZdUifyKnblMYn4GuFDg/e1xsPTlntBv2weIRzrWGPJge7GaWDpbzBaVC1+JkfKd1lqUfZ/C4XBVKBA==" length="32623379"
       />
     </item>
 
