@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.3.9</title>
+      <title>Version 15.3.10</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.3.9 Update</h2>
+<h2>About v15.3.10 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -53,6 +53,7 @@ img {
 <li><code>{ &quot;consumer_key_code&quot;: &quot;bass_decrement&quot; }</code></li>
 <li><code>{ &quot;consumer_key_code&quot;: &quot;ac_search&quot; }</code></li>
 </ul></li>
+<li>The implicit conversion of Touch ID to the Lock key has been modified to work even when modifiers are held down.</li>
 </ul></li>
 </ul>
 <p>
@@ -62,12 +63,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 16 Dec 2024 01:01:41 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.9.dmg"
+      <pubDate>Sat, 21 Dec 2024 07:20:58 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.10.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.3.9"
+                 sparkle:version="15.3.10"
                  sparkle:installationType="package"
-                 sparkle:edSignature="yxMYDMWrztt1Fs9reN8AQU72/K5OcD/rM5VaWOIBGrzpveBT1K9fH6c/svfvf969KRQBhHfRlmsZFRw7adnXAg==" length="31579671"
+                 sparkle:edSignature="zCWIfbcVQB+jOtYQrTaoSEUxvPWATStXijbavzRiE7hk6UCGqV11qfqUQ5L4aOxBfA2jsxvPLz05wo3NrFCQAQ==" length="32611727"
       />
     </item>
 
