@@ -1,2 +1,5 @@
+-   💥 Breaking changes
+    -   macOS 11 and macOS 12 are no longer supported.
 -   ⚡️ Improvements
+    -   Migrated to the SwiftUI life cycle.
     -   Sparkle Framework has been updated.

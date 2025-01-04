@@ -7,20 +7,29 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.6.2</title>
-      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <title>Version 1.99.0</title>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
 <style>
 * {
   font-size: 14px !important;
 }
+img {
+  max-width: 100%;
+}
 </style>
-<h2>About v1.6.2 Update</h2>
+<h2>About v1.99.0 Update</h2>
 <ul>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 11 and macOS 12 are no longer supported.</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
+<li>Migrated to the SwiftUI life cycle.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -31,11 +40,11 @@
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 12 May 2024 00:11:27 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.6.2.dmg"
+      <pubDate>Sat, 04 Jan 2025 02:40:07 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.99.0/TrueWidget-1.99.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.6.2"
-                 sparkle:edSignature="j7H+r+iFu8qcsFMDv1YvTZwuXVPtUZd48bMaDwjXEGQ/RCRT016SyPmvK78fxI3Xn83q/kI7nUMpGAps5seoBQ==" length="4669907"
+                 sparkle:version="1.99.0"
+                 sparkle:edSignature="KrDobPdRfAVvzUYZL55c2QLvwqw0G/OJWpLTLgxT/HVizXIqLmonfpjy77e5HU+iL5C2k7+N6KTeqFtViF3fDQ==" length="4340348"
       />
     </item>
 
