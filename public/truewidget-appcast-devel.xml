@@ -41,7 +41,7 @@ img {
 ]]>
       </description>
       <pubDate>Sat, 04 Jan 2025 02:40:07 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v1.99.0/TrueWidget-1.99.0.dmg"
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.99.0.dmg"
                  type="application/octet-stream"
                  sparkle:version="1.99.0"
                  sparkle:edSignature="KrDobPdRfAVvzUYZL55c2QLvwqw0G/OJWpLTLgxT/HVizXIqLmonfpjy77e5HU+iL5C2k7+N6KTeqFtViF3fDQ==" length="4340348"
