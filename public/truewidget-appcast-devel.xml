@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.99.1</title>
+      <title>Version 1.99.2</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,12 +19,17 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v1.99.1 Update</h2>
+<h2>About v1.99.2 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
 <ul>
 <li>macOS 11 and macOS 12 are no longer supported.</li>
+</ul></li>
+<li>✨ New Features
+
+<ul>
+<li>Added a feature to display the other application&rsquo;s version.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -40,11 +45,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 05 Jan 2025 03:28:47 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.99.1.dmg"
+      <pubDate>Wed, 08 Jan 2025 12:55:43 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.99.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.99.1"
-                 sparkle:edSignature="5RIQGPkqNkzYR9w4ohZsUlTgjdKS9/JavhQ51UaiS/h2Nee2zq1heiXy44FqHcPeWnPw7FBeuSf9mbP3+AX8Bg==" length="4341359"
+                 sparkle:version="1.99.2"
+                 sparkle:edSignature="2frRmzFiWJzwck03OSKY3gZZS2JEC0FX7X2xBQOVvFnnR4vYzNQcWLCVVLLSrHj8NOrR9/CR9AaGuj+IJj4VAw==" length="5687790"
       />
     </item>
 
