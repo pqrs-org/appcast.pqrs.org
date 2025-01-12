@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.99.6</title>
+      <title>Version 1.99.90</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v1.99.6 Update</h2>
+<h2>About v1.99.90 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -29,6 +29,7 @@ img {
 <li>✨ New Features
 
 <ul>
+<li>Added a compact display mode.</li>
 <li>Added a feature to display the other application&rsquo;s version.</li>
 </ul></li>
 <li>⚡️ Improvements
@@ -45,11 +46,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 10 Jan 2025 00:36:52 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.99.6.dmg"
+      <pubDate>Sun, 12 Jan 2025 22:04:39 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.99.90.dmg"
                  type="application/octet-stream"
-                 sparkle:version="1.99.6"
-                 sparkle:edSignature="kc1xWYWjSyvcZWI8Qyh3RRrx8szdGa+IXt9ePdoR5Gmc7qsXlb4Ec5zZEGqdB7EKOEiffLARlT4CMdSbf9HwAw==" length="5710968"
+                 sparkle:version="1.99.90"
+                 sparkle:edSignature="Zwu8WCQUwBaxGG7mlOe0A/KBYgIw6wHmkEmSiYsB+2SB6r4Qr67tAhmfRquWu41jQXHzaQQTP1UyWAz9NzbyAg==" length="5762873"
       />
     </item>
 
