@@ -58,6 +58,9 @@ EOF
 blackfriday-tool update-descriptions/truewidget.md >>"$targetdir/truewidget-appcast-devel.xml.tmp"
 
 cat >>"$targetdir/truewidget-appcast-devel.xml.tmp" <<EOF
+<p>
+  <a href="https://truewidget.pqrs.org/docs/releasenotes/">More</a>
+</p>
 </body>
 </html>
 ]]>

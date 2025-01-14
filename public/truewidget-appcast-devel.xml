@@ -39,11 +39,14 @@ img {
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
+<p>
+  <a href="https://truewidget.pqrs.org/docs/releasenotes/">More</a>
+</p>
 </body>
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 14 Jan 2025 13:37:58 -0000</pubDate>
+      <pubDate>Tue, 14 Jan 2025 13:42:17 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.99.93.dmg"
                  type="application/octet-stream"
                  sparkle:version="1.99.93"
