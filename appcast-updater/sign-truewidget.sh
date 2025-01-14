@@ -68,7 +68,7 @@ cat >>"$targetdir/truewidget-appcast-devel.xml.tmp" <<EOF
                  sparkle:version="$version"
                  $signature
       />
-      <sparkle:releaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:releaseNotesLink>
+      <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
 
   </channel>

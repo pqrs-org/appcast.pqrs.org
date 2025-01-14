@@ -43,13 +43,13 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 14 Jan 2025 13:33:24 -0000</pubDate>
+      <pubDate>Tue, 14 Jan 2025 13:37:58 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-1.99.93.dmg"
                  type="application/octet-stream"
                  sparkle:version="1.99.93"
                  sparkle:edSignature="u3ov6dnPSu0ZGJLT8tb3+y2a3NNjVRTjU7M6V0Qp0bNlNhTf4T3AWrpxN877De6/2f4QZ5TT5sOhqbV37azuDA==" length="5757078"
       />
-      <sparkle:releaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:releaseNotesLink>
+      <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
 
   </channel>
