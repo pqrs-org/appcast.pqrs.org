@@ -34,26 +34,8 @@ img {
 <li>✨ New Features
 
 <ul>
-<li>Added a compact display mode.
-<table><tbody><tr><td><!-- border hack -->
-<img src="https://truewidget.pqrs.org/docs/releasenotes/images/v2.0.0/compact@2x.png" alt="compact" />
-</td></tr></tbody></table>
-<br/><br/>
-<table><tbody><tr><td><!-- border hack -->
-<img src="https://truewidget.pqrs.org/docs/releasenotes/images/v2.0.0/menu@2x.png" alt="menu" />
-</td></tr></tbody></table>
-<br/><br/>
-<table><tbody><tr><td><!-- border hack -->
-<img src="https://truewidget.pqrs.org/docs/releasenotes/images/v2.0.0/settings-compact@2x.png" alt="settings compact" />
-</td></tr></tbody></table></li>
-<li>Added a feature to display the other application&rsquo;s version.
-<table><tbody><tr><td><!-- border hack -->
-<img src="https://truewidget.pqrs.org/docs/releasenotes/images/v2.0.0/app@2x.png" alt="application versions" />
-</td></tr></tbody></table>
-<br/><br/>
-<table><tbody><tr><td><!-- border hack -->
-<img src="https://truewidget.pqrs.org/docs/releasenotes/images/v2.0.0/settings-app@2x.png" alt="settings app" />
-</td></tr></tbody></table></li>
+<li>Added a compact display mode.</li>
+<li>Added a feature to display the other application&rsquo;s version.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -69,7 +51,7 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 15 Jan 2025 13:53:57 -0000</pubDate>
+      <pubDate>Wed, 15 Jan 2025 14:01:13 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v2.0.0/TrueWidget-2.0.0.dmg"
                  type="application/octet-stream"
                  sparkle:version="2.0.0"
