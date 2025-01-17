@@ -1,3 +1,8 @@
+-   ✨ New Features
+    -   Added a feature to display the Apple Account.
+
+## Version 2.0.0
+
 -   📅 Release date
     -   Jan 15, 2025
 -   💥 Breaking changes

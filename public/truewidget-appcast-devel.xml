@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.0.0</title>
+      <title>Version 2.0.1</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,17 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.0.0 Update</h2>
+<h2>About v2.0.1 Update</h2>
+<ul>
+<li>✨ New Features
+
+<ul>
+<li>Added a feature to display the Apple Account.</li>
+</ul></li>
+</ul>
+
+<h2>Version 2.0.0</h2>
+
 <ul>
 <li>📅 Release date
 
@@ -51,11 +61,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 15 Jan 2025 14:01:13 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v2.0.0/TrueWidget-2.0.0.dmg"
+      <pubDate>Fri, 17 Jan 2025 09:42:15 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.0.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.0.0"
-                 sparkle:edSignature="0JC88FlYipb1+TsMBeLihDBELgZT73+oJashFtU6j+7WacwRDMJo/GMzlg3PUhPeYhuWwxPGFys5Vg8v5QhcDA==" length="5757610"
+                 sparkle:version="2.0.1"
+                 sparkle:edSignature="s6BFTHOJvr9tIVMQ+3LYd84A9beqCUM/T9fohcRZmfRO/g9yOLcBc03PZlVpAuKJ84HkK9Ma9odw0A/d1rHlDg==" length="5764884"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
