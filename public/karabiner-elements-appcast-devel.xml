@@ -71,6 +71,7 @@ img {
                  sparkle:installationType="package"
                  sparkle:edSignature="idefHdrXIHEBPlvX0io2j9nOLCZ+HZCKIQ3DCa/C808nvrnYnLu5IgsfR4aUVuzzKrUVe8RPRpb5s+NpB7aLBw==" length="32643807"
       />
+      <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
 
   </channel>

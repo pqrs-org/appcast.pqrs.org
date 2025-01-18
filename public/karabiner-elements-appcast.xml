@@ -131,6 +131,7 @@ For example, fn+up arrow used to be automatically changed to page up, but it wil
                  sparkle:installationType="package"
                  sparkle:edSignature="hZgwZbrw32nUEn2bi9rE4R0Ghx2hq0AwHAdjjqjqGi/I59enHDtw7KxKt6nwZKdpgk/A+JLS7fZK4JveZAxDAQ==" length="32338279"
       />
+      <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
 
     <item>
