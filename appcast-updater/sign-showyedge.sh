@@ -38,7 +38,7 @@ cat >>"$targetdir/showyedge-appcast-devel.xml.tmp" <<EOF
 
     <item>
       <title>Version $version</title>
-      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
 <style>
@@ -71,6 +71,7 @@ cat >>"$targetdir/showyedge-appcast-devel.xml.tmp" <<EOF
                  sparkle:version="$version"
                  $signature
       />
+      <sparkle:fullReleaseNotesLink>https://showyedge.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
 
   </channel>
