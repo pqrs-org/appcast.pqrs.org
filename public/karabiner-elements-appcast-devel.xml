@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.3.13</title>
+      <title>Version 15.3.14</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.3.13 Update</h2>
+<h2>About v15.3.14 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -37,6 +37,7 @@ img {
 <li>⚡️ Improvements
 
 <ul>
+<li>Improved <code>to_delayed_action</code> behavior to use the modifier flags of the time the key is pressed, when sending events.</li>
 <li>Support the following keys:
 
 <ul>
@@ -64,12 +65,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 30 Dec 2024 23:39:12 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.13.dmg"
+      <pubDate>Sun, 26 Jan 2025 23:54:16 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.14.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.3.13"
+                 sparkle:version="15.3.14"
                  sparkle:installationType="package"
-                 sparkle:edSignature="idefHdrXIHEBPlvX0io2j9nOLCZ+HZCKIQ3DCa/C808nvrnYnLu5IgsfR4aUVuzzKrUVe8RPRpb5s+NpB7aLBw==" length="32643807"
+                 sparkle:edSignature="IxiZJVIhuD5MYVHrZyynHgZOnnpjUDGf+F+fhzF/v+bxZ6oMZvkvfDjU73S5AMMscksEzx0MY+Bc1v8cMM7ZBg==" length="32638515"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
