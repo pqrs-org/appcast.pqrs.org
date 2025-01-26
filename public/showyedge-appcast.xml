@@ -7,6 +7,55 @@
     <language>en</language>
 
     <item>
+      <title>Version 6.0.0</title>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<!DOCTYPE html>
+<body>
+<style>
+* {
+  font-size: 14px !important;
+}
+img {
+  max-width: 100%;
+}
+</style>
+<h2>About v6.0.0 Update</h2>
+<ul>
+<li>📅 Release date
+
+<ul>
+<li>Jan 26, 2025</li>
+</ul></li>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 11 and macOS 12 are no longer supported.</li>
+</ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>Migrated to the SwiftUI life cycle.</li>
+<li>Improved the behavior when the menu bar is hidden.</li>
+<li>Sparkle Framework has been updated.</li>
+</ul></li>
+</ul>
+<p>
+  <a href="https://showyedge.pqrs.org/docs/releasenotes/">More</a>
+</p>
+</body>
+</html>
+]]>
+      </description>
+      <pubDate>Sun, 26 Jan 2025 01:38:17 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v6.0.0/ShowyEdge-6.0.0.dmg"
+                 type="application/octet-stream"
+                 sparkle:version="6.0.0"
+                 sparkle:edSignature="nbHwfZxmf9AzMpGmLj9RQvQxNMkhctdqdDBI2dXAVNuuFP6xUIOpjiiZXo0ecgGcpYnrbMfVsx3Kwsin5DtyAw==" length="4320256"
+      />
+      <sparkle:fullReleaseNotesLink>https://showyedge.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
+    </item>
+
+    <item>
       <title>Version 5.7.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
