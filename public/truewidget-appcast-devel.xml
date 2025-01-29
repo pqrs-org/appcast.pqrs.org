@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.1.0</title>
+      <title>Version 2.1.1</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,39 +19,17 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.1.0 Update</h2>
+<h2>About v2.1.1 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
-<li>Added a feature to display the Apple Account.</li>
-</ul></li>
-</ul>
-
-<h2>Version 2.0.0</h2>
-
-<ul>
-<li>📅 Release date
-
-<ul>
-<li>Jan 15, 2025</li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>macOS 11 and macOS 12 are no longer supported.</li>
-</ul></li>
-<li>✨ New Features
-
-<ul>
-<li>Added a compact display mode.</li>
-<li>Added a feature to display the other application&rsquo;s version.</li>
+<li>Added a feature to show system uptime.</li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Migrated to the SwiftUI life cycle.</li>
-<li>Sparkle Framework has been updated.</li>
+<li>Added the ability to specify the font size for seconds in the time display.</li>
 </ul></li>
 </ul>
 <p>
@@ -61,11 +39,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 17 Jan 2025 22:28:21 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v2.1.0/TrueWidget-2.1.0.dmg"
+      <pubDate>Wed, 29 Jan 2025 14:26:17 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.1.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.1.0"
-                 sparkle:edSignature="MqHdUFAdSTfcIjtHwFUdeS1MqSUcA9fqB3zcTEHjUCu4o4bqiGvmYWkRPVR8U/0i+2FQTXG5bm45XokD0lEICw==" length="5766285"
+                 sparkle:version="2.1.1"
+                 sparkle:edSignature="ONp5o6rovGeEVjwvlS7c3LY1ADAwhQbgF2tyfnKB2zOboFjXjNXuIOa4QhPX3lYNBL9CIEEjX3ahXo3OmzazBQ==" length="5772878"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
