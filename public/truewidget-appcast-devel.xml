@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.1.1</title>
+      <title>Version 2.1.2</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,12 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.1.1 Update</h2>
+<h2>About v2.1.2 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
 <li>Added a feature to show system uptime.</li>
+<li>Added a feature to show awake time.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -39,11 +40,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 29 Jan 2025 14:26:17 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.1.1.dmg"
+      <pubDate>Fri, 31 Jan 2025 00:06:23 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.1.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.1.1"
-                 sparkle:edSignature="ONp5o6rovGeEVjwvlS7c3LY1ADAwhQbgF2tyfnKB2zOboFjXjNXuIOa4QhPX3lYNBL9CIEEjX3ahXo3OmzazBQ==" length="5772878"
+                 sparkle:version="2.1.2"
+                 sparkle:edSignature="C6iwzHmgBDnw7Lwh84oJ8tcvmAGBpaIMsLnTHHXBEnKLfbAMZZZbqVu5hElKPKUydJ2uF1su3TRXJOqFam6FAA==" length="5778793"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
