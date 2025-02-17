@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.3.17</title>
+      <title>Version 15.3.18</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.3.17 Update</h2>
+<h2>About v15.3.18 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -36,6 +36,7 @@ It has been added as an option in the Expert tab: <code>Reorder same timestamp i
 <li>✨ New Features
 
 <ul>
+<li>Support Headset buttons.</li>
 <li>Added <code>Ignore vendor events</code> option to device settings in Devices tab.</li>
 <li>Added <code>XY movement multiplier</code> and <code>Wheels multiplier</code> to the mouse settings in Devices tab.</li>
 <li>Added <code>frontmost_application_history_index</code> option into <code>open_application</code>.</li>
@@ -73,12 +74,12 @@ It has been added as an option in the Expert tab: <code>Reorder same timestamp i
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 13 Feb 2025 22:09:56 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.17.dmg"
+      <pubDate>Mon, 17 Feb 2025 23:28:40 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.18.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.3.17"
+                 sparkle:version="15.3.18"
                  sparkle:installationType="package"
-                 sparkle:edSignature="75tGor21UK/GaPEcFk7SYAPU4vFe6H4NsXlUjlXyW84E7hTiwvuNDHtZ54wr5OkltMmMZb7yrSGMZ1B6GjsMBw==" length="32648839"
+                 sparkle:edSignature="WTZOk2tvCOUbS4dM1+tb+BsfEFtUtxqSmR7OM0ZTbBflnHC140HWJ6W6zuuLhpQCtAmjE7H64tm3cGIE1+5UBA==" length="32673419"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
