@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.3.18</title>
+      <title>Version 15.3.19</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.3.18 Update</h2>
+<h2>About v15.3.19 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -36,7 +36,7 @@ It has been added as an option in the Expert tab: <code>Reorder same timestamp i
 <li>✨ New Features
 
 <ul>
-<li>Support Headset buttons.</li>
+<li>Supported headset buttons.</li>
 <li>Added <code>Ignore vendor events</code> option to device settings in Devices tab.</li>
 <li>Added <code>XY movement multiplier</code> and <code>Wheels multiplier</code> to the mouse settings in Devices tab.</li>
 <li>Added <code>frontmost_application_history_index</code> option into <code>open_application</code>.</li>
@@ -47,7 +47,7 @@ It has been added as an option in the Expert tab: <code>Reorder same timestamp i
 
 <ul>
 <li>Improved <code>to_delayed_action</code> behavior to use the modifier flags of the time the key is pressed, when sending events.</li>
-<li>Support the following keys:
+<li>Supported the following keys:
 
 <ul>
 <li>consumer::ac_zoom_out</li>
@@ -74,12 +74,12 @@ It has been added as an option in the Expert tab: <code>Reorder same timestamp i
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 17 Feb 2025 23:28:40 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.18.dmg"
+      <pubDate>Mon, 17 Feb 2025 23:46:49 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.19.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.3.18"
+                 sparkle:version="15.3.19"
                  sparkle:installationType="package"
-                 sparkle:edSignature="WTZOk2tvCOUbS4dM1+tb+BsfEFtUtxqSmR7OM0ZTbBflnHC140HWJ6W6zuuLhpQCtAmjE7H64tm3cGIE1+5UBA==" length="32673419"
+                 sparkle:edSignature="cvEXZpsYmqyQReZ2VdTL4W+vFee/1W0+SNoMQBaTFFe1RaLpG/bfYbfN3sY+vEaq8OgZrKTb+Ez0WgLrhLtVAA==" length="32672107"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
