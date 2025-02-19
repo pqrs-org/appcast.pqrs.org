@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.3.19</title>
+      <title>Version 15.3.20</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,14 +19,8 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.3.19 Update</h2>
+<h2>About v15.3.20 Update</h2>
 <ul>
-<li>💥 Breaking changes
-
-<ul>
-<li>The reordering of key events with the same timestamp is now disabled by default.
-It has been added as an option in the Expert tab: <code>Reorder same timestamp input events to prioritize modifiers</code>.</li>
-</ul></li>
 <li>🐛 Bug Fixes
 
 <ul>
@@ -42,6 +36,7 @@ It has been added as an option in the Expert tab: <code>Reorder same timestamp i
 <li>Added <code>frontmost_application_history_index</code> option into <code>open_application</code>.</li>
 <li>Added <code>conditions</code> option into <code>to</code>.</li>
 <li>Added <code>Filter useless events from specific devices</code> option in Expert tab.</li>
+<li>Added <code>Reorder same timestamp input events to prioritize modifiers</code> in Expert tab.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -74,12 +69,12 @@ It has been added as an option in the Expert tab: <code>Reorder same timestamp i
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 17 Feb 2025 23:46:49 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.19.dmg"
+      <pubDate>Wed, 19 Feb 2025 14:33:15 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.20.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.3.19"
+                 sparkle:version="15.3.20"
                  sparkle:installationType="package"
-                 sparkle:edSignature="cvEXZpsYmqyQReZ2VdTL4W+vFee/1W0+SNoMQBaTFFe1RaLpG/bfYbfN3sY+vEaq8OgZrKTb+Ez0WgLrhLtVAA==" length="32672107"
+                 sparkle:edSignature="B69DUe2qVYOEJJMMUWTGZVPYb/HrFa6vCe/6Xrr9htXBGHWS76mPAXgVEW4k112ENjYsea7xt/I3J3rolrWyAQ==" length="31629015"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
