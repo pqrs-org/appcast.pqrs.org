@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.1.3</title>
+      <title>Version 2.1.4</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,13 +19,14 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.1.3 Update</h2>
+<h2>About v2.1.4 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
 <li>Added a feature to show system uptime.</li>
 <li>Added a feature to show awake time.</li>
+<li>Added <code>Auto compact mode</code>, which automatically switches to compact mode when there is only one display.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -40,11 +41,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 31 Jan 2025 14:27:03 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.1.3.dmg"
+      <pubDate>Thu, 20 Feb 2025 14:17:11 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.1.4.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.1.3"
-                 sparkle:edSignature="GMlVdYf6i028lgJBJEYvT1dFX2hTGTFuJgwlGrA9Kn3RZcGgDhak7xlnvmEIdUpIsoy8dj9b6ul2b+76zzD4Dw==" length="5777400"
+                 sparkle:version="2.1.4"
+                 sparkle:edSignature="6lExK4XVSt/xUDbKVyICFBW+bm47Yf6bwStHYY2r552IxNAaU25YA6JLJgliQKYUFpN3VpL5zfp0TQQYrE7+Dw==" length="5797849"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
