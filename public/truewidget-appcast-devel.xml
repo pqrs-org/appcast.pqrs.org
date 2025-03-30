@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.1.5</title>
+      <title>Version 2.1.6</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.1.5 Update</h2>
+<h2>About v2.1.6 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -27,11 +27,18 @@ img {
 <li>Added a feature to show system uptime.</li>
 <li>Added a feature to show awake time.</li>
 <li>Added <code>Auto compact mode</code>, which automatically switches to compact mode when there is only one display.</li>
+<li>Added the following settings to the widget position configuration:
+
+<ul>
+<li>Allow overlapping with Dock</li>
+<li>Window level (z-order)</li>
+</ul></li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
 <li>Added the ability to specify the font size for seconds in the time display.</li>
+<li>Added local date to compact mode.</li>
 </ul></li>
 </ul>
 <p>
@@ -41,11 +48,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 04 Mar 2025 14:24:34 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.1.5.dmg"
+      <pubDate>Sun, 30 Mar 2025 13:16:08 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.1.6.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.1.5"
-                 sparkle:edSignature="oDdRg/xUOhY9in/WMerhlXP+lUdEnFpQPxAXDqh4KJjYkBCJhGzr0HYMZWOQfWZsuNeQbFz9nVIQn9AxHm57AQ==" length="5801372"
+                 sparkle:version="2.1.6"
+                 sparkle:edSignature="KMcrW6HBzVoG7LvZ5PilsvoB7SJE5XG0b5k0icFhUh9gsdFtr3/gF9FGc625CdKb+kcp8zAEZIomhTqfndOPCQ==" length="5824052"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
