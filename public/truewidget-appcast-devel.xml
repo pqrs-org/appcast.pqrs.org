@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.1.6</title>
+      <title>Version 2.1.90</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.1.6 Update</h2>
+<h2>About v2.1.90 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -32,6 +32,8 @@ img {
 <ul>
 <li>Allow overlapping with Dock</li>
 <li>Window level (z-order)</li>
+<li>Offset X</li>
+<li>Offset Y</li>
 </ul></li>
 </ul></li>
 <li>⚡️ Improvements
@@ -48,11 +50,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 30 Mar 2025 13:16:08 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.1.6.dmg"
+      <pubDate>Sun, 30 Mar 2025 14:40:38 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.1.90.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.1.6"
-                 sparkle:edSignature="KMcrW6HBzVoG7LvZ5PilsvoB7SJE5XG0b5k0icFhUh9gsdFtr3/gF9FGc625CdKb+kcp8zAEZIomhTqfndOPCQ==" length="5824052"
+                 sparkle:version="2.1.90"
+                 sparkle:edSignature="962kwlY2Zre+8SN/vEBGH7SJf53i+CcYh1bUwiPhQmm5NjXHf6pg64BPPKkcOjV0m0ea1zVsxarTguOPLK4qCQ==" length="5826376"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
