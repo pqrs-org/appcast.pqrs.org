@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.1.0</title>
+      <title>Version 2.2.0</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,39 +19,33 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.1.0 Update</h2>
-<ul>
-<li>✨ New Features
-
-<ul>
-<li>Added a feature to display the Apple Account.</li>
-</ul></li>
-</ul>
-
-<h2>Version 2.0.0</h2>
-
+<h2>About v2.2.0 Update</h2>
 <ul>
 <li>📅 Release date
 
 <ul>
-<li>Jan 15, 2025</li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>macOS 11 and macOS 12 are no longer supported.</li>
+<li>Mar 31, 2025</li>
 </ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added a compact display mode.</li>
-<li>Added a feature to display the other application&rsquo;s version.</li>
+<li>Added a feature to show system uptime.</li>
+<li>Added a feature to show awake time.</li>
+<li>Added <code>Auto compact mode</code>, which automatically switches to compact mode when there is only one display.</li>
+<li>Added the following settings to the widget position configuration:
+
+<ul>
+<li>Allow overlapping with Dock</li>
+<li>Window level (z-order)</li>
+<li>Offset X</li>
+<li>Offset Y</li>
+</ul></li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Migrated to the SwiftUI life cycle.</li>
-<li>Sparkle Framework has been updated.</li>
+<li>Added the ability to specify the font size for seconds in the time display.</li>
+<li>Added local date to compact mode.</li>
 </ul></li>
 </ul>
 <p>
@@ -61,11 +55,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 17 Jan 2025 22:28:21 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v2.1.0/TrueWidget-2.1.0.dmg"
+      <pubDate>Mon, 31 Mar 2025 12:00:09 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v2.2.0/TrueWidget-2.2.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.1.0"
-                 sparkle:edSignature="MqHdUFAdSTfcIjtHwFUdeS1MqSUcA9fqB3zcTEHjUCu4o4bqiGvmYWkRPVR8U/0i+2FQTXG5bm45XokD0lEICw==" length="5766285"
+                 sparkle:version="2.2.0"
+                 sparkle:edSignature="DnPqYUcIDSQNl/QUkitbwbPVGbI4LzRaQOlU4W1CPsYK0QeXe30accswOh9xDi/wQS3FgwiZiVt3p8ZvwN39Ag==" length="5825724"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
