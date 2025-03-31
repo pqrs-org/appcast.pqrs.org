@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Mar 31, 2025
 -   ✨ New Features
     -   Added a feature to show system uptime.
     -   Added a feature to show awake time.
