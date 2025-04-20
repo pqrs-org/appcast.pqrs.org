@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 6.0.0</title>
+      <title>Version 6.0.2</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,23 +19,16 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v6.0.0 Update</h2>
+<h2>About v6.0.2 Update</h2>
 <ul>
-<li>📅 Release date
+<li>✨ New Features
 
 <ul>
-<li>Jan 26, 2025</li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>macOS 11 and macOS 12 are no longer supported.</li>
+<li><code>Follow active window position</code> configuration has been added. (Thanks to <a href="https://github.com/yanjieee">@yanjieee</a>)</li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Migrated to the SwiftUI life cycle.</li>
-<li>Improved the behavior when the menu bar is hidden.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -46,11 +39,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 26 Jan 2025 01:38:17 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v6.0.0/ShowyEdge-6.0.0.dmg"
+      <pubDate>Sun, 20 Apr 2025 00:14:40 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-6.0.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="6.0.0"
-                 sparkle:edSignature="nbHwfZxmf9AzMpGmLj9RQvQxNMkhctdqdDBI2dXAVNuuFP6xUIOpjiiZXo0ecgGcpYnrbMfVsx3Kwsin5DtyAw==" length="4320256"
+                 sparkle:version="6.0.2"
+                 sparkle:edSignature="UTzWtAZsvwmIrBMSvZ8S8PITgm/uj3HkD7gnevTCJ8N0DjKE4ivL2LconLb2oqLsN0Nt9PjiVIQwmo6Ml/mpBw==" length="4355029"
       />
       <sparkle:fullReleaseNotesLink>https://showyedge.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
