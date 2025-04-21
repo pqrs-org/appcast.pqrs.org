@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 6.0.2</title>
+      <title>Version 6.0.3</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v6.0.2 Update</h2>
+<h2>About v6.0.3 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -39,11 +39,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 20 Apr 2025 00:14:40 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-6.0.2.dmg"
+      <pubDate>Mon, 21 Apr 2025 00:09:52 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-6.0.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="6.0.2"
-                 sparkle:edSignature="UTzWtAZsvwmIrBMSvZ8S8PITgm/uj3HkD7gnevTCJ8N0DjKE4ivL2LconLb2oqLsN0Nt9PjiVIQwmo6Ml/mpBw==" length="4355029"
+                 sparkle:version="6.0.3"
+                 sparkle:edSignature="CpcGSEZA51qcNnQqzWfYyvYxAmxpDNHAprT4pPd1sTMiuZSIBiyRFTgsesZnKqm6CvtMzyjJPewHeQDu2O72Cg==" length="4353347"
       />
       <sparkle:fullReleaseNotesLink>https://showyedge.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
