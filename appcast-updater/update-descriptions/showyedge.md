@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Apr 27, 2025
 -   ✨ New Features
     -   `Follow active window position` configuration has been added. (Thanks to [@yanjieee](https://github.com/yanjieee))
 -   ⚡️ Improvements
