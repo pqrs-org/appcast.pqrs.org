@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.2.0</title>
+      <title>Version 2.3.0</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,33 +19,17 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.2.0 Update</h2>
+<h2>About v2.3.0 Update</h2>
 <ul>
 <li>📅 Release date
 
 <ul>
-<li>Mar 31, 2025</li>
+<li>Apr 29, 2025</li>
 </ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added a feature to show system uptime.</li>
-<li>Added a feature to show awake time.</li>
-<li>Added <code>Auto compact mode</code>, which automatically switches to compact mode when there is only one display.</li>
-<li>Added the following settings to the widget position configuration:
-
-<ul>
-<li>Allow overlapping with Dock</li>
-<li>Window level (z-order)</li>
-<li>Offset X</li>
-<li>Offset Y</li>
-</ul></li>
-</ul></li>
-<li>⚡️ Improvements
-
-<ul>
-<li>Added the ability to specify the font size for seconds in the time display.</li>
-<li>Added local date to compact mode.</li>
+<li>The date display format can now be changed. You can choose between RFC 3339 and the current locale&rsquo;s formats.</li>
 </ul></li>
 </ul>
 <p>
@@ -55,11 +39,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 31 Mar 2025 12:00:09 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v2.2.0/TrueWidget-2.2.0.dmg"
+      <pubDate>Tue, 29 Apr 2025 13:27:29 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v2.3.0/TrueWidget-2.3.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.2.0"
-                 sparkle:edSignature="DnPqYUcIDSQNl/QUkitbwbPVGbI4LzRaQOlU4W1CPsYK0QeXe30accswOh9xDi/wQS3FgwiZiVt3p8ZvwN39Ag==" length="5825724"
+                 sparkle:version="2.3.0"
+                 sparkle:edSignature="kY44tDE8r/sxryk4s+udteszPYW3kvbkNGGcg+OzMDB9aJzIVQbrNWl23Zx72JjloPbdyrfnIkzQX+t0b4MwBA==" length="5825229"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
