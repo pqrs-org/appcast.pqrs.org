@@ -1,14 +1,2 @@
--   📅 Release date
-    -   Mar 31, 2025
 -   ✨ New Features
-    -   Added a feature to show system uptime.
-    -   Added a feature to show awake time.
-    -   Added `Auto compact mode`, which automatically switches to compact mode when there is only one display.
-    -   Added the following settings to the widget position configuration:
-        -   Allow overlapping with Dock
-        -   Window level (z-order)
-        -   Offset X
-        -   Offset Y
--   ⚡️ Improvements
-    -   Added the ability to specify the font size for seconds in the time display.
-    -   Added local date to compact mode.
+    -   The date display format can now be changed. You can choose between RFC 3339 and the current locale's formats.
