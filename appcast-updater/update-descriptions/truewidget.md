@@ -1,2 +1,4 @@
+-   📅 Release date
+    -   Apr 29, 2025
 -   ✨ New Features
     -   The date display format can now be changed. You can choose between RFC 3339 and the current locale's formats.
