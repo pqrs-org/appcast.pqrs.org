@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.3.22</title>
+      <title>Version 15.3.23</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.3.22 Update</h2>
+<h2>About v15.3.23 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -69,12 +69,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 06 May 2025 04:30:46 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.22.dmg"
+      <pubDate>Tue, 06 May 2025 10:58:39 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.23.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.3.22"
+                 sparkle:version="15.3.23"
                  sparkle:installationType="package"
-                 sparkle:edSignature="NqNrYjLVr29Dm6ZYMH8T/KSq+R4C8NnodOR/+VmOkd3ATW+GuGFJo5ktvPi17YkQVz581piWrn8Osbei1WH6AA==" length="32874931"
+                 sparkle:edSignature="IjP709Yfef4HEwrvSzjd6h1UDVPHS9IdUwItesua46DyvpIn1kuzlgduPQ4O7p7JaEneCp6gcVWJtru4xri4Cw==" length="32874087"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
