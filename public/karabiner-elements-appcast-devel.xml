@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.3.34</title>
+      <title>Version 15.3.35</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.3.34 Update</h2>
+<h2>About v15.3.35 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -37,6 +37,7 @@ img {
 <li>Added <code>conditions</code> option into <code>to</code>.</li>
 <li>Added <code>Filter useless events from specific devices</code> option in Expert tab.</li>
 <li>Added <code>Reorder same timestamp input events to prioritize modifiers</code> in Expert tab.</li>
+<li>Added a toggle to EventViewer for monitoring events.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -70,12 +71,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 01 Jun 2025 23:05:51 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.34.dmg"
+      <pubDate>Sun, 08 Jun 2025 22:14:04 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.35.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.3.34"
+                 sparkle:version="15.3.35"
                  sparkle:installationType="package"
-                 sparkle:edSignature="ZpGcqED51JE6Flo2+ckZZg46ogvYwc1Y7dKu9ScwyyeTn1PszkyuOSR7dbrF1L2S7KNceytakckwd0oTZR4YBA==" length="32927267"
+                 sparkle:edSignature="Ek0EwBqqCB8I1gUInvA4XoH9v4w7TaDUUQVfM0tuCEA3sVlXoiKMT/FgSRVHo1j5R4D+2Yt5N98tvW3V1ykUDQ==" length="35708646"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
