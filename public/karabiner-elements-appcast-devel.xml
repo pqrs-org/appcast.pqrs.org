@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.3.35</title>
+      <title>Version 15.3.36</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.3.35 Update</h2>
+<h2>About v15.3.36 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -43,6 +43,7 @@ img {
 
 <ul>
 <li>Migrated to the SwiftUI life cycle.</li>
+<li>Migrated to Swift 6.</li>
 <li>Improved <code>to_delayed_action</code> behavior to use the modifier flags of the time the key is pressed, when sending events.</li>
 <li>Supported the following keys:
 
@@ -71,12 +72,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 08 Jun 2025 22:14:04 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.35.dmg"
+      <pubDate>Sun, 22 Jun 2025 14:12:44 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.3.36.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.3.35"
+                 sparkle:version="15.3.36"
                  sparkle:installationType="package"
-                 sparkle:edSignature="Ek0EwBqqCB8I1gUInvA4XoH9v4w7TaDUUQVfM0tuCEA3sVlXoiKMT/FgSRVHo1j5R4D+2Yt5N98tvW3V1ykUDQ==" length="35708646"
+                 sparkle:edSignature="Q6XcPtKqafwtMayrpxLmVnTiKkxtInHkMddqqpr7ZpYZXRJkcHJXluMPrOOXwccf+cgEq5InJKjZXUpLb7FYAQ==" length="34499584"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
