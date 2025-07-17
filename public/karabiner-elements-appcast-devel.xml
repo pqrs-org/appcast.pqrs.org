@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.4.1</title>
+      <title>Version 15.4.2</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,8 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.4.1 Update</h2>
+<h2>About v15.4.2 Update</h2>
 <ul>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue where the &ldquo;Use all F1, F2, etc. keys as standard function keys&rdquo; setting wasn&rsquo;t correctly detected in some environments.</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
@@ -34,12 +39,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 06 Jul 2025 01:05:09 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.4.1.dmg"
+      <pubDate>Thu, 17 Jul 2025 00:23:21 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.4.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.4.1"
+                 sparkle:version="15.4.2"
                  sparkle:installationType="package"
-                 sparkle:edSignature="vxtvxNXzOF99DHhjyJTFuOlS3JMCjaGuZQTADMyAq2oImvcZYSExqa4mfd4O3AG44QFS9Wl8cGANwlYX+OXZAA==" length="34913597"
+                 sparkle:edSignature="FmNFHXYPYI7yOZx/m+uQF+GNDbfBzOGfwVaOln56JUFU/1l5/albZp4EE4zoJrHkHb5aM6lQkpAyagjSOGAqAg==" length="34863633"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
