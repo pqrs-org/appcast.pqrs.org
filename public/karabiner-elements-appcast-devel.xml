@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.4.3</title>
+      <title>Version 15.4.4</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.4.3 Update</h2>
+<h2>About v15.4.4 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -30,6 +30,8 @@ img {
 
 <ul>
 <li>Added <code>Show additional menu items</code> option in UI tab.</li>
+<li>Added <code>macOS also remaps modifier keys</code> warning.</li>
+<li>Added <code>karabiner.json couldn't be loaded due to a parse error</code> alert.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -44,12 +46,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 20 Jul 2025 07:02:32 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.4.3.dmg"
+      <pubDate>Sat, 26 Jul 2025 07:53:11 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.4.4.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.4.3"
+                 sparkle:version="15.4.4"
                  sparkle:installationType="package"
-                 sparkle:edSignature="XvaatDjbScsBmd41mwgRDZwlWS6wm/5fiACKPFvueaWcGsmJ9J22Xo77v+3SyuQWiBy9QTanny5XiyOEZ2VvCQ==" length="34846325"
+                 sparkle:edSignature="t8wb/IsMTmFk1BodPKGN2YEzXXNG/4J3JdE6V6150O84BHLLiE9KqCaqNEfYKDcGCXeCHVvFFmu+EIw7m7VaAQ==" length="34884477"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
