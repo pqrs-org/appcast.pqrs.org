@@ -25,6 +25,7 @@ img {
 
 <ul>
 <li>Fixed an issue where the &ldquo;Use all F1, F2, etc. keys as standard function keys&rdquo; setting wasn&rsquo;t correctly detected in some environments.</li>
+<li>Fixed an issue where some buttons were hard to see in Dark Mode.</li>
 </ul></li>
 <li>✨ New Features
 
@@ -46,7 +47,7 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 27 Jul 2025 10:10:39 -0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 22:46:38 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.4.5.dmg"
                  type="application/octet-stream"
                  sparkle:version="15.4.5"
