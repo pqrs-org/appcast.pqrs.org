@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.4.0</title>
+      <title>Version 15.5.0</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,55 +19,30 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.4.0 Update</h2>
+<h2>About v15.5.0 Update</h2>
 <ul>
 <li>📅 Release date
 
 <ul>
-<li>Jun 29, 2025</li>
+<li>Jul 29, 2025</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
 <ul>
-<li>Fixed an overflow issue with the mouse key movements.</li>
-<li>Fixed an issue that the fn key is unintentionally tapped when use the media keys if &ldquo;Use all F1, F2, etc. keys as standard function keys&rdquo; is enabled.</li>
+<li>Fixed an issue where the &ldquo;Use all F1, F2, etc. keys as standard function keys&rdquo; setting wasn&rsquo;t correctly detected in some environments.</li>
+<li>Fixed an issue where some buttons were hard to see in Dark Mode.</li>
 </ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Supported headset buttons.</li>
-<li>Added <code>Ignore vendor events</code> option to device settings in Devices tab.</li>
-<li>Added <code>XY movement multiplier</code> and <code>Wheels multiplier</code> to the mouse settings in Devices tab.</li>
-<li>Added <code>frontmost_application_history_index</code> option into <code>open_application</code>.</li>
-<li>Added <code>conditions</code> option into <code>to</code>.</li>
-<li>Added <code>Filter useless events from specific devices</code> option in Expert tab.</li>
-<li>Added <code>Reorder same timestamp input events to prioritize modifiers</code> in Expert tab.</li>
-<li>Added a toggle to EventViewer for monitoring events.</li>
+<li>Added <code>Show additional menu items</code> option in UI tab.</li>
+<li>Added <code>macOS also remaps modifier keys</code> warning.</li>
+<li>Added <code>karabiner.json couldn't be loaded due to a parse error</code> alert.</li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Migrated to the SwiftUI life cycle.</li>
-<li>Migrated to Swift 6.</li>
-<li>Improved <code>to_delayed_action</code> behavior to use the modifier flags of the time the key is pressed, when sending events.</li>
-<li>Supported the following keys:
-
-<ul>
-<li>consumer::ac_zoom_out</li>
-<li>consumer::ac_zoom_in</li>
-<li>generic_desktop::system_sleep</li>
-</ul></li>
-<li>Added support for new consumer keys (Thanks to @indygriffiths):
-
-<ul>
-<li><code>{ &quot;consumer_key_code&quot;: &quot;stop&quot; }</code></li>
-<li><code>{ &quot;consumer_key_code&quot;: &quot;bass_boost&quot; }</code></li>
-<li><code>{ &quot;consumer_key_code&quot;: &quot;loudness&quot; }</code></li>
-<li><code>{ &quot;consumer_key_code&quot;: &quot;bass_increment&quot; }</code></li>
-<li><code>{ &quot;consumer_key_code&quot;: &quot;bass_decrement&quot; }</code></li>
-<li><code>{ &quot;consumer_key_code&quot;: &quot;ac_search&quot; }</code></li>
-</ul></li>
-<li>The implicit conversion of Touch ID to the Lock key has been modified to work even when modifiers are held down.</li>
+<li>Suppress forced icon updates (e.g., for Karabiner-Elements.app) during <code>karabiner_grabber</code> startup.</li>
 </ul></li>
 </ul>
 <p>
@@ -77,12 +52,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 29 Jun 2025 09:51:24 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.4.0/Karabiner-Elements-15.4.0.dmg"
+      <pubDate>Tue, 29 Jul 2025 13:35:45 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.5.0/Karabiner-Elements-15.5.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.4.0"
+                 sparkle:version="15.5.0"
                  sparkle:installationType="package"
-                 sparkle:edSignature="ARwJC251KffiwMFC33Yuc/oa2StSl8EGWXuQy/Su0zLgH385EM1iMGpvwn0/7ezLe/57IdgUtokf/3dLdb8qDg==" length="34590204"
+                 sparkle:edSignature="xt/QEZDLRJ5YbZoYZ1vyh49AlLclEKaEkMf0tyE8dj9DK2CRsZVdXHKn93gW7r6VgDOR299tGZKWwKhYI3ZWAQ==" length="34878853"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
