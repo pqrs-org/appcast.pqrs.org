@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.3.0</title>
+      <title>Version 2.3.1</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,17 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.3.0 Update</h2>
+<h2>About v2.3.1 Update</h2>
 <ul>
-<li>📅 Release date
+<li>⚡️ Improvements
 
 <ul>
-<li>Apr 29, 2025</li>
-</ul></li>
-<li>✨ New Features
-
-<ul>
-<li>The date display format can now be changed. You can choose between RFC 3339 and the current locale&rsquo;s formats.</li>
+<li>Migrated to Swift 6.</li>
+<li>Updated the window behavior to be hidden in Mission Control.</li>
 </ul></li>
 </ul>
 <p>
@@ -39,11 +35,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 29 Apr 2025 13:27:29 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v2.3.0/TrueWidget-2.3.0.dmg"
+      <pubDate>Wed, 06 Aug 2025 00:03:36 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.3.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.3.0"
-                 sparkle:edSignature="kY44tDE8r/sxryk4s+udteszPYW3kvbkNGGcg+OzMDB9aJzIVQbrNWl23Zx72JjloPbdyrfnIkzQX+t0b4MwBA==" length="5825229"
+                 sparkle:version="2.3.1"
+                 sparkle:edSignature="uHU8FmbhbQS3zzjO0G6eUgu3X4Reg6doYBYhu+ghLxRLGxYnD1mbczbgJV/E9EV1Cc1vIEoIBBJWp4vpEZC4Cg==" length="5856676"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
