@@ -1,3 +1,5 @@
+-   ✨ New Features
+    -   Added `Show additional menu items` option.
 -   ⚡️ Improvements
     -   Migrated to Swift 6.
     -   Updated the window behavior to be hidden in Mission Control.
