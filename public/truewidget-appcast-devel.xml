@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.3.3</title>
+      <title>Version 2.3.4</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.3.3 Update</h2>
+<h2>About v2.3.4 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -30,6 +30,7 @@ img {
 
 <ul>
 <li>Migrated to Swift 6.</li>
+<li>Made it possible to display operating system information even when the macOS version is hidden.</li>
 <li>Updated the window behavior to be hidden in Mission Control.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
@@ -41,11 +42,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 07 Aug 2025 14:06:34 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.3.3.dmg"
+      <pubDate>Thu, 07 Aug 2025 22:09:15 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.3.4.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.3.3"
-                 sparkle:edSignature="zbXKaioAMoVpn+p/eIhmAzR1AxR2jex9yi8x8SRws6HVkr73xJ8QH3EprlGyDDrG/m7jB3aWfKzGYBQnS9FEAQ==" length="5859213"
+                 sparkle:version="2.3.4"
+                 sparkle:edSignature="LYjRfG3Crgcs6NDIUggiBOoor1EnrC8sbK8o+xiZe8XTdeItwLEEbcYxL2f3IJgX+LUPFs9Rz+8xgsPvxz+UBg==" length="5860153"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
