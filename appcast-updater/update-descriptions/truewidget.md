@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Aug 9, 2025
 -   ✨ New Features
     -   Added `Show additional menu items` option.
 -   ⚡️ Improvements
