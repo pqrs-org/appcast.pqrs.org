@@ -1,11 +1,6 @@
--   📅 Release date
-    -   Jul 29, 2025
 -   🐛 Bug Fixes
-    -   Fixed an issue where the "Use all F1, F2, etc. keys as standard function keys" setting wasn't correctly detected in some environments.
-    -   Fixed an issue where some buttons were hard to see in Dark Mode.
--   ✨ New Features
-    -   Added `Show additional menu items` option in UI tab.
-    -   Added `macOS also remaps modifier keys` warning.
-    -   Added `karabiner.json couldn't be loaded due to a parse error` alert.
+    -   Fixed an issue in EventViewer where new events were not added while the "Unknown Events" tab was open.
 -   ⚡️ Improvements
-    -   Suppress forced icon updates (e.g., for Karabiner-Elements.app) during `karabiner_grabber` startup.
+    -   Improved handling of the `ignore_vendor_events` setting.
+        The UI already prevented enabling this for Apple devices, and now, even if you manually set `ignore_vendor_events` in karabiner.json, vendor events for Apple devices will always be processed regardless of the setting.
+    -   Adjusted the layouts in Settings and EventViewer to show more information.
