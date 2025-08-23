@@ -11,3 +11,4 @@
         -   generic_desktop::system_app_menu
         -   consumer_key_code::microphone
         -   consumer_key_code::selection
+        -   pointing_button::button33 ... pointing_button::button255
