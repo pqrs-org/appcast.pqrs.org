@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.5.11</title>
+      <title>Version 15.5.12</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.5.11 Update</h2>
+<h2>About v15.5.12 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
@@ -55,12 +55,12 @@ The UI already prevented enabling this for Apple devices, and now, even if you m
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 03 Sep 2025 13:44:48 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.5.11.dmg"
+      <pubDate>Tue, 09 Sep 2025 23:31:08 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.5.12.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.5.11"
+                 sparkle:version="15.5.12"
                  sparkle:installationType="package"
-                 sparkle:edSignature="wBL6g+giZpgYSo5hKi0fSrOFLSs2uI1v1eihCEv2fdP7uWqhBx/ValE5cajYJUk2Fn1S/b40Kur00gcCNZMACQ==" length="35047169"
+                 sparkle:edSignature="p2AgI7MQLOq7tlfT7ioveLCjSeo5gr5jsXRDYouX2jDzqNgT7XqLPA9LiZyjtOnj87AvBV8Tesi3yxhlO4P2Cg==" length="37285192"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
