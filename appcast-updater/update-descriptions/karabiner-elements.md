@@ -4,11 +4,12 @@
 -   🐛 Bug Fixes
     -   Fixed an issue in EventViewer where new events were not added while the "Unknown Events" tab was open.
 -   ✨ New Features
-    -   Added a feature that lets you set environment variables via `/Library/Application Support/org.pqrs/config/karabiner_environment`.
+    -   Added a feature that lets you set environment variables via [`/Library/Application Support/org.pqrs/config/karabiner_environment`](https://karabiner-elements.pqrs.org/docs/help/advanced-topics/set-environment-variables/).
     -   Added support for devices that expose the Programmable Buttons usage on the Consumer Usage Page. (e.g., VEC USB Footpedal)
-    -   Added `set_variable.expression` and `set_variable.key_up_expression`.
-    -   Added `expression_if` and `expression_unless`.
+    -   Added [`set_variable.expression` and `set_variable.key_up_expression`](https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/set-variable/#expression-specification).
+    -   Added [`expression_if` and `expression_unless`](https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/conditions/expression/).
     -   Added `system.now.milliseconds` to variables.
+    -   Added [`integer_value`](https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/from/integer-value/) to the from event definition.
 -   ⚡️ Improvements
     -   Updated the app icon for macOS 26.
     -   Added support for Liquid Glass.
