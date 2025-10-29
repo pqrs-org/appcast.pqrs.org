@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.5.21</title>
+      <title>Version 15.5.90</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.5.21 Update</h2>
+<h2>About v15.5.90 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -35,6 +35,7 @@ You can still use EventViewer to check current variable values.</li>
 <li>✨ New Features
 
 <ul>
+<li>Added a &ldquo;Temporarily turns off all Karabiner-Elements modifications&rdquo; toggle to EventViewer.</li>
 <li>Added a feature that lets you set environment variables via <a href="https://karabiner-elements.pqrs.org/docs/help/advanced-topics/set-environment-variables/"><code>/Library/Application Support/org.pqrs/config/karabiner_environment</code></a>.</li>
 <li>Added support for devices that expose the Programmable Buttons usage on the Consumer Usage Page. (e.g., VEC USB Footpedal)</li>
 <li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/set-variable/#expression-specification"><code>set_variable.expression</code> and <code>set_variable.key_up_expression</code></a>.</li>
@@ -70,12 +71,12 @@ The UI already prevented enabling this for Apple devices, and now, even if you m
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 23 Oct 2025 13:19:31 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.5.21.dmg"
+      <pubDate>Wed, 29 Oct 2025 23:53:43 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.5.90.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.5.21"
+                 sparkle:version="15.5.90"
                  sparkle:installationType="package"
-                 sparkle:edSignature="ld+Vsp5dT03IVdjQEejcd9ZrgDTtSm90VnTOtl3gYrhaIGPTRy2kfGV+4nuguDOVXe6HAUaPirzyX+/W/LZXCA==" length="44271461"
+                 sparkle:edSignature="yaxOSj2yM6QaJuQmDwxdFxQuWn0RoEVCyhGjAKcCDXPOOWqmuhDh6oETysuLWGZaTVslOhMwSUWxhnsIsBcABQ==" length="44304165"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
