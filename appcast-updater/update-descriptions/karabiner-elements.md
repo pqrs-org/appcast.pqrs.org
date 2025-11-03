@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Nov 3, 2025
 -   💥 Breaking changes
     -   The file `/Library/Application Support/org.pqrs/tmp/karabiner_grabber_manipulator_environment.json` is no longer updated.
         You can still use EventViewer to check current variable values.
