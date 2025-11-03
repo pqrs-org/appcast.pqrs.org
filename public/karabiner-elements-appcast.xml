@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.5.0</title>
+      <title>Version 15.6.0</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,30 +19,54 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.5.0 Update</h2>
+<h2>About v15.6.0 Update</h2>
 <ul>
 <li>📅 Release date
 
 <ul>
-<li>Jul 29, 2025</li>
+<li>Nov 3, 2025</li>
+</ul></li>
+<li>💥 Breaking changes
+
+<ul>
+<li>The file <code>/Library/Application Support/org.pqrs/tmp/karabiner_grabber_manipulator_environment.json</code> is no longer updated.
+You can still use EventViewer to check current variable values.</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
 <ul>
-<li>Fixed an issue where the &ldquo;Use all F1, F2, etc. keys as standard function keys&rdquo; setting wasn&rsquo;t correctly detected in some environments.</li>
-<li>Fixed an issue where some buttons were hard to see in Dark Mode.</li>
+<li>Fixed an issue in EventViewer where new events were not added while the &ldquo;Unknown Events&rdquo; tab was open.</li>
 </ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added <code>Show additional menu items</code> option in UI tab.</li>
-<li>Added <code>macOS also remaps modifier keys</code> warning.</li>
-<li>Added <code>karabiner.json couldn't be loaded due to a parse error</code> alert.</li>
+<li>Added a &ldquo;Temporarily turns off all Karabiner-Elements modifications&rdquo; toggle to EventViewer.</li>
+<li>Added a feature that lets you set environment variables via <a href="https://karabiner-elements.pqrs.org/docs/help/advanced-topics/set-environment-variables/"><code>/Library/Application Support/org.pqrs/config/karabiner_environment</code></a>.</li>
+<li>Added support for devices that expose the Programmable Buttons usage on the Consumer Usage Page. (e.g., VEC USB Footpedal)</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/set-variable/#expression-specification"><code>set_variable.expression</code> and <code>set_variable.key_up_expression</code></a>.</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/conditions/expression/"><code>expression_if</code> and <code>expression_unless</code></a>.</li>
+<li>Added <code>system.now.milliseconds</code> to variables.</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/from/integer-value/"><code>integer_value</code></a> to the from event definition.</li>
 </ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Suppress forced icon updates (e.g., for Karabiner-Elements.app) during <code>karabiner_grabber</code> startup.</li>
+<li>Updated the app icon for macOS 26.</li>
+<li>Added support for Liquid Glass.</li>
+<li>Reduced the load on karabiner_grabber.
+In particular, CPU usage is lower when handling high-frequency events (e.g., mouse input).</li>
+<li>Improved handling of the <code>ignore_vendor_events</code> setting.
+The UI already prevented enabling this for Apple devices, and now, even if you manually set <code>ignore_vendor_events</code> in karabiner.json, vendor events for Apple devices will always be processed regardless of the setting.</li>
+<li>Adjusted the layouts in Settings and EventViewer to show more information.</li>
+<li>Supported the following keys:
+
+<ul>
+<li>generic_desktop::system_app_menu</li>
+<li>consumer_key_code::microphone</li>
+<li>consumer_key_code::selection</li>
+<li>pointing_button::button33 &hellip; pointing_button::button255</li>
+</ul></li>
+<li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
 <p>
@@ -52,12 +76,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 29 Jul 2025 13:35:45 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.5.0/Karabiner-Elements-15.5.0.dmg"
+      <pubDate>Mon, 03 Nov 2025 00:42:12 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.6.0/Karabiner-Elements-15.6.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.5.0"
+                 sparkle:version="15.6.0"
                  sparkle:installationType="package"
-                 sparkle:edSignature="xt/QEZDLRJ5YbZoYZ1vyh49AlLclEKaEkMf0tyE8dj9DK2CRsZVdXHKn93gW7r6VgDOR299tGZKWwKhYI3ZWAQ==" length="34878853"
+                 sparkle:edSignature="xLAGPSf0WQNz3hO+9hXOEIL2P0CSZhDg+UNwb/i2tRvyM5pCWqOWVS3fGRW6zT4w3pigfPnqmn7CMyYdFenFCQ==" length="44355169"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
