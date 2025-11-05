@@ -1,3 +1,12 @@
+## Beta
+
+-   🐛 Bug Fixes
+    -   Fixed an issue where modifiers in a pending-release state under Complex Modifications were not being released when all keys were lifted.
+-   ⚡️ Improvements
+    -   The error message in the Complex Modification Editor is now copyable.
+
+## Karabiner-Elements 15.6.0
+
 -   📅 Release date
     -   Nov 3, 2025
 -   💥 Breaking changes
