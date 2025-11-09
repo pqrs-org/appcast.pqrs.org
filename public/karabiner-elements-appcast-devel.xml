@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.6.91</title>
+      <title>Version 15.6.92</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,14 +19,22 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.6.91 Update</h2>
+<h2>About v15.6.92 Update</h2>
 <h2>Beta</h2>
 
 <ul>
 <li>🔔 Important Notes
 
 <ul>
-<li>After upgrading, you&rsquo;ll need to update the settings for App Background Activity and Input Monitoring in System Settings.</li>
+<li>After upgrading, make the following changes in System Settings:
+ - Enable <code>Karabiner-Elements Privileged Daemons v2</code> under App Background Activity.
+ - Enable <code>Karabiner-Core-Service</code> under Input Monitoring.</li>
+</ul></li>
+<li>💥 Breaking changes
+
+<ul>
+<li>The file <code>/Library/Application Support/org.pqrs/tmp/karabiner_grabber_devices.json</code> is no longer updated.
+You can still use EventViewer and karabiner_cli to check connected devices.</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
@@ -100,12 +108,12 @@ The UI already prevented enabling this for Apple devices, and now, even if you m
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 08 Nov 2025 07:17:13 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.6.91.dmg"
+      <pubDate>Sun, 09 Nov 2025 11:12:09 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.6.92.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.6.91"
+                 sparkle:version="15.6.92"
                  sparkle:installationType="package"
-                 sparkle:edSignature="c9bI9CW5Py/pilQiew2uncOBeJ9ikBAQbavK7oaMvk8xn3rRoo5BzM+hgQH6XEb8Hz4ond3JWTOao7cAg/ByAg==" length="45325667"
+                 sparkle:edSignature="d+VUZEB2ST0VRoardIUVGevMaz5OxdXOiRa9ysvmCGHwxdMghdojrr1z9NdRoibS7QNUgZVYVKyh//ZJAu/LAA==" length="44615861"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
