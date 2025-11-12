@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.7.0</title>
+      <title>Version 15.7.1</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,94 +19,14 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.7.0 Update</h2>
-<h2>Karabiner-Elements 15.7.0</h2>
+<h2>About v15.7.1 Update</h2>
+<h2>Beta</h2>
 
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Nov 10, 2025</li>
-</ul></li>
-<li>🔔 Important Notes
-
-<ul>
-<li>After upgrading, make the following changes in System Settings:
-
-<ul>
-<li>Enable <code>Karabiner-Elements Privileged Daemons v2</code> under App Background Activity.</li>
-<li>Enable <code>Karabiner-Core-Service</code> under Input Monitoring.</li>
-</ul></li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>The file <code>/Library/Application Support/org.pqrs/tmp/karabiner_grabber_devices.json</code> is no longer updated.
-You can still use EventViewer and karabiner_cli to check connected devices.</li>
-</ul></li>
 <li>🐛 Bug Fixes
 
 <ul>
-<li>Fixed an issue where modifiers in a pending-release state under Complex Modifications were not being released when all keys were lifted.</li>
-</ul></li>
-<li>⚡️ Improvements
-
-<ul>
-<li>Fixed an issue on macOS 26.1 where karabiner_grabber was missing from the Input Monitoring list in System Settings.
-Instead, Karabiner-Core-Service will now be shown.</li>
-<li>The error message in the Complex Modification Editor is now copyable.</li>
-</ul></li>
-</ul>
-
-<h2>Karabiner-Elements 15.6.0</h2>
-
-<ul>
-<li>📅 Release date
-
-<ul>
-<li>Nov 3, 2025</li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>The file <code>/Library/Application Support/org.pqrs/tmp/karabiner_grabber_manipulator_environment.json</code> is no longer updated.
-You can still use EventViewer to check current variable values.</li>
-</ul></li>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed an issue in EventViewer where new events were not added while the &ldquo;Unknown Events&rdquo; tab was open.</li>
-</ul></li>
-<li>✨ New Features
-
-<ul>
-<li>Added a &ldquo;Temporarily turns off all Karabiner-Elements modifications&rdquo; toggle to EventViewer.</li>
-<li>Added a feature that lets you set environment variables via <a href="https://karabiner-elements.pqrs.org/docs/help/advanced-topics/set-environment-variables/"><code>/Library/Application Support/org.pqrs/config/karabiner_environment</code></a>.</li>
-<li>Added support for devices that expose the Programmable Buttons usage on the Consumer Usage Page. (e.g., VEC USB Footpedal)</li>
-<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/set-variable/#expression-specification"><code>set_variable.expression</code> and <code>set_variable.key_up_expression</code></a>.</li>
-<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/conditions/expression/"><code>expression_if</code> and <code>expression_unless</code></a>.</li>
-<li>Added <code>system.now.milliseconds</code> to variables.</li>
-<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/from/integer-value/"><code>integer_value</code></a> to the from event definition.</li>
-</ul></li>
-<li>⚡️ Improvements
-
-<ul>
-<li>Updated the app icon for macOS 26.</li>
-<li>Added support for Liquid Glass.</li>
-<li>Reduced the load on karabiner_grabber.
-In particular, CPU usage is lower when handling high-frequency events (e.g., mouse input).</li>
-<li>Improved handling of the <code>ignore_vendor_events</code> setting.
-The UI already prevented enabling this for Apple devices, and now, even if you manually set <code>ignore_vendor_events</code> in karabiner.json, vendor events for Apple devices will always be processed regardless of the setting.</li>
-<li>Adjusted the layouts in Settings and EventViewer to show more information.</li>
-<li>Supported the following keys:
-
-<ul>
-<li>generic_desktop::system_app_menu</li>
-<li>consumer_key_code::microphone</li>
-<li>consumer_key_code::selection</li>
-<li>pointing_button::button33 &hellip; pointing_button::button255</li>
-</ul></li>
-<li>Sparkle Framework has been updated.</li>
+<li>Fixed an issue where the sticky modifier indicator could continue to be displayed even after being disabled in the settings.</li>
 </ul></li>
 </ul>
 <p>
@@ -116,12 +36,12 @@ The UI already prevented enabling this for Apple devices, and now, even if you m
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 10 Nov 2025 03:44:08 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.7.0/Karabiner-Elements-15.7.0.dmg"
+      <pubDate>Wed, 12 Nov 2025 00:23:53 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.7.0"
+                 sparkle:version="15.7.1"
                  sparkle:installationType="package"
-                 sparkle:edSignature="VL7Sfw90hDgptNLWgt8L9Ce9jrVLZgjpV+aWXHu5gRBxGYHqx8R3rXZhS97+EbJy+4oX20k12WHKaOogOV9eCA==" length="44952543"
+                 sparkle:edSignature="Fx/q5OGQe+6cnP+8TxBXes6OuYiaSv2FsNOHyckKiaL4pdME+fQdFov7ygtaE0JGS4evhpi1orEgCks6gG/vAw==" length="44991103"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
