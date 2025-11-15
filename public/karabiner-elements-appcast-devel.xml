@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.7.2</title>
+      <title>Version 15.7.3</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.7.2 Update</h2>
+<h2>About v15.7.3 Update</h2>
 <h2>Beta</h2>
 
 <ul>
@@ -27,6 +27,11 @@ img {
 
 <ul>
 <li>Fixed an issue where the sticky modifier indicator could continue to be displayed even after being disabled in the settings.</li>
+</ul></li>
+<li>✨ New Features
+
+<ul>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/open_application/"><code>open_application.frontmost_application_history_exclusion_bundle_identifiers</code> and <code>open_application.frontmost_application_history_exclusion_file_paths</code>.</a></li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -41,12 +46,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 13 Nov 2025 11:05:07 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.2.dmg"
+      <pubDate>Sat, 15 Nov 2025 13:21:51 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.7.2"
+                 sparkle:version="15.7.3"
                  sparkle:installationType="package"
-                 sparkle:edSignature="g6al9xsNZV+lUB1/1kcqP/JAe6wo7RiuI7BcZZBqPqlZ2wHvbuJgz2/5c022bcR3EEZNIcWRrLARFaSRe6VGDw==" length="45009519"
+                 sparkle:edSignature="JJGXO6Mt5CF/Fv6Sk+BTHAei1C7vbVI8UDHLBDbun9UTWXpRluIjiNpi+IRaJnZf0GK0qZ8V8jUU7U5k8AaWDQ==" length="44972247"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
