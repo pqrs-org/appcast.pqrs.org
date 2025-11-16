@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.4.0</title>
+      <title>Version 2.4.1</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,24 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.4.0 Update</h2>
+<h2>About v2.4.1 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Aug 9, 2025</li>
-</ul></li>
-<li>✨ New Features
-
-<ul>
-<li>Added <code>Show additional menu items</code> option.</li>
-</ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Migrated to Swift 6.</li>
-<li>Made it possible to display operating system information even when the macOS version is hidden.</li>
-<li>Updated the window behavior to be hidden in Mission Control.</li>
+<li>Updated the app icon.</li>
+<li>Added support for Liquid Glass.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -47,11 +36,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 09 Aug 2025 02:59:32 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v2.4.0/TrueWidget-2.4.0.dmg"
+      <pubDate>Sun, 16 Nov 2025 14:40:10 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.4.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.4.0"
-                 sparkle:edSignature="AGGW24t9CHjcS1BVBDvFszkMZdxxqpMCuZY2k67+/X0E0Ov0d2Id4C7T0wYOzWQmxAXmVfRUp75SENl9ubX8Dw==" length="5859632"
+                 sparkle:version="2.4.1"
+                 sparkle:edSignature="CcWQeMr3mnBXTdIXcxgLuHse6mnfIWQsX+sG96sFxRNUZiOY7fdbRp0+RElo0PzRnAmMzXEuG41bCcfrH2bHAQ==" length="4942329"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>

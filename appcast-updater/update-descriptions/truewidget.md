@@ -1,9 +1,4 @@
--   📅 Release date
-    -   Aug 9, 2025
--   ✨ New Features
-    -   Added `Show additional menu items` option.
 -   ⚡️ Improvements
-    -   Migrated to Swift 6.
-    -   Made it possible to display operating system information even when the macOS version is hidden.
-    -   Updated the window behavior to be hidden in Mission Control.
+    -   Updated the app icon.
+    -   Added support for Liquid Glass.
     -   Sparkle Framework has been updated.
