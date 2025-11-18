@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.7.5</title>
+      <title>Version 15.7.6</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.7.5 Update</h2>
+<h2>About v15.7.6 Update</h2>
 <h2>Beta</h2>
 
 <ul>
@@ -37,6 +37,8 @@ img {
 
 <ul>
 <li>Improved the automatic recovery behavior from inter-process communication failures.</li>
+<li>Improved <code>open_application</code> to exclude non-application bundles from <code>frontmost_application_history_index</code>.</li>
+<li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
 <p>
@@ -46,12 +48,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 18 Nov 2025 00:25:45 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.5.dmg"
+      <pubDate>Tue, 18 Nov 2025 23:02:54 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.6.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.7.5"
+                 sparkle:version="15.7.6"
                  sparkle:installationType="package"
-                 sparkle:edSignature="BExekz3V74xx65iY5qDAr5HUfMMjXvp9X182K28R3FmBK/6XaaluZgpDAUMqsfrFK1EVp8as0P9u/3NGjjT8Bw==" length="44979667"
+                 sparkle:edSignature="y5lKiN9gnACu/1AcRowU6tnaBUAfundTYB/HdioEavXTHE5i+z9mlgUJh6k0lSoI8hmLIjOTnDL9rONVPVK3Dg==" length="44990535"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
