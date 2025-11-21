@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Nov 21, 2025
 -   ⚡️ Improvements
     -   Updated the app icon.
     -   Added support for Liquid Glass.
