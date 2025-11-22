@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 6.1.0</title>
+      <title>Version 6.1.2</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,21 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v6.1.0 Update</h2>
+<h2>About v6.1.2 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Apr 27, 2025</li>
-</ul></li>
-<li>✨ New Features
-
-<ul>
-<li><code>Follow active window position</code> configuration has been added. (Thanks to <a href="https://github.com/yanjieee">@yanjieee</a>)</li>
-</ul></li>
 <li>⚡️ Improvements
 
 <ul>
+<li>Updated the app icon.</li>
+<li>Migrated to Swift 6.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -44,11 +36,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 27 Apr 2025 11:02:25 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v6.1.0/ShowyEdge-6.1.0.dmg"
+      <pubDate>Sat, 22 Nov 2025 14:25:28 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-6.1.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="6.1.0"
-                 sparkle:edSignature="F6zveZTldTDtoAgdvXY4IuQsCk4CUNpebtcHvJmHb2BT8g8osrE/xl9EPgo6YHscS5RelV4T69oJosvthEJwAw==" length="4345687"
+                 sparkle:version="6.1.2"
+                 sparkle:edSignature="Aryv4Rt/DLE6zJOuFd49XVUobIC1Mg+EPBTZCHMgLBIbR7S6gh3x4DzxZt7E9fzCsBQ293qoS2HXUDQiCbNhAg==" length="4802287"
       />
       <sparkle:fullReleaseNotesLink>https://showyedge.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>

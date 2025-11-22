@@ -1,6 +1,4 @@
--   📅 Release date
-    -   Apr 27, 2025
--   ✨ New Features
-    -   `Follow active window position` configuration has been added. (Thanks to [@yanjieee](https://github.com/yanjieee))
 -   ⚡️ Improvements
+    -   Updated the app icon.
+    -   Migrated to Swift 6.
     -   Sparkle Framework has been updated.
