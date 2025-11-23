@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Nov 23, 2025
 -   ⚡️ Improvements
     -   Updated the app icon.
     -   Migrated to Swift 6.
