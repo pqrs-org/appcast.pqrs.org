@@ -37,6 +37,10 @@ img {
 <li>Enable <code>Karabiner-Elements Privileged Daemons v2</code> under App Background Activity.</li>
 <li>Enable <code>Karabiner-Core-Service</code> under Input Monitoring.</li>
 </ul></li>
+<li>karabiner_grabber has been renamed to Karabiner-Core-Service.
+Full Disk Access isn&rsquo;t necessary if you&rsquo;re just using the standard setup.
+However, if you’ve manually moved the karabiner.json configuration file to another location,
+<a href="https://karabiner-elements.pqrs.org/docs/manual/misc/configuration-file-path/">you might need to grant Full Disk Access to Karabiner-Core-Service.</a></li>
 </ul></li>
 <li>💥 Breaking changes
 
