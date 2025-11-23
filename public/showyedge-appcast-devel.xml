@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 6.1.2</title>
+      <title>Version 6.1.90</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v6.1.2 Update</h2>
+<h2>About v6.1.90 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
@@ -36,11 +36,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 22 Nov 2025 14:25:28 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-6.1.2.dmg"
+      <pubDate>Sun, 23 Nov 2025 01:12:40 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-6.1.90.dmg"
                  type="application/octet-stream"
-                 sparkle:version="6.1.2"
-                 sparkle:edSignature="Aryv4Rt/DLE6zJOuFd49XVUobIC1Mg+EPBTZCHMgLBIbR7S6gh3x4DzxZt7E9fzCsBQ293qoS2HXUDQiCbNhAg==" length="4802287"
+                 sparkle:version="6.1.90"
+                 sparkle:edSignature="DkpN012BVKhaCFtWt9HzYeKhlec/rgDig0tIwTc5QFe2ml9fQ2zISCVa7y+vVcXM4zCEl/7Wn7ldD+HzKR+ACw==" length="4800573"
       />
       <sparkle:fullReleaseNotesLink>https://showyedge.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
