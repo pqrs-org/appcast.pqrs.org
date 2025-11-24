@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.7.9</title>
+      <title>Version 15.7.10</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,19 +19,24 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.7.9 Update</h2>
-<h2>Beta</h2>
-
+<h2>About v15.7.10 Update</h2>
 <ul>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed an issue where the sticky modifier indicator could continue to be displayed even after being disabled in the settings.</li>
-</ul></li>
 <li>✨ New Features
 
 <ul>
 <li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/open_application/"><code>open_application.frontmost_application_history_exclusion_bundle_identifiers</code> and <code>open_application.frontmost_application_history_exclusion_file_paths</code>.</a></li>
+<li>Added the following options to karabiner_cli:
+
+<ul>
+<li><code>--list-multitouch-extension-variables</code></li>
+<li><code>--watch-multitouch-extension-variables</code></li>
+</ul></li>
+</ul></li>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue where the sticky modifier indicator could continue to be displayed even after being disabled in the settings.</li>
+<li>Fixed an issue where karabiner_machine_identifier was not set correctly during a clean install.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -49,12 +54,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 24 Nov 2025 06:02:40 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.9.dmg"
+      <pubDate>Mon, 24 Nov 2025 08:24:28 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.10.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.7.9"
+                 sparkle:version="15.7.10"
                  sparkle:installationType="package"
-                 sparkle:edSignature="hhtsv4mzKvXBfTjpyDJ3jAl6JledU6N45BNjVFjQxxOBFo0O1yLO4ySjlud5XfyItChmBOMxjL8jxJBBzeHYAA==" length="45011207"
+                 sparkle:edSignature="asRagV0QLt8V6I0Tp9MPmjLHHzN3Zf8PWerq2pG+KFQguGDZhTQD9b9Z3jW22kIRRA4arDC3tR/+V6Ym0LjhCg==" length="43929559"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
