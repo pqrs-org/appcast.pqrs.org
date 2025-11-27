@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.7.12</title>
+      <title>Version 15.7.13</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.7.12 Update</h2>
+<h2>About v15.7.13 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -31,6 +31,7 @@ img {
 <li><code>--list-multitouch-extension-variables</code></li>
 <li><code>--watch-multitouch-extension-variables</code></li>
 </ul></li>
+<li>Added macOS log messages viewer to Settings.</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
@@ -44,6 +45,7 @@ img {
 <li>Added an alert that appears if communication with Karabiner-VirtualHIDDevice-Daemon is not possible.</li>
 <li>Improved the automatic recovery behavior from inter-process communication failures.</li>
 <li>Improved <code>open_application</code> to exclude non-application bundles from <code>frontmost_application_history_index</code>.</li>
+<li>Move system extensions viewer to Settings from EventViewer.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -54,12 +56,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 24 Nov 2025 13:48:14 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.12.dmg"
+      <pubDate>Thu, 27 Nov 2025 14:18:58 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.13.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.7.12"
+                 sparkle:version="15.7.13"
                  sparkle:installationType="package"
-                 sparkle:edSignature="hU/rrNeMC1tmw4ZIDlTBXF8Uf5ETwof/PSP7YWn07OITLuVHH6Eg8g0CsQisCEMzbmCJLdqll25oUqNKLAtyCQ==" length="44971187"
+                 sparkle:edSignature="3Iu8cecYBkR5HMqWrBmCLYNrVYrWKvoBPkmVmouaFxuYT4T8m9kIMQvC57YPm96xOxVJSJqDHt+CKpDxUA4qCw==" length="45040939"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
