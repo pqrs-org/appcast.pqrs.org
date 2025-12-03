@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.7.14</title>
+      <title>Version 15.7.15</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.7.14 Update</h2>
+<h2>About v15.7.15 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -46,6 +46,7 @@ img {
 <li>Improved the automatic recovery behavior from inter-process communication failures.</li>
 <li>Improved <code>open_application</code> to exclude non-application bundles from <code>frontmost_application_history_index</code>.</li>
 <li>Move system extensions viewer to Settings from EventViewer.</li>
+<li>Updated EventViewer to properly display modifier flags for pointing button events.</li>
 <li>Improved MultitouchExtension to disable PreventUserIdleSystemSleep before the system goes to sleep.</li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
@@ -57,12 +58,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 28 Nov 2025 13:19:41 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.14.dmg"
+      <pubDate>Wed, 03 Dec 2025 15:05:47 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.15.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.7.14"
+                 sparkle:version="15.7.15"
                  sparkle:installationType="package"
-                 sparkle:edSignature="DBnvmebJeau08mck9O4QVj0VJRviMrdhKUVdNEMEqkhqS7y8RvXizANsi9DhWHeUhuuN63LTptAdJwAmFdtRCQ==" length="45025771"
+                 sparkle:edSignature="MXAVoXnAkJ1dgCbUasjH716RK7fXBkQWDGlX3afQLW/Hr6j+d5vGZzslEg9fGLAhVYs31hfuRXAtTYPrn0t7Dg==" length="45047303"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
