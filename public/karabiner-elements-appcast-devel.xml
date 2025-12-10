@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.7.17</title>
+      <title>Version 15.7.18</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,8 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.7.17 Update</h2>
+<h2>About v15.7.18 Update</h2>
 <ul>
+<li>💥 Breaking changes
+
+<ul>
+<li>Changed the default behavior of <code>f6</code> to the <code>Do Not Disturb</code> key.</li>
+</ul></li>
 <li>✨ New Features
 
 <ul>
@@ -49,6 +54,11 @@ img {
 <li>Move system extensions viewer to Settings from EventViewer.</li>
 <li>Updated EventViewer to properly display modifier flags for pointing button events.</li>
 <li>Improved MultitouchExtension to disable PreventUserIdleSystemSleep before the system goes to sleep.</li>
+<li>Supported the following keys:
+
+<ul>
+<li>generic_desktop::do_not_disturb</li>
+</ul></li>
 <li>Sparkle Framework has been updated.</li>
 </ul></li>
 </ul>
@@ -59,12 +69,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 06 Dec 2025 22:49:55 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.17.dmg"
+      <pubDate>Wed, 10 Dec 2025 13:48:25 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.7.18.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.7.17"
+                 sparkle:version="15.7.18"
                  sparkle:installationType="package"
-                 sparkle:edSignature="okCmlHm99m2O+f0WHRhcVgcOAdl2g457KTD57Jr/uMqpXPJtAD36CcrLxyQW2cJy1KQnlQbOG2NJ4sUDWfenAw==" length="45046615"
+                 sparkle:edSignature="8hi7ZPSDmwmxinCwP9XVTHVDMhiCA0X2LUniqkUZ8U1HGn4HUWIPJQZZ0ejwTNc8y8Mwy7kwi6qaEd6BMQJ4DQ==" length="45044955"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
