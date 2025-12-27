@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.5.0</title>
+      <title>Version 2.5.1</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,19 +19,12 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.5.0 Update</h2>
+<h2>About v2.5.1 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Nov 21, 2025</li>
-</ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Updated the app icon.</li>
-<li>Added support for Liquid Glass.</li>
-<li>Sparkle Framework has been updated.</li>
+<li>Updated the menu icons.</li>
 </ul></li>
 </ul>
 <p>
@@ -41,11 +34,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 21 Nov 2025 12:24:28 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v2.5.0/TrueWidget-2.5.0.dmg"
+      <pubDate>Sat, 27 Dec 2025 10:53:03 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.5.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.5.0"
-                 sparkle:edSignature="fYEFKM9HnXmv+HtAUqo+GQDHsRwkb8WlTWVrenzHFRyoeZYutgCgEaAeiLQCUI4UJmOTxpqNxZW7PXCCbDBsBQ==" length="5155734"
+                 sparkle:version="2.5.1"
+                 sparkle:edSignature="5KBiMHm/g9mgmyWfm6niQFuoLwTNi1z9NW5gWG1L4tQRXMspUa6/9e1xsZI26jbGt6jle2PDyGCwp4b9H6MbBg==" length="5142198"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
