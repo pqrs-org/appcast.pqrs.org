@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.4.4</title>
+      <title>Version 2.4.5</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,13 +19,21 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.4.4 Update</h2>
+<h2>About v2.4.5 Update</h2>
 <ul>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 11 and macOS 12 are no longer supported.</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
+<li>Updated the app icon.</li>
+<li>Added support for Liquid Glass.</li>
+<li>Migrated to the SwiftUI life cycle.</li>
+<li>Migrated to Swift 6.</li>
 <li>Sparkle Framework has been updated.</li>
-<li>Minor improvements to the source code.</li>
 </ul></li>
 </ul>
 <p>
@@ -35,11 +43,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 29 Dec 2025 09:34:41 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.4.4.dmg"
+      <pubDate>Mon, 29 Dec 2025 11:42:10 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.4.5.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.4.4"
-                 sparkle:edSignature="qNyv9h51Jzfqkf3fTDRwTxxOUMgDqnBHAcGGD3jjR6vNuFWdsBr2atF73a5cH3YPrGQNgUIznr7XswJULZ2qAA==" length="3680620"
+                 sparkle:version="2.4.5"
+                 sparkle:edSignature="dLtwjPCl2wF3qMhkdtdiaSUEMCY46Nu3ccx/yQbASGczlMeiK3ZcMt2hfWehG/z7rtLo3K+5ga1klkTANYaDCA==" length="3686463"
       />
     </item>
 
