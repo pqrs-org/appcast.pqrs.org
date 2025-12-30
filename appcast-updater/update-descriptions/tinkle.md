@@ -1,3 +1,5 @@
+-   📅 Release date
+    -   Dec 30, 2025
 -   💥 Breaking changes
     -   macOS 11 and macOS 12 are no longer supported.
 -   ✨ New Features
