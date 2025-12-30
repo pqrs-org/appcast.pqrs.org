@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.99.92</title>
+      <title>Version 2.99.93</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.99.92 Update</h2>
+<h2>About v2.99.93 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -48,11 +48,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 30 Dec 2025 09:26:59 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.99.92.dmg"
+      <pubDate>Tue, 30 Dec 2025 12:11:22 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.99.93.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.99.92"
-                 sparkle:edSignature="C8XVZ5RjZlSJLahpQ8Ou1fImYcU+obBf8vy6PY7GAwzsYJt3Z+E7lxJAO33bE8T3FVn0uYZYB2/u5W04R9toDg==" length="3717731"
+                 sparkle:version="2.99.93"
+                 sparkle:edSignature="GuDzi/xY1vLd7i0+SZMc+qe5pceyiPQDvoj6T9cUOytbWDDBHHvdSIZeDtgBoe5RJu+uYtlj0/ZW4Qs8FREeCA==" length="3716554"
       />
     </item>
 
