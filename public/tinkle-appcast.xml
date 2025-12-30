@@ -7,6 +7,62 @@
     <language>en</language>
 
     <item>
+      <title>Version 3.0.0</title>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<!DOCTYPE html>
+<body>
+<style>
+* {
+  font-size: 14px !important;
+}
+img {
+  max-width: 100%;
+}
+</style>
+<h2>About v3.0.0 Update</h2>
+<ul>
+<li>📅 Release date
+
+<ul>
+<li>Dec 30, 2025</li>
+</ul></li>
+<li>💥 Breaking changes
+
+<ul>
+<li>macOS 11 and macOS 12 are no longer supported.</li>
+</ul></li>
+<li>✨ New Features
+
+<ul>
+<li>Show the recent apps in the menu.</li>
+</ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>Updated the app icon.</li>
+<li>Added support for Liquid Glass.</li>
+<li>Migrated to the SwiftUI life cycle.</li>
+<li>Migrated to Swift 6.</li>
+<li>Sparkle Framework has been updated.</li>
+</ul></li>
+</ul>
+<p>
+  <a href="https://tinkle.pqrs.org/docs/releasenotes/">More</a>
+</p>
+</body>
+</html>
+]]>
+      </description>
+      <pubDate>Tue, 30 Dec 2025 14:54:44 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/v3.0.0/Tinkle-3.0.0.dmg"
+                 type="application/octet-stream"
+                 sparkle:version="3.0.0"
+                 sparkle:edSignature="DXL++HfMSwkwy33CdqGLOsVvJvDkvODcAK8MbhYZnceRXndDMEcyjqZoxfhi0SSkbzooM+Vep/5n6gAlHkHaCg==" length="3716007"
+      />
+      <sparkle:fullReleaseNotesLink>https://tinkle.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
+    </item>
+
+    <item>
       <title>Version 2.4.0</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
