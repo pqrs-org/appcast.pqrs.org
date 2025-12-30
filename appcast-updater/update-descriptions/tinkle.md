@@ -1,5 +1,7 @@
 -   💥 Breaking changes
     -   macOS 11 and macOS 12 are no longer supported.
+-   ✨ New Features
+    -   Show the recent apps in the menu.
 -   ⚡️ Improvements
     -   Updated the app icon.
     -   Added support for Liquid Glass.

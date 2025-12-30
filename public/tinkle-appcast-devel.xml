@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.4.5</title>
+      <title>Version 2.99.90</title>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,12 +19,17 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.4.5 Update</h2>
+<h2>About v2.99.90 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
 <ul>
 <li>macOS 11 and macOS 12 are no longer supported.</li>
+</ul></li>
+<li>✨ New Features
+
+<ul>
+<li>Show the recent apps in the menu.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -43,11 +48,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 29 Dec 2025 11:42:10 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.4.5.dmg"
+      <pubDate>Tue, 30 Dec 2025 01:12:53 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-2.99.90.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.4.5"
-                 sparkle:edSignature="dLtwjPCl2wF3qMhkdtdiaSUEMCY46Nu3ccx/yQbASGczlMeiK3ZcMt2hfWehG/z7rtLo3K+5ga1klkTANYaDCA==" length="3686463"
+                 sparkle:version="2.99.90"
+                 sparkle:edSignature="+/0qqzZwtgcU4nc+dWY+sJcJ69ZzaF0lIkWkAbOIK5mJkYRD4AhOlqyqFUTWMce/6cH9jSd21bWKR8ip6d0tCg==" length="3705685"
       />
     </item>
 
