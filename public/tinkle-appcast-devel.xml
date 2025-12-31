@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 3.0.0</title>
+      <title>Version 3.0.1</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v3.0.0 Update</h2>
+<h2>About v3.0.1 Update</h2>
 <ul>
 <li>📅 Release date
 
@@ -53,11 +53,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 30 Dec 2025 14:54:44 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/v3.0.0/Tinkle-3.0.0.dmg"
+      <pubDate>Wed, 31 Dec 2025 01:55:54 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Tinkle/releases/download/beta/Tinkle-3.0.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="3.0.0"
-                 sparkle:edSignature="DXL++HfMSwkwy33CdqGLOsVvJvDkvODcAK8MbhYZnceRXndDMEcyjqZoxfhi0SSkbzooM+Vep/5n6gAlHkHaCg==" length="3716007"
+                 sparkle:version="3.0.1"
+                 sparkle:edSignature="FBZWBlUelurp+3N0IogLp879bG9SpAlwv7OnWY3jyaqros12W8js2MMh49iI6BbmMVTBM6zp0RvY5QDWYJE3CQ==" length="3712746"
       />
       <sparkle:fullReleaseNotesLink>https://tinkle.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
