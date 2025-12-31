@@ -1,2 +1,4 @@
+-   📅 Release date
+    -   Dec 31, 2025
 -   ⚡️ Improvements
     -   Updated the menu icons.
