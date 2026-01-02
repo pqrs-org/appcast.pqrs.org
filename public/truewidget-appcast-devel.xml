@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.5.2</title>
+      <title>Version 2.5.3</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,8 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.5.2 Update</h2>
+<h2>About v2.5.3 Update</h2>
 <ul>
+<li>✨ New Features
+
+<ul>
+<li>Added an extra feature: Automatic volume unmounting.</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
@@ -34,11 +39,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 28 Dec 2025 14:51:23 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.5.2.dmg"
+      <pubDate>Fri, 02 Jan 2026 01:00:28 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.5.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.5.2"
-                 sparkle:edSignature="jo5UiXgbYW4lHv/EQgwOt5nw5iaHBtUp1JVJEopIZ17pQuZ35q4UYuUqBdu/pA8vVb4B6f3R9Ot+DeWAUjP1DQ==" length="5142559"
+                 sparkle:version="2.5.3"
+                 sparkle:edSignature="mi7qTxuuZh2G1HkiOPyiup9ICwq/AvpAfkxHWwAKkOBX71/KMjclIN/0vWfq8D8c70FekoZXahzYTaN9c0Z8BA==" length="5247640"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
