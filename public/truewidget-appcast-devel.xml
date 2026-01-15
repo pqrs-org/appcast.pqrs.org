@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.5.11</title>
+      <title>Version 2.5.12</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.5.11 Update</h2>
+<h2>About v2.5.12 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -39,11 +39,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 14 Jan 2026 14:36:44 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.5.11.dmg"
+      <pubDate>Thu, 15 Jan 2026 13:08:09 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.5.12.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.5.11"
-                 sparkle:edSignature="6fRVM5iwq8ymhow8QOuxaay9hMx7+CFpkRpwJ4RKl/6FEyOxlPcPuBGgaMSOWHJRwlEwNflQqki43qYStMSmAQ==" length="5831275"
+                 sparkle:version="2.5.12"
+                 sparkle:edSignature="EjtwjE2huETymW+NndTM+rpGSXJiwcO60ddirH1LkEIltgU3q66Nn57/vSx/VXPqzAP3K6ihMjoV5QFyp6mXBw==" length="5832594"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
