@@ -1,22 +1,22 @@
--   💥 Breaking changes
-    -   Changed the default behavior of `f6` to the `Do Not Disturb` key.
--   ✨ New Features
-    -   Added [`open_application.frontmost_application_history_exclusion_bundle_identifiers` and `open_application.frontmost_application_history_exclusion_file_paths`.](https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/open_application/)
-    -   Added the following options to karabiner_cli:
-        -   `--list-multitouch-extension-variables`
-        -   `--watch-multitouch-extension-variables`
-    -   Added macOS log messages viewer to Settings.
--   🐛 Bug Fixes
-    -   Fixed an issue where the sticky modifier indicator could continue to be displayed even after being disabled in the settings.
-    -   Fixed an issue where karabiner_machine_identifier was not set correctly during a clean install.
--   ⚡️ Improvements
-    -   Removed the probable stuck key detector since we've confirmed that, on supported versions of macOS, seizing the device while keys are held down no longer causes any issues.
-    -   Added an alert that appears if communication with Karabiner-VirtualHIDDevice-Daemon is not possible.
-    -   Improved the automatic recovery behavior from inter-process communication failures.
-    -   Improved `open_application` to exclude non-application bundles from `frontmost_application_history_index`.
-    -   Move system extensions viewer to Settings from EventViewer.
-    -   Updated EventViewer to properly display modifier flags for pointing button events.
-    -   Improved MultitouchExtension to disable PreventUserIdleSystemSleep before the system goes to sleep.
-    -   Supported the following keys:
-        -   generic_desktop::do_not_disturb
-    -   Sparkle Framework has been updated.
+- 💥 Breaking changes
+    - Changed the default behavior of `f6` to the `Do Not Disturb` key.
+- ✨ New Features
+    - Added [`open_application.frontmost_application_history_exclusion_bundle_identifiers` and `open_application.frontmost_application_history_exclusion_file_paths`.](https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/open_application/)
+    - Added the following options to karabiner_cli:
+        - `--list-multitouch-extension-variables`
+        - `--watch-multitouch-extension-variables`
+    - Added macOS log messages viewer to Settings.
+- 🐛 Bug Fixes
+    - Fixed an issue where the sticky modifier indicator could continue to be displayed even after being disabled in the settings.
+    - Fixed an issue where karabiner_machine_identifier was not set correctly during a clean install.
+- ⚡️ Improvements
+    - Removed the probable stuck key detector since we've confirmed that, on supported versions of macOS, seizing the device while keys are held down no longer causes any issues.
+    - Added an alert that appears if communication with Karabiner-VirtualHIDDevice-Daemon is not possible.
+    - Improved the automatic recovery behavior from inter-process communication failures.
+    - Improved `open_application` to exclude non-application bundles from `frontmost_application_history_index`.
+    - Move system extensions viewer to Settings from EventViewer.
+    - Updated EventViewer to properly display modifier flags for pointing button events.
+    - Improved MultitouchExtension to disable PreventUserIdleSystemSleep before the system goes to sleep.
+    - Supported the following keys:
+        - generic_desktop::do_not_disturb
+    - Sparkle Framework has been updated.
