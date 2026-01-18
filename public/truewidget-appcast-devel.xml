@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 2.5.14</title>
+      <title>Version 2.6.0</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,8 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v2.5.14 Update</h2>
+<h2>About v2.6.0 Update</h2>
 <ul>
+<li>📅 Release date
+
+<ul>
+<li>Jan 18, 2026</li>
+</ul></li>
 <li>✨ New Features
 
 <ul>
@@ -30,6 +35,7 @@ img {
 
 <ul>
 <li>Updated the menu icons.</li>
+<li>AsyncAlgorithms Framework has been updated.</li>
 </ul></li>
 </ul>
 <p>
@@ -39,11 +45,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 17 Jan 2026 14:20:00 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/beta/TrueWidget-2.5.14.dmg"
+      <pubDate>Sun, 18 Jan 2026 00:30:12 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/TrueWidget/releases/download/v2.6.0/TrueWidget-2.6.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="2.5.14"
-                 sparkle:edSignature="4l7ag7aUdURlnLB1bpzd1whXsGkZi0BRS6zqcVy3EstF1cwSWvAFIcItySQPQo6KmBh8a+tweOa/QX+keOf4Dg==" length="5833241"
+                 sparkle:version="2.6.0"
+                 sparkle:edSignature="m1WosO4I4AXVmZ1zv+tN1yCye1w+G9JtAUJsqNBxydg2CSguP5OGmAUNZSPKRfXuAFZPh9VTDq0GgrTT3T09AA==" length="5832589"
       />
       <sparkle:fullReleaseNotesLink>https://truewidget.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>

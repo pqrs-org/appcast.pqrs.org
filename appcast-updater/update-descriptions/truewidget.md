@@ -1,4 +1,7 @@
--   ✨ New Features
-    -   Added an extra feature: Automatic volume unmounting.
--   ⚡️ Improvements
-    -   Updated the menu icons.
+- 📅 Release date
+    - Jan 18, 2026
+- ✨ New Features
+    - Added an extra feature: Automatic volume unmounting.
+- ⚡️ Improvements
+    - Updated the menu icons.
+    - AsyncAlgorithms Framework has been updated.
