@@ -1,3 +1,5 @@
+- 📅 Release date
+    - Jan 18, 2026
 - 💥 Breaking changes
     - Changed the default behavior of `f6` to the `Do Not Disturb` key.
 - ✨ New Features
