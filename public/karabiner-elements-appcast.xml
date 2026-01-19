@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.8.0</title>
+      <title>Version 15.9.0</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,22 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.8.0 Update</h2>
+<h2>About v15.9.0 Update</h2>
+<ul>
+<li>📅 Release date
+
+<ul>
+<li>Jan 19, 2026</li>
+</ul></li>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue in v15.8.0 where the update notification window was not shown when updates were checked in the background.</li>
+</ul></li>
+</ul>
+
+<h2>Karabiner-Elements 15.8.0</h2>
+
 <ul>
 <li>📅 Release date
 
@@ -74,12 +89,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 18 Jan 2026 12:46:50 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.8.0/Karabiner-Elements-15.8.0.dmg"
+      <pubDate>Mon, 19 Jan 2026 00:56:37 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.9.0/Karabiner-Elements-15.9.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.8.0"
+                 sparkle:version="15.9.0"
                  sparkle:installationType="package"
-                 sparkle:edSignature="Po6dQq1Wnw+4cV2plE5l+x8Nwal9K8hsigAhQlWwwhYawoSZJxJEeZ+3cXQuL+cYPiD89Yk1xSPhd9TH2JmDCw==" length="46521937"
+                 sparkle:edSignature="AgJXk76hzOAUWJobhUJGJZ9am6qY2jHq28g4fZFwFd5ElS0+CdhVtdZ1U5ktqPylv2T8/bPyu6EUbeBiiiR4CQ==" length="46501777"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
