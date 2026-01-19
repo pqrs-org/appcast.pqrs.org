@@ -1,5 +1,7 @@
-## Beta
+## Karabiner-Elements 15.9.0
 
+- 📅 Release date
+    - Jan 19, 2026
 - 🐛 Bug Fixes
     - Fixed an issue in v15.8.0 where the update notification window was not shown when updates were checked in the background.
 
