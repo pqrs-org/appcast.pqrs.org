@@ -20,8 +20,6 @@ img {
 }
 </style>
 <h2>About v15.9.0 Update</h2>
-<h2>Karabiner-Elements 15.9.0</h2>
-
 <ul>
 <li>📅 Release date
 
@@ -91,7 +89,7 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 19 Jan 2026 00:54:47 -0000</pubDate>
+      <pubDate>Mon, 19 Jan 2026 00:56:37 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.9.0/Karabiner-Elements-15.9.0.dmg"
                  type="application/octet-stream"
                  sparkle:version="15.9.0"

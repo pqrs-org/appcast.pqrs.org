@@ -1,5 +1,3 @@
-## Karabiner-Elements 15.9.0
-
 - 📅 Release date
     - Jan 19, 2026
 - 🐛 Bug Fixes
