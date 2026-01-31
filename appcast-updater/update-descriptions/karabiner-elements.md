@@ -1,2 +1,2 @@
 - ✨ New Features
-    - Added a "Clear variables" button to EventViewer. (Thanks to @BarakXYZ)
+    - Added a "Clear user variables" button to EventViewer. (Thanks to @BarakXYZ)

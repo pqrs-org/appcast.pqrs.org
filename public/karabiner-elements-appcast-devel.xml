@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.9.1</title>
+      <title>Version 15.9.2</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,12 +19,12 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.9.1 Update</h2>
+<h2>About v15.9.2 Update</h2>
 <ul>
 <li>✨ New Features
 
 <ul>
-<li>Added a &ldquo;Clear variables&rdquo; button to EventViewer. (Thanks to @BarakXYZ)</li>
+<li>Added a &ldquo;Clear user variables&rdquo; button to EventViewer. (Thanks to @BarakXYZ)</li>
 </ul></li>
 </ul>
 <p>
@@ -34,12 +34,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 31 Jan 2026 00:47:22 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.1.dmg"
+      <pubDate>Sat, 31 Jan 2026 01:38:17 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.2.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.9.1"
+                 sparkle:version="15.9.2"
                  sparkle:installationType="package"
-                 sparkle:edSignature="zX9YCdbY8o4qCQ9atQdjqR4G1lHSUeWYOdlq+9xy1wkDQ6AVwqI+qbZattgbAqSwrmMkdIzDBxCdIsl9Ma7LAw==" length="46508205"
+                 sparkle:edSignature="Deh775fVAdeX0czNgcWfJV4StS277OAwbkFSMR1M8G/kNp0DvlBXJlOvDATxzxI0gtP63K96zaKqVsw3KaHqBg==" length="46507713"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
