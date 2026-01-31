@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.9.0</title>
+      <title>Version 15.9.1</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,67 +19,12 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.9.0 Update</h2>
+<h2>About v15.9.1 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Jan 19, 2026</li>
-</ul></li>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed an issue in v15.8.0 where the update notification window was not shown when updates were checked in the background.</li>
-</ul></li>
-</ul>
-
-<h2>Karabiner-Elements 15.8.0</h2>
-
-<ul>
-<li>📅 Release date
-
-<ul>
-<li>Jan 18, 2026</li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>Changed the default behavior of <code>f6</code> to the <code>Do Not Disturb</code> key.</li>
-</ul></li>
 <li>✨ New Features
 
 <ul>
-<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/software_function/open_application/"><code>open_application.frontmost_application_history_exclusion_bundle_identifiers</code> and <code>open_application.frontmost_application_history_exclusion_file_paths</code>.</a></li>
-<li>Added the following options to karabiner_cli:
-
-<ul>
-<li><code>--list-multitouch-extension-variables</code></li>
-<li><code>--watch-multitouch-extension-variables</code></li>
-</ul></li>
-<li>Added macOS log messages viewer to Settings.</li>
-</ul></li>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed an issue where the sticky modifier indicator could continue to be displayed even after being disabled in the settings.</li>
-<li>Fixed an issue where karabiner_machine_identifier was not set correctly during a clean install.</li>
-</ul></li>
-<li>⚡️ Improvements
-
-<ul>
-<li>Removed the probable stuck key detector since we&rsquo;ve confirmed that, on supported versions of macOS, seizing the device while keys are held down no longer causes any issues.</li>
-<li>Added an alert that appears if communication with Karabiner-VirtualHIDDevice-Daemon is not possible.</li>
-<li>Improved the automatic recovery behavior from inter-process communication failures.</li>
-<li>Improved <code>open_application</code> to exclude non-application bundles from <code>frontmost_application_history_index</code>.</li>
-<li>Move system extensions viewer to Settings from EventViewer.</li>
-<li>Updated EventViewer to properly display modifier flags for pointing button events.</li>
-<li>Improved MultitouchExtension to disable PreventUserIdleSystemSleep before the system goes to sleep.</li>
-<li>Supported the following keys:
-
-<ul>
-<li>generic_desktop::do_not_disturb</li>
-</ul></li>
-<li>Sparkle Framework has been updated.</li>
+<li>Added a &ldquo;Clear variables&rdquo; button to EventViewer. (Thanks to @BarakXYZ)</li>
 </ul></li>
 </ul>
 <p>
@@ -89,12 +34,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 19 Jan 2026 00:56:37 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v15.9.0/Karabiner-Elements-15.9.0.dmg"
+      <pubDate>Sat, 31 Jan 2026 00:47:22 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.9.0"
+                 sparkle:version="15.9.1"
                  sparkle:installationType="package"
-                 sparkle:edSignature="AgJXk76hzOAUWJobhUJGJZ9am6qY2jHq28g4fZFwFd5ElS0+CdhVtdZ1U5ktqPylv2T8/bPyu6EUbeBiiiR4CQ==" length="46501777"
+                 sparkle:edSignature="zX9YCdbY8o4qCQ9atQdjqR4G1lHSUeWYOdlq+9xy1wkDQ6AVwqI+qbZattgbAqSwrmMkdIzDBxCdIsl9Ma7LAw==" length="46508205"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
