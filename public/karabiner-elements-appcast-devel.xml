@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.9.8</title>
+      <title>Version 15.9.9</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.9.8 Update</h2>
+<h2>About v15.9.9 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -34,6 +34,11 @@ img {
 <ul>
 <li>Fixed an issue where reordering in Complex Modifications and Profiles didn&rsquo;t work properly when dragging while scrolling.</li>
 </ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>Changed to call <code>exit</code> instead of <code>abort</code> to suppress crash reports when a fatal error prevents CFRunLoop from running in background processes.</li>
+</ul></li>
 </ul>
 <p>
   <a href="https://karabiner-elements.pqrs.org/docs/releasenotes/">More</a>
@@ -42,12 +47,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 05 Feb 2026 00:13:32 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.8.dmg"
+      <pubDate>Fri, 06 Feb 2026 12:25:29 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.9.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.9.8"
+                 sparkle:version="15.9.9"
                  sparkle:installationType="package"
-                 sparkle:edSignature="DDVu5KBGvQzS1ag9vMdepnSWSLZVOmNGCXiRbnwI1W25XaeEtuGkQB3EhD33SkLXbMiwrYKUQ7HQR9LttkxnBA==" length="47393011"
+                 sparkle:edSignature="+GgeMJwaejPYsFmgkEkZMowRmsjTEGt7Pgec02+CUoA5Ft5ptvhOgxng2m/2KfVtVbFmnkdi0sxGBmGCOA31BA==" length="47407079"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
