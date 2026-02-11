@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.9.13</title>
+      <title>Version 15.9.14</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.9.13 Update</h2>
+<h2>About v15.9.14 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -34,6 +34,7 @@ img {
 
 <ul>
 <li>Fixed an issue where reordering in Complex Modifications and Profiles didn&rsquo;t work properly when dragging while scrolling.</li>
+<li>Fixed an issue where variables in expressions were not properly initialized when unset.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -48,12 +49,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 11 Feb 2026 01:05:21 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.13.dmg"
+      <pubDate>Wed, 11 Feb 2026 10:47:40 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.14.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.9.13"
+                 sparkle:version="15.9.14"
                  sparkle:installationType="package"
-                 sparkle:edSignature="IvYU7nKJRF64LfOhMc1tzeu9io2KGSP7KgRYl9jAVqBPIA/IPfKho+Fl/ocQpAobq2wMT2Hi7l8BEq4yjx5tDA==" length="47452059"
+                 sparkle:edSignature="Qeg+fjQoAvRFlWnObdy50sPMoWtD3iLxCiXnkh2S/1HI67ztsIMaoajIAgWBPqWWYUpOTJ52a0IiN8mtelDeAw==" length="47427143"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
