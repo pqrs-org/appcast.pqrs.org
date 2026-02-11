@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.9.12</title>
+      <title>Version 15.9.13</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.9.12 Update</h2>
+<h2>About v15.9.13 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -28,6 +28,7 @@ img {
 <li>Added an &ldquo;Add your own rule using JavaScript&rdquo; button to the complex modifications viewer.</li>
 <li>Added an &ldquo;Open in external editor&rdquo; button to the complex modifications editor.</li>
 <li>Added a &ldquo;Clear user variables&rdquo; button to EventViewer. (Thanks to @BarakXYZ)</li>
+<li>Added <code>to.from_event</code>, allowing pressed events to be passed through as-is.</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
@@ -47,12 +48,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 07 Feb 2026 11:31:55 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.12.dmg"
+      <pubDate>Wed, 11 Feb 2026 01:05:21 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.13.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.9.12"
+                 sparkle:version="15.9.13"
                  sparkle:installationType="package"
-                 sparkle:edSignature="pGRSPSPS8JSNJB9bneSrNiiONo4LIrN8Jl193KS5HAheKbVOrUCqx3CSF+BRdYqoWTPPvmLmb0fRjbPqnd5yDA==" length="47431623"
+                 sparkle:edSignature="IvYU7nKJRF64LfOhMc1tzeu9io2KGSP7KgRYl9jAVqBPIA/IPfKho+Fl/ocQpAobq2wMT2Hi7l8BEq4yjx5tDA==" length="47452059"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
