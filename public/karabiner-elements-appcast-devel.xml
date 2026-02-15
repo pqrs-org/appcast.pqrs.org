@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.9.14</title>
+      <title>Version 15.9.15</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.9.14 Update</h2>
+<h2>About v15.9.15 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -28,6 +28,9 @@ img {
 <li>Added an &ldquo;Add your own rule using JavaScript&rdquo; button to the complex modifications viewer.</li>
 <li>Added an &ldquo;Open in external editor&rdquo; button to the complex modifications editor.</li>
 <li>Added a &ldquo;Clear user variables&rdquo; button to EventViewer. (Thanks to @BarakXYZ)</li>
+<li>Added <code>to.send_user_command</code>.
+By using it together with an external server built with Karabiner-Elements-user-command-receiver,
+you can execute any action from Karabiner-Elements with low latency. (Thanks to @nikivdev)</li>
 <li>Added <code>to.from_event</code>, allowing pressed events to be passed through as-is.</li>
 </ul></li>
 <li>🐛 Bug Fixes
@@ -49,12 +52,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 11 Feb 2026 10:47:40 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.14.dmg"
+      <pubDate>Sun, 15 Feb 2026 14:03:53 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.15.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.9.14"
+                 sparkle:version="15.9.15"
                  sparkle:installationType="package"
-                 sparkle:edSignature="Qeg+fjQoAvRFlWnObdy50sPMoWtD3iLxCiXnkh2S/1HI67ztsIMaoajIAgWBPqWWYUpOTJ52a0IiN8mtelDeAw==" length="47427143"
+                 sparkle:edSignature="Q4j13a70Y8T3aBTf3V4b4Ma3pifDrsmfJR/+KYk7D/wo4iRavhoqdKiTGjt3cSLosqiHZL6ElpJNUJg7waXXBg==" length="47488439"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
