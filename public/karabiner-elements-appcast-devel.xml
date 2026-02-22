@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.9.16</title>
+      <title>Version 15.9.17</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.9.16 Update</h2>
+<h2>About v15.9.17 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -28,10 +28,12 @@ img {
 <li>Added an &ldquo;Add your own rule using JavaScript&rdquo; button to the complex modifications viewer.</li>
 <li>Added an &ldquo;Open in external editor&rdquo; button to the complex modifications editor.</li>
 <li>Added a &ldquo;Clear user variables&rdquo; button to EventViewer. (Thanks to @BarakXYZ)</li>
-<li>Added <code>to.send_user_command</code>.
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to-if-other-key-pressed/"><code>to.to_if_other_key_pressed</code></a>.</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/send-user-command/"><code>to.send_user_command</code></a>.
 By using it together with an external server built with Karabiner-Elements-user-command-receiver,
 you can execute any action from Karabiner-Elements with low latency. (Thanks to @nikivdev)</li>
-<li>Added <code>to.from_event</code>, allowing pressed events to be passed through as-is.</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/from-event/"><code>to.from_event</code></a>,
+allowing pressed events to be passed through as-is.</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
@@ -52,12 +54,12 @@ you can execute any action from Karabiner-Elements with low latency. (Thanks to 
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 17 Feb 2026 23:47:36 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.16.dmg"
+      <pubDate>Sun, 22 Feb 2026 02:10:25 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.17.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.9.16"
+                 sparkle:version="15.9.17"
                  sparkle:installationType="package"
-                 sparkle:edSignature="5F1tVx0AEVEj/q+MGV51pBBpMPLrOfz6Gm3MSiCo65xAD+FnBY6VCjTkVOOdYC71/vlwRWIglZc0aho00NizBA==" length="47489575"
+                 sparkle:edSignature="MFz41vDMLO7I7UWo6e1fGUbLrNN31yDYyVqEx6sUr88uRdUntRxnFOvnvaE0ifG9+p1D/SRSTB42LNzW084CAw==" length="46595799"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
