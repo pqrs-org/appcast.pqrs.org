@@ -28,7 +28,8 @@ img {
 <li>Added an &ldquo;Add your own rule using JavaScript&rdquo; button to the complex modifications viewer.</li>
 <li>Added an &ldquo;Open in external editor&rdquo; button to the complex modifications editor.</li>
 <li>Added a &ldquo;Clear user variables&rdquo; button to EventViewer. (Thanks to @BarakXYZ)</li>
-<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to-if-other-key-pressed/"><code>to.to_if_other_key_pressed</code></a>.</li>
+<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to-if-other-key-pressed/"><code>to.to_if_other_key_pressed</code></a>.
+It&rsquo;s now possible to implement &ldquo;Change option+tab to command+tab&rdquo; in a more natural way and reliable way.</li>
 <li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/send-user-command/"><code>to.send_user_command</code></a>.
 By using it together with an external server built with Karabiner-Elements-user-command-receiver,
 you can execute any action from Karabiner-Elements with low latency. (Thanks to @nikivdev)</li>
@@ -54,7 +55,7 @@ allowing pressed events to be passed through as-is.</li>
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 22 Feb 2026 02:10:25 -0000</pubDate>
+      <pubDate>Sun, 22 Feb 2026 06:08:59 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.9.17.dmg"
                  type="application/octet-stream"
                  sparkle:version="15.9.17"
