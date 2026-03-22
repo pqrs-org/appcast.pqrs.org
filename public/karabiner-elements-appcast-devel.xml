@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.90.8</title>
+      <title>Version 15.90.16</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.90.8 Update</h2>
+<h2>About v15.90.16 Update</h2>
 <ul>
 <li>🔔 Important Notes
 
@@ -29,6 +29,14 @@ img {
 <li>✨ New Features
 
 <ul>
+<li><code>frontmost_application_if</code> can now detect overlay windows, such as Spotlight, using the Accessibility API.</li>
+<li><code>variable_if</code> now supports the following variables, making it possible to change behavior depending on whether the focused element is a text area.
+
+<ul>
+<li>accessibility.focused_ui_element.role</li>
+<li>accessibility.focused_ui_element.subrole</li>
+<li>accessibility.focused_ui_element.title</li>
+</ul></li>
 <li>You can now generate JSON for Complex Modifications rules by writing JavaScript.</li>
 <li>Added an &ldquo;Add your own rule using JavaScript&rdquo; button to the complex modifications viewer.</li>
 <li>Added an &ldquo;Open in external editor&rdquo; button to the complex modifications editor.</li>
@@ -63,12 +71,12 @@ Enable receiving events via CGEventTap for keyboards where IOHIDDeviceOpen fails
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 18 Mar 2026 15:09:24 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.90.8.dmg"
+      <pubDate>Sun, 22 Mar 2026 07:15:24 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.90.16.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.90.8"
+                 sparkle:version="15.90.16"
                  sparkle:installationType="package"
-                 sparkle:edSignature="V+Xrhry4vNned8mRHCFqQ8CSPSpju+WB2PsJZMRfl8fiBYqu8p9YoTAQdbo/KhX1rXJmqilifAkJZNLaQIb/Cg==" length="47850338"
+                 sparkle:edSignature="NpbqiGlYLzpbUQJv2JG7Scl7nzcAwPuvNkbsZgRDflB93neRxrZFHLB+2xX2oYlmvb2G6J2PthdZgmBE7VcrCw==" length="47762858"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
