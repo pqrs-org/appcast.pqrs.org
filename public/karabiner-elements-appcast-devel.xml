@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.90.21</title>
+      <title>Version 15.90.22</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.90.21 Update</h2>
+<h2>About v15.90.22 Update</h2>
 <ul>
 <li>🔔 Important Notes
 
@@ -33,9 +33,9 @@ img {
 <li><code>variable_if</code> now supports the following variables, making it possible to change behavior depending on whether the focused element is a text area.
 
 <ul>
-<li>accessibility.focused_ui_element.role</li>
-<li>accessibility.focused_ui_element.subrole</li>
-<li>accessibility.focused_ui_element.title</li>
+<li>accessibility.focused_ui_element.role_string</li>
+<li>accessibility.focused_ui_element.subrole_string</li>
+<li>accessibility.focused_ui_element.title_string</li>
 <li>accessibility.focused_ui_element.window_position_x</li>
 <li>accessibility.focused_ui_element.window_position_y</li>
 <li>accessibility.focused_ui_element.window_size_height</li>
@@ -76,12 +76,12 @@ Enable receiving events via CGEventTap for keyboards where IOHIDDeviceOpen fails
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 30 Mar 2026 13:23:54 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.90.21.dmg"
+      <pubDate>Tue, 07 Apr 2026 05:39:24 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.90.22.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.90.21"
+                 sparkle:version="15.90.22"
                  sparkle:installationType="package"
-                 sparkle:edSignature="IJ5nu3ZLcsc4M9T6c2F4761EPHcAeOxFHzM01BA0jPSWRUZNyiLssOY1ClEN+9hw9uJKGdGTJRG/qyFLMflTDA==" length="48900385"
+                 sparkle:edSignature="odu6HuNnoKK2YHheZJ5zl5o6Q4nAzs4aYhlURXWErKshkWJPP3nhAixaoPHb9TnGlYK/C7xE520XFzNBvGcQCw==" length="48899653"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
