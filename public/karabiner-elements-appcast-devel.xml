@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.90.28</title>
+      <title>Version 15.90.30</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.90.28 Update</h2>
+<h2>About v15.90.30 Update</h2>
 <ul>
 <li>🔔 Important Notes
 
@@ -55,6 +55,7 @@ allowing pressed events to be passed through as-is.</li>
 <li>Added <code>relative_to</code> and <code>fallback_to</code> to <code>software_function.set_mouse_cursor_position</code>.</li>
 <li>Added <code>Enable CGEventTap fallback</code> setting to Expert tab.
 Enable receiving events via CGEventTap for keyboards where IOHIDDeviceOpen fails for some reason.</li>
+<li>Added Setup tab to Settings.</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
@@ -77,12 +78,12 @@ Enable receiving events via CGEventTap for keyboards where IOHIDDeviceOpen fails
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 19 Apr 2026 14:00:10 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.90.28.dmg"
+      <pubDate>Tue, 21 Apr 2026 14:49:04 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.90.30.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.90.28"
+                 sparkle:version="15.90.30"
                  sparkle:installationType="package"
-                 sparkle:edSignature="juMnHmgAOeQpOP3ino/1JVZWrwvDEsVpFmz2ubQz5q4pXk4e6kMP3mnMFxrbV+bQvwUMcch/waJn6LKKQOUDCQ==" length="48898901"
+                 sparkle:edSignature="2yk8pnVT25fF+a5UFFfrIyvZANtj+BVxAxVO7ij9jjiTOZ00fCSoOOxrjK2O94bM3YgtkzZ1Z9g5k0TT4SXkBw==" length="48962353"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
