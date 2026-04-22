@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 15.90.30</title>
+      <title>Version 15.90.31</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v15.90.30 Update</h2>
+<h2>About v15.90.31 Update</h2>
 <ul>
 <li>🔔 Important Notes
 
@@ -78,12 +78,12 @@ Enable receiving events via CGEventTap for keyboards where IOHIDDeviceOpen fails
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 21 Apr 2026 14:49:04 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.90.30.dmg"
+      <pubDate>Wed, 22 Apr 2026 05:07:36 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-15.90.31.dmg"
                  type="application/octet-stream"
-                 sparkle:version="15.90.30"
+                 sparkle:version="15.90.31"
                  sparkle:installationType="package"
-                 sparkle:edSignature="2yk8pnVT25fF+a5UFFfrIyvZANtj+BVxAxVO7ij9jjiTOZ00fCSoOOxrjK2O94bM3YgtkzZ1Z9g5k0TT4SXkBw==" length="48962353"
+                 sparkle:edSignature="WL5C5IX8154qcfLP9NCdhEw9xKVpSjsPKbBKv+LO03MKwI5dNbDorH9hE9sA+zVWoony3YVRWkNJxID2ctb5AA==" length="48961461"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
