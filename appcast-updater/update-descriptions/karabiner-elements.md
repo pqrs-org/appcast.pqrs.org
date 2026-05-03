@@ -1,3 +1,5 @@
+- 📅 Release date
+    - May 3, 2026
 - 🔔 Important Notes
     - Karabiner-Core-Service now requires Accessibility permission. Please enable it in System Settings.
 - ✨ New Features
