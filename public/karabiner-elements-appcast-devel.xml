@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.0.0</title>
+      <title>Version 16.0.1</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,61 +19,16 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.0.0 Update</h2>
+<h2>About v16.0.1 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>May 3, 2026</li>
-</ul></li>
-<li>🔔 Important Notes
-
-<ul>
-<li>Karabiner-Core-Service now requires Accessibility permission. Please enable it in System Settings.</li>
-</ul></li>
-<li>✨ New Features
-
-<ul>
-<li><code>frontmost_application_if</code> can now detect overlay windows, such as Spotlight, using the Accessibility API.</li>
-<li><code>variable_if</code> now supports the following variables, making it possible to change behavior depending on whether the focused element is a text area.
-
-<ul>
-<li>accessibility.focused_ui_element.role_string</li>
-<li>accessibility.focused_ui_element.subrole_string</li>
-<li>accessibility.focused_ui_element.title_string</li>
-<li>accessibility.focused_ui_element.window_position_x</li>
-<li>accessibility.focused_ui_element.window_position_y</li>
-<li>accessibility.focused_ui_element.window_size_height</li>
-<li>accessibility.focused_ui_element.window_size_width</li>
-</ul></li>
-<li>You can now generate JSON for Complex Modifications rules by writing JavaScript.</li>
-<li>Added an &ldquo;Add your own rule using JavaScript&rdquo; button to the complex modifications viewer.</li>
-<li>Added an &ldquo;Open in external editor&rdquo; button to the complex modifications editor.</li>
-<li>Added a &ldquo;Clear user variables&rdquo; button to EventViewer. (Thanks to @BarakXYZ)</li>
-<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to-if-other-key-pressed/"><code>to.to_if_other_key_pressed</code></a>.
-It&rsquo;s now possible to implement &ldquo;Change option+tab to command+tab&rdquo; in a more natural way and reliable way.</li>
-<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/send-user-command/"><code>to.send_user_command</code></a>.
-By using it together with an external server built with Karabiner-Elements-user-command-receiver,
-you can execute any action from Karabiner-Elements with low latency. (Thanks to @nikivdev)</li>
-<li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/from-event/"><code>to.from_event</code></a>,
-allowing pressed events to be passed through as-is.</li>
-<li>Added <code>relative_to</code> and <code>fallback_to</code> to <code>software_function.set_mouse_cursor_position</code>.</li>
-<li>Added <code>Enable CGEventTap fallback</code> setting to Expert tab.
-Enable receiving events via CGEventTap for keyboards where IOHIDDeviceOpen fails for some reason.</li>
-<li>Added Setup tab to Settings.</li>
-</ul></li>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed an issue where modifier keys could remain stuck when physical keyboard events were missed during capture.</li>
-<li>Fixed an issue where reordering in Complex Modifications and Profiles didn&rsquo;t work properly when dragging while scrolling.</li>
-<li>Fixed an issue where variables in expressions were not properly initialized when unset.</li>
-</ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Changed to call <code>exit</code> instead of <code>abort</code> to suppress crash reports when a fatal error prevents CFRunLoop from running in background processes.</li>
-<li>If Accessibility permission makes Input Monitoring permission unnecessary, only Accessibility permission will be requested.</li>
+<li>Supported the following keys:
+
+<ul>
+<li>consumer_key_code::ac_keyboard_layout_select (Thanks to @PedroSebastiao)</li>
+</ul></li>
 </ul></li>
 </ul>
 <p>
@@ -83,12 +38,12 @@ Enable receiving events via CGEventTap for keyboards where IOHIDDeviceOpen fails
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 03 May 2026 05:25:12 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v16.0.0/Karabiner-Elements-16.0.0.dmg"
+      <pubDate>Sun, 10 May 2026 04:11:31 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.0.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.0.0"
+                 sparkle:version="16.0.1"
                  sparkle:installationType="package"
-                 sparkle:edSignature="ZDSd3VUXel/m1DygLSl2WdLEE+5GAGzG5FoGpLvfgUADMUt2hdMDA+u5w4Kvh+Oo3LCeQMmIwCTl+3t6mf7mBw==" length="48587193"
+                 sparkle:edSignature="8k7i9nf+vg2Xy5Cwx1LvyfR3UEgRLwF2tyL7bBW/e2Lc52ULKYe7MxM3FQdyWOB18k7UK0n0Kc4bMAz6oQcuCg==" length="48602037"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
