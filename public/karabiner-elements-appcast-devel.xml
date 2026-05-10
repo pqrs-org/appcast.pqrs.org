@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.0.1</title>
+      <title>Version 16.0.3</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,8 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.0.1 Update</h2>
+<h2>About v16.0.3 Update</h2>
 <ul>
+<li>✨ New Features
+
+<ul>
+<li>Added filtering functionality to the log viewer.</li>
+</ul></li>
 <li>⚡️ Improvements
 
 <ul>
@@ -38,12 +43,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 10 May 2026 04:11:31 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.0.1.dmg"
+      <pubDate>Sun, 10 May 2026 06:59:08 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.0.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.0.1"
+                 sparkle:version="16.0.3"
                  sparkle:installationType="package"
-                 sparkle:edSignature="8k7i9nf+vg2Xy5Cwx1LvyfR3UEgRLwF2tyL7bBW/e2Lc52ULKYe7MxM3FQdyWOB18k7UK0n0Kc4bMAz6oQcuCg==" length="48602037"
+                 sparkle:edSignature="DixrQGcOnd4XiWyJHDZUju8WzKEwWtr77hNuBRkBPr1rFDKlk5IqJtQeDtAs/plEPUBSny/440YwLqd2qwv9Cg==" length="47595089"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
