@@ -9,3 +9,4 @@
         - consumer_key_code::ac_desktop_show_all_windows (Thanks to @omor1)
         - consumer_key_code::ac_soft_key_left
         - consumer_key_code::ac_desktop_show_all_applications
+    - Fix typo in ComplexModificationsView (Thanks to @kiangkuang)
