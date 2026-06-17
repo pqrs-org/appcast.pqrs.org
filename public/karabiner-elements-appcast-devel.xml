@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.0.14</title>
+      <title>Version 16.0.15</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.0.14 Update</h2>
+<h2>About v16.0.15 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -55,12 +55,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 15 Jun 2026 14:41:39 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.0.14.dmg"
+      <pubDate>Wed, 17 Jun 2026 00:46:58 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.0.15.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.0.14"
+                 sparkle:version="16.0.15"
                  sparkle:installationType="package"
-                 sparkle:edSignature="tZGCxPZItAZat6M8fmYaTL6gr7VwWrli5hqXuKSdXlNIvNFJ+CW428Bku7viiw9U40XDZ4al+5NbW7zpimGJAg==" length="48828345"
+                 sparkle:edSignature="KFzOcvvwJxF56sSrix1TU0cOsUuD+TkjtwcM8gv3b2adWF9rbJ8hZ9ZBklVy7kbphI4UobOsVHpTDf8T6/1iBA==" length="48845237"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
