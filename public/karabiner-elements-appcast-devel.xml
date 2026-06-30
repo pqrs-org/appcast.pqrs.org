@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.0.20</title>
+      <title>Version 16.0.21</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.0.20 Update</h2>
+<h2>About v16.0.21 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -46,6 +46,7 @@ img {
 <li>consumer_key_code::ac_desktop_show_all_applications</li>
 </ul></li>
 <li>Fix typo in ComplexModificationsView (Thanks to @kiangkuang)</li>
+<li>The <code>karabiner_session_monitor</code> process has been removed.</li>
 </ul></li>
 </ul>
 <p>
@@ -55,12 +56,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 27 Jun 2026 15:18:54 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.0.20.dmg"
+      <pubDate>Tue, 30 Jun 2026 00:24:35 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.0.21.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.0.20"
+                 sparkle:version="16.0.21"
                  sparkle:installationType="package"
-                 sparkle:edSignature="nmg3fF21oRhpmjrH9P9lf1z6fYCSwrcYTyoLeArFM2mJN6nE2FP4PB0KkUowDbkAa9qucDLooldwc3a+jJf1Dg==" length="48822877"
+                 sparkle:edSignature="fSCQsjD0oSCpWNimzoPiCkK+zI17i4iKLR5b/Ex/v1o+X8mM0hQaus5EkhrmHBTOsyAX8wxTHvg+pR/9SBUdDw==" length="48251142"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
