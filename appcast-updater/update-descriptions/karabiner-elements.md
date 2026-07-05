@@ -1,3 +1,5 @@
+- 📅 Release date
+    - Jul 5, 2026
 - ✨ New Features
     - Added filtering functionality to the log viewer.
 - 🐛 Bug Fixes
