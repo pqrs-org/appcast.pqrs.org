@@ -1,4 +1,2 @@
-- 📅 Release date
-    - Dec 31, 2025
-- ⚡️ Improvements
-    - Updated the menu icons.
+- ✨ New Features
+    - Added a text pill indicator. (Thanks to [@nClear](https://github.com/nClear))
