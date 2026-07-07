@@ -1,2 +1,4 @@
+- 📅 Release date
+    - Jul 8, 2026
 - ✨ New Features
     - Added a text pill indicator. (Thanks to @nClear)
