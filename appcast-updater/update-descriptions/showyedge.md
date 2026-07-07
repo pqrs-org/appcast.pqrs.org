@@ -1,2 +1,2 @@
 - ✨ New Features
-    - Added a text pill indicator. (Thanks to [@nClear](https://github.com/nClear))
+    - Added a text pill indicator. (Thanks to @nClear)

@@ -24,7 +24,7 @@ img {
 <li>✨ New Features
 
 <ul>
-<li>Added a text pill indicator. (Thanks to <a href="https://github.com/nClear">@nClear</a>)</li>
+<li>Added a text pill indicator. (Thanks to @nClear)</li>
 </ul></li>
 </ul>
 <p>
@@ -34,7 +34,7 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 07 Jul 2026 00:00:18 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 00:31:52 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/beta/ShowyEdge-6.3.2.dmg"
                  type="application/octet-stream"
                  sparkle:version="6.3.2"
