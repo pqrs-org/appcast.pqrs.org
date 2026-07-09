@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 6.3.0</title>
+      <title>Version 6.4.0</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,17 +19,17 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v6.3.0 Update</h2>
+<h2>About v6.4.0 Update</h2>
 <ul>
 <li>📅 Release date
 
 <ul>
-<li>Dec 31, 2025</li>
+<li>Jul 8, 2026</li>
 </ul></li>
-<li>⚡️ Improvements
+<li>✨ New Features
 
 <ul>
-<li>Updated the menu icons.</li>
+<li>Added a text pill indicator. (Thanks to @nClear)</li>
 </ul></li>
 </ul>
 <p>
@@ -39,11 +39,11 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 31 Dec 2025 08:18:52 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v6.3.0/ShowyEdge-6.3.0.dmg"
+      <pubDate>Tue, 07 Jul 2026 23:02:27 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/ShowyEdge/releases/download/v6.4.0/ShowyEdge-6.4.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="6.3.0"
-                 sparkle:edSignature="TdCuqZHldUBN7eudf4dapRQoXnNdeFwo/Qb4ZRiCKDEvwHoPmBQ9mrg3qod9qQVQSvzGdJOhJ23m+KEU6FmqAw==" length="4802063"
+                 sparkle:version="6.4.0"
+                 sparkle:edSignature="AtkKrImcIfaiCmOseg5yfASCrlJwVhUP0h6XekgmdtdOtx9zYTh5oh/lPW5ITtGGSVw0pi5K+giTau+7AiM1Bg==" length="4348201"
       />
       <sparkle:fullReleaseNotesLink>https://showyedge.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
