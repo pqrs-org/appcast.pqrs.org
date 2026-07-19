@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.1.3</title>
+      <title>Version 16.1.4</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,13 +19,14 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.1.3 Update</h2>
+<h2>About v16.1.4 Update</h2>
 <ul>
 <li>⚡️ Improvements
 
 <ul>
 <li>Fixed an issue where the core service agent could rarely abort during termination.</li>
 <li>Karabiner-EventViewer and the Settings window are now closed after an upgrade.</li>
+<li>Added support for unbundled GUI apps in <code>frontmost_application_if</code> and <code>frontmost_application_unless</code>.</li>
 </ul></li>
 </ul>
 <p>
@@ -35,12 +36,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 18 Jul 2026 00:47:39 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.3.dmg"
+      <pubDate>Sun, 19 Jul 2026 09:24:27 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.4.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.1.3"
+                 sparkle:version="16.1.4"
                  sparkle:installationType="package"
-                 sparkle:edSignature="bzYUAIGk8ycl9gcb7QbUSq5gvrbSxMGlETnPrg26VoRJZGLCe1MJGsneAcJLcsre9EhRLC8xEo1G9S7CqckbBQ==" length="48309876"
+                 sparkle:edSignature="xsx3qQcsqpbifmjKAwkIxQflkyQaB9+WFtcorz0NSj3A79HFkgxRPrOEunfdxK5uAz6sl6QP+YCzG6KubLQcAA==" length="48348468"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
