@@ -1,3 +1,6 @@
+- 💥 Breaking changes
+    - Integrated the Multitouch Extension menu into the Karabiner-Elements menu.
+      Open the Multitouch Extension settings from the Karabiner-Elements menu.
 - ✨ New Features
     - Added filtering functionality to the Complex Modifications list.
 - ⚡️ Improvements
