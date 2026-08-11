@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.1.15</title>
+      <title>Version 16.1.16</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.1.15 Update</h2>
+<h2>About v16.1.16 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -32,6 +32,7 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 <ul>
 <li>Added filtering functionality to the Complex Modifications list.</li>
 <li>Added support for buttons 6–8 on the ELECOM HUGE PLUS and DEFT trackballs. (Thanks to @z11i)</li>
+<li>Added <code>--set-variables-from-stdin</code> option to karabiner_cli.</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
@@ -57,12 +58,12 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 11 Aug 2026 03:42:57 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.15.dmg"
+      <pubDate>Tue, 11 Aug 2026 12:50:33 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.16.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.1.15"
+                 sparkle:version="16.1.16"
                  sparkle:installationType="package"
-                 sparkle:edSignature="0RSecLEeKJg4DS2aeIg8gQ/folVsXkmkJOyKZHHqM34H7dafNG7h/0K540ZripJAipWNViaUoOUYPe+3/uvIBA==" length="40388015"
+                 sparkle:edSignature="m/hiaiP9wvFblvI/mN8FnSxPt6zGvxQpTFRQShkko8e6P4WLWwBDJFNsE083W94EjF0fbUqu6Pv19JOr6R45Bw==" length="41567895"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
