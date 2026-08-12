@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.1.17</title>
+      <title>Version 16.1.18</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.1.17 Update</h2>
+<h2>About v16.1.18 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -30,9 +30,11 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 <li>✨ New Features
 
 <ul>
+<li>Added the <code>Swap ISO layout-specific keys</code> configuration to Device tab.</li>
 <li>Added filtering functionality to the Complex Modifications list.</li>
 <li>Added support for buttons 6–8 on the ELECOM HUGE PLUS and DEFT trackballs. (Thanks to @z11i)</li>
 <li>Added <code>--set-variables-from-stdin</code> option to karabiner_cli.</li>
+<li>Added the <code>duration_milliseconds</code> option to <code>set_notification_message</code>. (Thanks to @xianjianlf2)</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
@@ -58,12 +60,12 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 12 Aug 2026 10:42:20 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.17.dmg"
+      <pubDate>Wed, 12 Aug 2026 12:43:19 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.18.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.1.17"
+                 sparkle:version="16.1.18"
                  sparkle:installationType="package"
-                 sparkle:edSignature="6Ul0TdDl+U2oj6soIw82IgdsqtJ7Uc2jrbY7XBDQrMg4ia73Ri7s5psQTUkOjH5hEqDHWjdT4laTWe0pqDFzAg==" length="41605955"
+                 sparkle:edSignature="f0c+7yaoxBNWw3UtzNmLEGFZ7wIj4f7x9W5wD/i+4oLwtxhbLzdgL1spXnRpzBPLfLUdilKWCgJFgAZSk3Y1Aw==" length="41596075"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
