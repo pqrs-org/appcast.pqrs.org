@@ -82,6 +82,6 @@ mv "$targetdir/truewidget-appcast-devel.xml.tmp" "$targetdir/truewidget-appcast-
 chmod 644 "$targetdir/truewidget-appcast-devel.xml"
 
 echo \
-  '\033[33;40m' \
+  '\033[32;49m' \
   "$(basename $0): appcast-devel.xml is updated." \
   '\033[0m'
