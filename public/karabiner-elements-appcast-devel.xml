@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.1.19</title>
+      <title>Version 16.1.20</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.1.19 Update</h2>
+<h2>About v16.1.20 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -49,6 +49,7 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 <li>Fixed an issue where modifications could stop working for several seconds after waking from sleep on macOS.</li>
 <li>Karabiner-EventViewer and the Settings window are now closed after an upgrade.</li>
 <li>Added support for unbundled GUI apps in <code>frontmost_application_if</code> and <code>frontmost_application_unless</code>.</li>
+<li>Added support for <code>notes</code> in complex modification rules.</li>
 <li>Added the event timestamp in EventViewer.</li>
 <li>The <code>karabiner_console_user_server</code>, Menu, and NotificationWindow components have been consolidated into a single app named Karabiner-Console-User-Server.</li>
 <li>Refactored the C++ and Swift code for the Settings, EventViewer, and MultitouchExtension apps.</li>
@@ -61,12 +62,12 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 13 Aug 2026 13:38:22 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.19.dmg"
+      <pubDate>Fri, 14 Aug 2026 00:29:54 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.20.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.1.19"
+                 sparkle:version="16.1.20"
                  sparkle:installationType="package"
-                 sparkle:edSignature="x/bVQsGjI6sSr5dwGsCtSJvaELpJ3mEvr1N9UAuqYVa5PhHvjpJIOglc67o3VzTbRH5f7KinNWQneUFr04ssDQ==" length="49266627"
+                 sparkle:edSignature="EEPtCy3EPCJRkzG4Kw+QcSpMjoueos+tSjSjfF1u8hVHOKJMxaTjptOkDCeYRKOZ9LAwX3z5DalNUBPNsP0zCA==" length="49286295"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
