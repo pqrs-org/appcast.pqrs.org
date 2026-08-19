@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.1.23</title>
+      <title>Version 16.1.25</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.1.23 Update</h2>
+<h2>About v16.1.25 Update</h2>
 <ul>
 <li>💥 Breaking changes
 
@@ -36,6 +36,7 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 <li>Added <code>--set-variables-from-stdin</code> option to karabiner_cli.</li>
 <li>Added appearance settings for the notification window. (Thanks to @xianjianlf2)</li>
 <li>Added the <code>duration_milliseconds</code> option to <code>set_notification_message</code>. (Thanks to @xianjianlf2)</li>
+<li>Added the <code>Modify events for pointing devices by default</code> setting to Expert tab. (Thanks to @xianjianlf2)</li>
 </ul></li>
 <li>🐛 Bug Fixes
 
@@ -62,12 +63,12 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 15 Aug 2026 01:49:57 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.23.dmg"
+      <pubDate>Wed, 19 Aug 2026 12:30:07 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.25.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.1.23"
+                 sparkle:version="16.1.25"
                  sparkle:installationType="package"
-                 sparkle:edSignature="ufB3SnGITyMuqNHH4wlaE/1BbFSlzwGeyJpN+bQ2Vr++4fWL1khHavf98uLKRGCd/F+IHb8a+RYeVcboqPRKBA==" length="40757847"
+                 sparkle:edSignature="yGz3JzIrd17HW0SI8VtHC1EWpmdBD0PnKg9g5YmYGjNqCyPaZg2LbNTK3nSTIQnfyCvY5XTVjTGnJkpLZJPGBw==" length="41919187"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
