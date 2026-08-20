@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.1.25</title>
+      <title>Version 16.1.26</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,8 +19,14 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.1.25 Update</h2>
+<h2>About v16.1.26 Update</h2>
 <ul>
+<li>🔔 Important Notes
+
+<ul>
+<li>When upgrading from v15.9.0 or earlier, automatic startup of the Karabiner-Elements services will be disabled.
+After upgrading, open Karabiner-Elements.app to re-enable automatic startup.</li>
+</ul></li>
 <li>💥 Breaking changes
 
 <ul>
@@ -63,12 +69,12 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 </html>
 ]]>
       </description>
-      <pubDate>Wed, 19 Aug 2026 12:30:07 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.25.dmg"
+      <pubDate>Thu, 20 Aug 2026 00:30:04 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.26.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.1.25"
+                 sparkle:version="16.1.26"
                  sparkle:installationType="package"
-                 sparkle:edSignature="yGz3JzIrd17HW0SI8VtHC1EWpmdBD0PnKg9g5YmYGjNqCyPaZg2LbNTK3nSTIQnfyCvY5XTVjTGnJkpLZJPGBw==" length="41919187"
+                 sparkle:edSignature="XNQDG5+c8ILPbbYkxjnxtO8cXS6YvYkJgtHoqwI/JCOctgZwNtd84V9fQmviNVNcDP9hVSHecIkBk8f5kO8qAw==" length="41922031"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
