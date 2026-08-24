@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.1.28</title>
+      <title>Version 16.1.29</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.1.28 Update</h2>
+<h2>About v16.1.29 Update</h2>
 <ul>
 <li>🔔 Important Notes
 
@@ -39,8 +39,9 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 <li>Added the <code>Swap ISO layout-specific keys</code> configuration to Device tab.</li>
 <li>Added filtering functionality to the Complex Modifications list.</li>
 <li>Added support for buttons 6–8 on the ELECOM HUGE PLUS and DEFT trackballs. (Thanks to @z11i)</li>
-<li>Added <code>--set-variables-from-stdin</code> option to karabiner_cli.</li>
 <li>Added appearance settings for the notification window. (Thanks to @xianjianlf2)</li>
+<li>Added <code>Capture Raw Input Events</code> and <code>Capture Raw Input Records</code> to EventViewer.</li>
+<li>Added <code>--set-variables-from-stdin</code> option to karabiner_cli.</li>
 <li>Added the <code>duration_milliseconds</code> option to <code>set_notification_message</code>. (Thanks to @xianjianlf2)</li>
 <li>Added the <code>Modify events for pointing devices by default</code> setting to Expert tab. (Thanks to @xianjianlf2)</li>
 </ul></li>
@@ -71,12 +72,12 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 21 Aug 2026 14:59:19 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.28.dmg"
+      <pubDate>Mon, 24 Aug 2026 23:30:22 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.29.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.1.28"
+                 sparkle:version="16.1.29"
                  sparkle:installationType="package"
-                 sparkle:edSignature="3MvS/7xJr3Dut3N9Anng5ZC0Jslhn1JYKP9E+3NdD8sbsJnEcD+Iq3HUi9kclq1YMQ99/yDtXdi1zMgxs1ohCQ==" length="42024627"
+                 sparkle:edSignature="Y3zp3XUUmXwh/0giit/Kg4diMFUhAEURyrsOD4PDmtOg4czu21zjwz9XnryScL3eA5Hw/E3ITcIfSPnNn247Aw==" length="42312928"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
