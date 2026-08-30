@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.1.97</title>
+      <title>Version 16.2.0</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,8 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.1.97 Update</h2>
+<h2>About v16.2.0 Update</h2>
 <ul>
+<li>📅 Release date
+
+<ul>
+<li>Aug 30, 2026</li>
+</ul></li>
 <li>🔔 Important Notes
 
 <ul>
@@ -77,12 +82,12 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 30 Aug 2026 02:32:10 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.1.97.dmg"
+      <pubDate>Sun, 30 Aug 2026 04:46:23 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v16.2.0/Karabiner-Elements-16.2.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.1.97"
+                 sparkle:version="16.2.0"
                  sparkle:installationType="package"
-                 sparkle:edSignature="69a0diiI1E6ufCofoHtn1fuEJBCVwi9+55PVhroJI6phZ7bJ4dJQJlDKvZavFyJdcuWdyBv8NRiEQ7uXjslrDQ==" length="42296492"
+                 sparkle:edSignature="UiE5q9uG0LORsW3YUroKVMY7VC5aNKvlk4iV8kvq0uzSkwTYy0/X1ZwEC6JSUCmdMdss9+W3ARd8KeDA9MH5Cw==" length="42282452"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>

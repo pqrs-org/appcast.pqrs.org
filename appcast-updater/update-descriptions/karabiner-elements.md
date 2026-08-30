@@ -1,3 +1,5 @@
+- 📅 Release date
+    - Aug 30, 2026
 - 🔔 Important Notes
     - When upgrading from v15.9.0 or earlier, automatic startup of the Karabiner-Elements services will be disabled.
       After upgrading, open Karabiner-Elements.app to re-enable automatic startup.
