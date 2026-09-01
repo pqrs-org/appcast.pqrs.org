@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.2.0</title>
+      <title>Version 16.2.1</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,60 +19,12 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.2.0 Update</h2>
+<h2>About v16.2.1 Update</h2>
 <ul>
-<li>📅 Release date
-
-<ul>
-<li>Aug 30, 2026</li>
-</ul></li>
-<li>🔔 Important Notes
-
-<ul>
-<li>When upgrading from v15.9.0 or earlier, automatic startup of the Karabiner-Elements services will be disabled.
-After upgrading, open Karabiner-Elements.app to re-enable automatic startup.</li>
-</ul></li>
-<li>💥 Breaking changes
-
-<ul>
-<li>Integrated the Multitouch Extension menu into the Karabiner-Elements menu.
-Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
-</ul></li>
-<li>✨ New Features
-
-<ul>
-<li>Added the <code>Swap ISO layout-specific keys</code> configuration to Device tab.</li>
-<li>Added filtering functionality to the Complex Modifications list.</li>
-<li>Added support for buttons 6–8 on the ELECOM HUGE PLUS and DEFT trackballs. (Thanks to @z11i)</li>
-<li>Added appearance settings for the notification window. (Thanks to @xianjianlf2)</li>
-<li>Added <code>Capture Raw Input Events</code> and <code>Capture Raw Input Records</code> to EventViewer.</li>
-<li>Added <code>--set-variables-from-stdin</code> option to karabiner_cli.</li>
-<li>Added the <code>duration_milliseconds</code> option to <code>set_notification_message</code>. (Thanks to @xianjianlf2)</li>
-<li>Added the <code>Modify events for pointing devices by default</code> setting to Expert tab. (Thanks to @xianjianlf2)</li>
-</ul></li>
-<li>🐛 Bug Fixes
-
-<ul>
-<li>Fixed CGEventTap leaks (Thanks to @MrMage and @VitalyShein)</li>
-</ul></li>
 <li>⚡️ Improvements
 
 <ul>
-<li>Complex Modifications import now supports JavaScript files and single-rule JSON files.</li>
-<li>Improved the handling of macOS sleep shortcuts to prevent key-up events from immediately waking the Mac.</li>
-<li>Fixed an issue where the core service agent could rarely abort during termination.</li>
-<li>Fixed an issue where modifications could stop working for several seconds after waking from sleep on macOS.</li>
-<li>Karabiner-EventViewer and the Settings window are now closed after an upgrade.</li>
-<li>Added support for unbundled GUI apps in <code>frontmost_application_if</code> and <code>frontmost_application_unless</code>.</li>
-<li>Added support for <code>notes</code> in complex modification rules.</li>
-<li><code>variable_if</code> now supports the following variable:
-
-<ul>
-<li>accessibility.focused_ui_element.window_title_string</li>
-</ul></li>
-<li>Added the event timestamp in EventViewer.</li>
-<li>The <code>karabiner_console_user_server</code>, Menu, and NotificationWindow components have been consolidated into a single app named Karabiner-Console-User-Server.</li>
-<li>Refactored the C++ and Swift code for the Settings, EventViewer, and MultitouchExtension apps.</li>
+<li>Added support for buttons 6–8 on the ELECOM HUGE trackballs. (Thanks to @BenjaminVanRyseghem)</li>
 </ul></li>
 </ul>
 <p>
@@ -82,12 +34,12 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 30 Aug 2026 04:46:23 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v16.2.0/Karabiner-Elements-16.2.0.dmg"
+      <pubDate>Tue, 01 Sep 2026 12:21:34 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.2.1.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.2.0"
+                 sparkle:version="16.2.1"
                  sparkle:installationType="package"
-                 sparkle:edSignature="UiE5q9uG0LORsW3YUroKVMY7VC5aNKvlk4iV8kvq0uzSkwTYy0/X1ZwEC6JSUCmdMdss9+W3ARd8KeDA9MH5Cw==" length="42282452"
+                 sparkle:edSignature="S5o5Jj4E4Sn8uNjFAjzjtlAc6G/zX4+RJxb1QHjS4spGhOHA4b01rhHje61kBf+/NZyoiQwtTT2I/ZyCIzkWAA==" length="42270592"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
