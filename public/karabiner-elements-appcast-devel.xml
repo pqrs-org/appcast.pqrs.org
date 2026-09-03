@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.2.2</title>
+      <title>Version 16.2.3</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,12 +19,13 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.2.2 Update</h2>
+<h2>About v16.2.3 Update</h2>
 <ul>
 <li>🐛 Bug Fixes
 
 <ul>
 <li>Fixed an issue where modifier keys could become stuck when both the left and right Command or Shift keys were pressed while CGEventTap fallback was enabled.</li>
+<li>Fixed an issue where updates were checked every time the system woke from sleep.</li>
 </ul></li>
 <li>⚡️ Improvements
 
@@ -39,12 +40,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 01 Sep 2026 23:11:12 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.2.2.dmg"
+      <pubDate>Thu, 03 Sep 2026 11:59:06 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.2.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.2.2"
+                 sparkle:version="16.2.3"
                  sparkle:installationType="package"
-                 sparkle:edSignature="Rh5Ja/cZ74zd5hMMdUYW3VPWOfXu5FrBAQKRcuD+atF+21IOp6vPLJn6RvWkgc57Xc4BYzOsHkGpFepYdsW3Aw==" length="42313960"
+                 sparkle:edSignature="XE1gkUyXw1bf5Jk6aqCdeIqZFxjmzJbG1ZABO8T7OUpaQUia7WNLaNz9BY1V6jY0fSllzBm5fwFFA538Qz/aDA==" length="42290312"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
