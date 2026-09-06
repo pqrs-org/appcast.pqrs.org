@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.2.0</title>
+      <title>Version 16.3.0</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,29 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.2.0 Update</h2>
+<h2>About v16.3.0 Update</h2>
+<ul>
+<li>📅 Release date
+
+<ul>
+<li>Sep 6, 2026</li>
+</ul></li>
+<li>🐛 Bug Fixes
+
+<ul>
+<li>Fixed an issue where modifier keys could become stuck when both the left and right Command or Shift keys were pressed while CGEventTap fallback was enabled.</li>
+<li>Fixed an issue where updates were checked every time the system woke from sleep.</li>
+<li>Fixed an issue where Karabiner-Elements would stop modifying keys for 30 seconds when the Mac woke immediately after going to sleep.</li>
+</ul></li>
+<li>⚡️ Improvements
+
+<ul>
+<li>Added support for buttons 6–8 on the ELECOM HUGE trackballs. (Thanks to @BenjaminVanRyseghem)</li>
+</ul></li>
+</ul>
+
+<h2>Karabiner-Elements 16.2.0</h2>
+
 <ul>
 <li>📅 Release date
 
@@ -82,12 +104,12 @@ Open the Multitouch Extension settings from the Karabiner-Elements menu.</li>
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 30 Aug 2026 04:46:23 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v16.2.0/Karabiner-Elements-16.2.0.dmg"
+      <pubDate>Sun, 06 Sep 2026 07:43:58 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v16.3.0/Karabiner-Elements-16.3.0.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.2.0"
+                 sparkle:version="16.3.0"
                  sparkle:installationType="package"
-                 sparkle:edSignature="UiE5q9uG0LORsW3YUroKVMY7VC5aNKvlk4iV8kvq0uzSkwTYy0/X1ZwEC6JSUCmdMdss9+W3ARd8KeDA9MH5Cw==" length="42282452"
+                 sparkle:edSignature="DP5w5FIeSiAQzRlI3To3kGGDPJudAuRdESWfwdBP5hTbjoo54qWK7sM+hs2U1HBvj1xseBFG22+lhijMLwRXAA==" length="42388528"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
