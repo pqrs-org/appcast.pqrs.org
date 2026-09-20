@@ -55,7 +55,7 @@ cat >>"$targetdir/showyedge-appcast-devel.xml.tmp" <<EOF
 <h2>About v$version Update</h2>
 EOF
 
-blackfriday-tool update-descriptions/showyedge.md >>"$targetdir/showyedge-appcast-devel.xml.tmp"
+sh scripts/markdown-to-html.sh update-descriptions/showyedge.md >>"$targetdir/showyedge-appcast-devel.xml.tmp"
 
 cat >>"$targetdir/showyedge-appcast-devel.xml.tmp" <<EOF
 <p>

@@ -55,7 +55,7 @@ cat >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp" <<EOF
 <h2>About v$version Update</h2>
 EOF
 
-blackfriday-tool update-descriptions/karabiner-elements.md >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp"
+sh scripts/markdown-to-html.sh update-descriptions/karabiner-elements.md >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp"
 
 cat >>"$targetdir/karabiner-elements-appcast-devel.xml.tmp" <<EOF
 <p>
