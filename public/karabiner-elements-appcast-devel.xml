@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.3.3</title>
+      <title>Version 16.3.4</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,11 +19,12 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.3.3 Update</h2>
+<h2>About v16.3.4 Update</h2>
 <ul>
 <li>✨ New Features
 <ul>
 <li>Added Japanese localization.</li>
+<li>Added <code>system.ui_language</code> to variables.</li>
 </ul></li>
 <li>🐛 Bug Fixes
 <ul>
@@ -43,12 +44,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 20 Sep 2026 07:58:11 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.3.3.dmg"
+      <pubDate>Sun, 20 Sep 2026 23:55:06 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.3.4.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.3.3"
+                 sparkle:version="16.3.4"
                  sparkle:installationType="package"
-                 sparkle:edSignature="oAS0rPGQ21RFxCwTIffT2XqNEhrEzyjt4ANEF93rbYwNqmPLo2bXuKgejNqDOxVKoWZ/Qvo4B764JlSQiOPqDg==" length="43344129"
+                 sparkle:edSignature="J3Lh5k9cx9JJzk7hlF6cL57Zn17TRPShV/Vt2Hs7bQKyAcoWzKAXGAj5J3mx90OSn9Vk8upniQNxyPSpKJZTCg==" length="43419897"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
