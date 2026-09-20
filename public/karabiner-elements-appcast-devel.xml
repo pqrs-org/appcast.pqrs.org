@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.3.2</title>
+      <title>Version 16.3.3</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,15 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.3.2 Update</h2>
-<ul>
-<li>⚡️ Improvements
-
-<ul>
-<li>EventViewer now displays Caps Lock LED state changes with an appropriate name instead of &ldquo;Unsupported HID usage&rdquo;.</li>
-<li>Add <code>Show confirmation submenu for Quit Karabiner-Elements</code> configuration.</li>
-</ul></li>
-</ul>
+<h2>About v16.3.3 Update</h2>
 <p>
   <a href="https://karabiner-elements.pqrs.org/docs/releasenotes/">More</a>
 </p>
@@ -35,12 +27,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 12 Sep 2026 06:28:13 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.3.2.dmg"
+      <pubDate>Sun, 20 Sep 2026 07:13:32 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.3.3.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.3.2"
+                 sparkle:version="16.3.3"
                  sparkle:installationType="package"
-                 sparkle:edSignature="JkE3oyhiPEZ+hNpQffUBnJXIXRzzGsE6A7wWwS27SUI6yUGl19XoN9ImGjiDo1cuuxGvyQRPVp44Jza5KAQfAA==" length="42355472"
+                 sparkle:edSignature="oAS0rPGQ21RFxCwTIffT2XqNEhrEzyjt4ANEF93rbYwNqmPLo2bXuKgejNqDOxVKoWZ/Qvo4B764JlSQiOPqDg==" length="43344129"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
