@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.99.8</title>
+      <title>Version 16.99.9</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.99.8 Update</h2>
+<h2>About v16.99.9 Update</h2>
 <ul>
 <li>🔔 Important Notes
 <ul>
@@ -34,6 +34,7 @@ img {
 <li>✨ New Features
 <ul>
 <li>Added Japanese localization.</li>
+<li>Add Simplified Chinese (zh-Hans) translations (Thanks to @maodun96 and @msuadOf)</li>
 <li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/other-types/mouse-motion-and-wheel-to-key/"><code>mouse_motion_and_wheel_to_key</code></a> (Thanks to @BenjaminVanRyseghem)</li>
 <li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/set-caps-lock-led/"><code>set_caps_lock_led</code></a> to complex modifications, which allows the caps lock LED to be turned on or off independently of the caps lock state. (Thanks to @anandghegde)</li>
 <li>Added <code>system.ui_language</code> to variables.</li>
@@ -62,12 +63,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 26 Oct 2026 14:56:55 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.8.dmg"
+      <pubDate>Tue, 27 Oct 2026 11:36:14 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.9.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.99.8"
+                 sparkle:version="16.99.9"
                  sparkle:installationType="package"
-                 sparkle:edSignature="waQ1MfCFfjDEdS59hQNT0CBX0o+nkoCtV8Q3IrW3FK9i4821fSAGyZAo0mDzrkt73GByyZJWpKF9BQ9jUVAQDg==" length="37744468"
+                 sparkle:edSignature="Oy+0s+SsWOWZvYVrkiUTKLfCkRDNdeZWU6yRNw7URdcEQHLprZyat7iyMhYsPef7FEK1JWqDovDIZ6yF9LbCBw==" length="37697948"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
