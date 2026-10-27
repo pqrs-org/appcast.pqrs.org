@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.99.9</title>
+      <title>Version 16.99.10</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.99.9 Update</h2>
+<h2>About v16.99.10 Update</h2>
 <ul>
 <li>🔔 Important Notes
 <ul>
@@ -47,6 +47,7 @@ img {
 <li>⚡️ Improvements
 <ul>
 <li>Improved text and other UI elements for macOS 27.</li>
+<li>Added markers for enabled rules in the Complex Modifications assets list. (Thanks to @dhffdh)</li>
 <li>Changed inter-process communication between Karabiner-Elements processes from UNIX domain sockets to XPC.</li>
 <li>Fixed an issue where selection indicators in the Simple Modifications key picker were not displayed on macOS 27.</li>
 <li>EventViewer now displays caps lock LED state changes with an appropriate name instead of "Unsupported HID usage".</li>
@@ -63,12 +64,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 27 Oct 2026 11:36:14 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.9.dmg"
+      <pubDate>Tue, 27 Oct 2026 14:50:43 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.10.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.99.9"
+                 sparkle:version="16.99.10"
                  sparkle:installationType="package"
-                 sparkle:edSignature="Oy+0s+SsWOWZvYVrkiUTKLfCkRDNdeZWU6yRNw7URdcEQHLprZyat7iyMhYsPef7FEK1JWqDovDIZ6yF9LbCBw==" length="37697948"
+                 sparkle:edSignature="+LIuPulqKnpOe1vOFaztX0RF0oYmk2FGW7aIoz4hG4GvpnhkNB7zbJlCHn+0GWRMaHFFzTsQABCbWQVAxy5RAA==" length="37694984"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
