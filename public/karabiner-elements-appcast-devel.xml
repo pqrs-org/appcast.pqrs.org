@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.99.12</title>
+      <title>Version 16.99.13</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.99.12 Update</h2>
+<h2>About v16.99.13 Update</h2>
 <ul>
 <li>🔔 Important Notes
 <ul>
@@ -57,6 +57,7 @@ img {
 <li>Limited the maximum size of <code>karabiner.json</code> to 64 MB.</li>
 <li>Limited JavaScript <code>console.log</code> output to 1 MB.</li>
 <li>Improved internal handling of expressions used by <code>set_variable</code> to ensure consistent equality and hashing. (Thanks to @monsterlag)</li>
+<li>Improved key repeat for mappings with modifiers so that the modifiers remain active while the key is repeating.</li>
 </ul></li>
 </ul>
 <p>
@@ -66,12 +67,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 31 Oct 2026 06:33:41 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.12.dmg"
+      <pubDate>Sat, 31 Oct 2026 14:07:06 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.13.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.99.12"
+                 sparkle:version="16.99.13"
                  sparkle:installationType="package"
-                 sparkle:edSignature="mqitJg4+on/SfIHofz4Vcd/FtEMWvUwfvjOtmTRANQ9+x6mAoBpXZt1UDAkzMPzShynhkkFfWCVOEEcsb4lNDQ==" length="37685184"
+                 sparkle:edSignature="e/1QuGK1ZopJa92f0iUeC0uSW3W1CB5/66u5Gc3RN0GR836HunMnhb4ObooGAXl5wS/8LSRP1pW+j8M7bvIsBQ==" length="37681568"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
