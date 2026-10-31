@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.99.11</title>
+      <title>Version 16.99.12</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.99.11 Update</h2>
+<h2>About v16.99.12 Update</h2>
 <ul>
 <li>🔔 Important Notes
 <ul>
@@ -37,6 +37,7 @@ img {
 <li>Add Simplified Chinese (zh-Hans) translations (Thanks to @maodun96 and @msuadOf)</li>
 <li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/other-types/mouse-motion-and-wheel-to-key/"><code>mouse_motion_and_wheel_to_key</code></a> (Thanks to @BenjaminVanRyseghem)</li>
 <li>Added <a href="https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/set-caps-lock-led/"><code>set_caps_lock_led</code></a> to complex modifications, which allows the caps lock LED to be turned on or off independently of the caps lock state. (Thanks to @anandghegde)</li>
+<li>Added "Shift + keys" category to Simple Modifications. (Thanks to @sadoiadosoias)</li>
 <li>Added <code>system.ui_language</code> to variables.</li>
 </ul></li>
 <li>🐛 Bug Fixes
@@ -65,12 +66,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 29 Oct 2026 11:38:09 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.11.dmg"
+      <pubDate>Sat, 31 Oct 2026 06:33:41 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.12.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.99.11"
+                 sparkle:version="16.99.12"
                  sparkle:installationType="package"
-                 sparkle:edSignature="hdtHy1CLQ8fA09+DjTMk7eAXdGCqhO+NHu+PWs1ECFFdyJ4RwUgg1YQp8Le17EzkpmacIivIlUkUT8AFR+mcDQ==" length="37706660"
+                 sparkle:edSignature="mqitJg4+on/SfIHofz4Vcd/FtEMWvUwfvjOtmTRANQ9+x6mAoBpXZt1UDAkzMPzShynhkkFfWCVOEEcsb4lNDQ==" length="37685184"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
