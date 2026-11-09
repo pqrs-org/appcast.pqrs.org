@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.99.17</title>
+      <title>Version 16.99.18</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.99.17 Update</h2>
+<h2>About v16.99.18 Update</h2>
 <ul>
 <li>🔔 Important Notes
 <ul>
@@ -60,6 +60,7 @@ img {
 <li>Improved internal handling of expressions used by <code>set_variable</code> to ensure consistent equality and hashing. (Thanks to @monsterlag)</li>
 <li>Improved key repeat for mappings with modifiers so that the modifiers remain active while the key is repeating.</li>
 <li>Improved <code>to_if_alone</code> handling so that actual remapped output cancels it, while keys disabled with <code>vk_none</code> do not.</li>
+<li>Migrated the app icons to the Icon Composer format, and removed the app icon selection setting.</li>
 </ul></li>
 </ul>
 <p>
@@ -69,12 +70,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sun, 08 Nov 2026 01:43:43 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.17.dmg"
+      <pubDate>Mon, 09 Nov 2026 04:11:28 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.18.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.99.17"
+                 sparkle:version="16.99.18"
                  sparkle:installationType="package"
-                 sparkle:edSignature="mFgT7GWnFv+a5E3JNjbLLORc/rUQSQlpQo73y5dlcjVrOoJrdtZHguikOXspAGo91JOe3d3vMiEcg/KHqmh5Cg==" length="37963800"
+                 sparkle:edSignature="2I9D6atsfpjTnElfPmwL2OLvtJIafQkvMiar5cbhVCoJeZpJt1b3dckA38Yz+EQu8PU1294Mq7PAo2eePQ0OAw==" length="36315358"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
