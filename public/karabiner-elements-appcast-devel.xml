@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.99.18</title>
+      <title>Version 16.99.19</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.99.18 Update</h2>
+<h2>About v16.99.19 Update</h2>
 <ul>
 <li>🔔 Important Notes
 <ul>
@@ -40,6 +40,8 @@ img {
 <li>Added support for remapping buttons on supported Logitech HID++ devices. (Thanks to @robertn702)</li>
 <li>Added "Shift + keys" category to Simple Modifications. (Thanks to @sadoiadosoias)</li>
 <li>Added <code>system.ui_language</code> to variables.</li>
+<li>Added settings to the Expert tab for including <code>device_address</code>, <code>location_id</code>, <code>serial_number</code>, and <code>transport</code> in device identifiers, allowing devices with the same vendor ID and product ID to be configured separately.</li>
+<li>Added <code>serial_number</code> and <code>transport</code> support to device conditions. <code>device_address</code> conditions now use the physical device property regardless of the device identifier settings.</li>
 </ul></li>
 <li>🐛 Bug Fixes
 <ul>
@@ -70,12 +72,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Mon, 09 Nov 2026 04:11:28 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.18.dmg"
+      <pubDate>Fri, 13 Nov 2026 00:24:26 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.19.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.99.18"
+                 sparkle:version="16.99.19"
                  sparkle:installationType="package"
-                 sparkle:edSignature="2I9D6atsfpjTnElfPmwL2OLvtJIafQkvMiar5cbhVCoJeZpJt1b3dckA38Yz+EQu8PU1294Mq7PAo2eePQ0OAw==" length="36315358"
+                 sparkle:edSignature="RNgDqKg/4+/vLDk2/TJTSp8nvJWfSPewcw3iSoV4da4gov4D9RRWWk76Aa6dQwn8EOF0muq1lKSVwITXBuuODQ==" length="36409234"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
