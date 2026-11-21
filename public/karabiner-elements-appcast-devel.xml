@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.99.27</title>
+      <title>Version 16.99.28</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.99.27 Update</h2>
+<h2>About v16.99.28 Update</h2>
 <ul>
 <li>🔔 Important Notes
 <ul>
@@ -67,6 +67,7 @@ img {
 <li>Improved key repeat for mappings with modifiers so that the modifiers remain active while the key is repeating.</li>
 <li>Improved <code>to_if_alone</code> handling so that actual remapped output cancels it, while keys disabled with <code>vk_none</code> do not.</li>
 <li>Migrated the app icons to the Icon Composer format, and removed the app icon selection setting.</li>
+<li>Added a "Capture mouse wheels" option to EventViewer.</li>
 </ul></li>
 </ul>
 <p>
@@ -76,12 +77,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Fri, 20 Nov 2026 15:10:29 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.27.dmg"
+      <pubDate>Sat, 21 Nov 2026 14:40:58 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.28.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.99.27"
+                 sparkle:version="16.99.28"
                  sparkle:installationType="package"
-                 sparkle:edSignature="WZ5frakzbeeyojKb0NRERVIDCoNbVb3Swpqa39SS8+BT7RT9pqtPTPRel7i/VppIOIDCErqUy1CylVgQ0SCJBQ==" length="36562442"
+                 sparkle:edSignature="ydmmMtLB2W7zx5Ag3Xb8/SyJGFG7MiWSoaT2FaiYR4CTG52wz0kq7bA37rtR2PEmKvIn19rVd7n4YiHHKkbuCw==" length="36628966"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
