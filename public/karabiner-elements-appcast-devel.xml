@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.99.29</title>
+      <title>Version 16.99.30</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.99.29 Update</h2>
+<h2>About v16.99.30 Update</h2>
 <ul>
 <li>🔔 Important Notes
 <ul>
@@ -58,6 +58,7 @@ img {
 <li>Improved same-timestamp event reordering for QMK/ZMK keyboards. Modifier releases in the same HID report are now processed before key presses, and events are reordered independently for each device. (Thanks to @Leandros)</li>
 <li>Changed inter-process communication between Karabiner-Elements processes from UNIX domain sockets to XPC.</li>
 <li>Fixed an issue where selection indicators in the Simple Modifications key picker were not displayed on macOS 27.</li>
+<li>Added search to the Simple Modifications key picker.</li>
 <li>EventViewer now displays caps lock LED state changes with an appropriate name instead of "Unsupported HID usage".</li>
 <li>Add <code>Show confirmation submenu for Quit Karabiner-Elements</code> configuration.</li>
 <li>JavaScript-based Complex Modifications rules are no longer evaluated while disabled.</li>
@@ -77,12 +78,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Sat, 21 Nov 2026 15:10:20 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.29.dmg"
+      <pubDate>Mon, 23 Nov 2026 01:41:36 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.30.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.99.29"
+                 sparkle:version="16.99.30"
                  sparkle:installationType="package"
-                 sparkle:edSignature="gwucpWJtGcaRComGMqvGcXvazywHKejA0L1MZ7zVT/7y4gk8YB9Ix8TxUx/7scWyAkBDwFcEkZAOumC2ZnGAAQ==" length="36635390"
+                 sparkle:edSignature="AvzkqpCeCJcxQ4mOk89kWkdKrZrQ30Dhg6439LWgQwWCOEkzPGdNjZAPhp4zAtFZYh3IHktyCFhKPmC9F0QADQ==" length="36768214"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
