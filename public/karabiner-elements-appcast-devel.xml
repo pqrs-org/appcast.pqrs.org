@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.99.33</title>
+      <title>Version 16.99.90</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,11 +19,12 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.99.33 Update</h2>
+<h2>About v16.99.90 Update</h2>
 <ul>
 <li>🔔 Important Notes
 <ul>
 <li>After upgrading, enable <code>Karabiner-Elements Privileged Daemons v3</code> under Background App Activity in System Settings.</li>
+<li>When upgrading, a one-time <code>Karabiner-Updater.app can't be opened</code> error may appear after the update. This error can be safely ignored.</li>
 </ul></li>
 <li>💥 Breaking Changes
 <ul>
@@ -78,12 +79,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Tue, 24 Nov 2026 14:07:01 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.33.dmg"
+      <pubDate>Tue, 24 Nov 2026 14:46:56 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.90.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.99.33"
+                 sparkle:version="16.99.90"
                  sparkle:installationType="package"
-                 sparkle:edSignature="zEySPgC5uSdmzHKbOoH/gc0SrCxR5wabsxsqD5YuD08G2i4TYLpNQ11vf6BnTIEJV6vWdbz5GhPMEC3IPXaCDw==" length="36770170"
+                 sparkle:edSignature="aPddE7ZLaXOHhKlodsXlPCtq1ZqhRaazIO916PYhXDXGGS1uPZN4rQToAFg4aI5fZ5lYA6sk95ICueghzbAMAg==" length="36768990"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
