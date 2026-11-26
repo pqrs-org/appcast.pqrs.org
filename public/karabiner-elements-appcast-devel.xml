@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 16.99.93</title>
+      <title>Version 16.99.94</title>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<!DOCTYPE html>
 <body>
@@ -19,7 +19,7 @@ img {
   max-width: 100%;
 }
 </style>
-<h2>About v16.99.93 Update</h2>
+<h2>About v16.99.94 Update</h2>
 <ul>
 <li>🔔 Important Notes
 <ul>
@@ -71,6 +71,11 @@ img {
 <li>Migrated the app icons to the Icon Composer format, and removed the app icon selection setting.</li>
 <li>Added a "Capture macOS Key Events" to EventViewer.</li>
 <li>Added a "Capture mouse wheels" option to EventViewer.</li>
+<li>Supported the following keys:
+<ul>
+<li>generic_desktop::system_power_down</li>
+<li>generic_desktop::system_wake_up</li>
+</ul></li>
 </ul></li>
 </ul>
 <p>
@@ -80,12 +85,12 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 26 Nov 2026 05:43:50 -0000</pubDate>
-      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.93.dmg"
+      <pubDate>Thu, 26 Nov 2026 14:39:17 -0000</pubDate>
+      <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/beta/Karabiner-Elements-16.99.94.dmg"
                  type="application/octet-stream"
-                 sparkle:version="16.99.93"
+                 sparkle:version="16.99.94"
                  sparkle:installationType="package"
-                 sparkle:edSignature="Y/+YerBN8JbvbmPZxvtTkKs1m89mgX/Zc3n7/HtgpixeMgKBKKjN9wEhHSJ6guv0gxlq2qMTUlfqI+xJIuGrCw==" length="36846630"
+                 sparkle:edSignature="J4AalbcS4jCGcOWirX312rsAxHdg7fXqO6WkJoD9nCeUa9waXYkSCVAPBRisN1IckJvR1zpLuAcR4IXsPlc4BA==" length="36849890"
       />
       <sparkle:fullReleaseNotesLink>https://karabiner-elements.pqrs.org/docs/releasenotes/</sparkle:fullReleaseNotesLink>
     </item>
