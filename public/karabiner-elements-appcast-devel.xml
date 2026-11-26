@@ -21,6 +21,10 @@ img {
 </style>
 <h2>About v17.0.0 Update</h2>
 <ul>
+<li>📅 Release date
+<ul>
+<li>Nov 27, 2026</li>
+</ul></li>
 <li>🔔 Important Notes
 <ul>
 <li>After upgrading, enable <code>Karabiner-Elements Privileged Daemons v3</code> under Background App Activity in System Settings.</li>
@@ -31,6 +35,11 @@ img {
 <li>Moved <code>karabiner_cli</code> from <code>/Library/Application Support/org.pqrs/Karabiner-Elements/bin/karabiner_cli</code> to <code>/Applications/Karabiner-Elements.app/Contents/Helpers/karabiner_cli</code>.</li>
 <li>Moved bundled helper apps into <code>/Applications/Karabiner-Elements.app/Contents/Helpers</code>.</li>
 <li>Moved maintenance scripts into <code>/Applications/Karabiner-Elements.app/Contents/Resources</code>.</li>
+</ul></li>
+<li>🔒 Security
+<ul>
+<li>Fixed a race in configuration file ownership checks. On Karabiner-Elements 16.3.0 and earlier, a local attacker on a Mac with multiple user accounts could infer limited information about another user's configuration, such as custom key mappings. <a href="https://github.com/pqrs-org/Karabiner-Elements/security/advisories/GHSA-3xf6-mj44-3q6g">Security advisory GHSA-3xf6-mj44-3q6g</a></li>
+<li>Fixed a race in local IPC authentication. On Karabiner-Elements 16.0.0 through 16.3.0, malware already running on the Mac could obtain focused UI element titles and, where collected, focused window titles if Karabiner-Elements had Accessibility permission. <a href="https://github.com/pqrs-org/Karabiner-Elements/security/advisories/GHSA-rj4j-2pp3-m4ww">Security advisory GHSA-rj4j-2pp3-m4ww</a></li>
 </ul></li>
 <li>✨ New Features
 <ul>
@@ -85,7 +94,7 @@ img {
 </html>
 ]]>
       </description>
-      <pubDate>Thu, 26 Nov 2026 22:58:45 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 23:10:42 -0000</pubDate>
       <enclosure url="https://github.com/pqrs-org/Karabiner-Elements/releases/download/v17.0.0/Karabiner-Elements-17.0.0.dmg"
                  type="application/octet-stream"
                  sparkle:version="17.0.0"
